@@ -1,0 +1,52 @@
+{
+    "app_id": "com.SingTel.mWallet",
+    "category": [
+        "FINANCE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "5.6.4",
+    "description": "Singtel Dash \u2013 the all-in-one mobile e-wallet that lets you pay, remit, save and insure from one app.\nWhether in-store or online, locally or overseas, make secured and easy payments with Dash, and earn Dash reward points as you shop, dine, commute and remit all with the Dash app.\nMake Dash your favourite mobile companion as you can:\nGo cashless\n\u2022 Scan and pay with Dash wherever Dash and Fave is accepted to enjoy unlimited Dash reward points. Plus, enjoy instant FavePay cashback for Fave merchant payments.\n\u2022 Scan and pay with Dash at merchants where PayNow is accepted.\n\u2022 Shop in-store or online worldwide with your Dash Visa Virtual Card\n\u2022 Tap to pay for your bus and train rides\n\u2022 Pay for your taxi rides with no admin fees\n\u2022 Scan and pay for your purchases in Thailand and Japan when you see the VIA\u2122 logo\nSend money locally and overseas\n\u2022 Send money easily to your loved ones and friends for that meal or taxi ride that you just shared, and more\n\u2022 Enjoy secured and simple remittance to Bangladesh, China, India, Indonesia, Malaysia, Myanmar and the Philippines at low fees and competitive exchange rates\nEarn Dash reward points\n\u2022 Earn unlimited points as you make your daily payments and remittance with Dash\n\u2022 Redeem Singtel exclusive vouchers, shopping vouchers, F&B vouchers and many more with your points\nTop up on-the-go, 24/7\n\u2022 Top up your loved ones\u2019 overseas prepaid account with our new data packs and also for airtime, available for 9 countries: Bangladesh, China, India, Indonesia, Malaysia, Myanmar, Philippines, Thailand and Vietnam\n\u2022 Top up your hi! SIM Card and get connected\n\u2022 Top-up easily using a variety of channels \u2013 such as PayNow, direct bank (eNETS), Sheng Siong $TM, SOCASH merchants, 7-11 shops, Singtel shops and exclusive retailers\n\u2018Grow Money\u2019 with Dash PET\n\u2022 Earn higher returns with Dash PET by Etiqa Insurance\n\u2022 Start saving from S$50, capital guaranteed, no lock-in period\n\u2022 Add more protection to increase your returns\n\u2022 Terms apply. This advertisement has not been reviewed by the Monetary Authority of Singapore. Protected up to specified limits by SDIC.\nPlan for your next staycation\n\u2022 Book Agoda hotels and earn cashback\nProtect yourself and what you own\n\u2022 Explore \u2018Insurance\u2019 to get coverage for yourself and your assets\nBe rewarded as you Dash! Check out our latest deals^ and find out more at dash.com.sg\nQuestions? Contact us at 1800-GET-DASH (1800-438-3274).\n^Location services may be disabled to improve battery life\n^Continued use of GPS running in the background can dramatically decrease battery life.",
+    "description_html": "Singtel Dash \u2013 the all-in-one mobile e-wallet that lets you pay, remit, save and insure from one app.<br/><br/>Whether in-store or online, locally or overseas, make secured and easy payments with Dash, and earn Dash reward points as you shop, dine, commute and remit all with the Dash app.<br/><br/>Make Dash your favourite mobile companion as you can:<br/><br/>Go cashless<br/>\u2022 Scan and pay with Dash wherever Dash and Fave is accepted to enjoy unlimited Dash reward points. Plus, enjoy instant FavePay cashback for Fave merchant payments.<br/>\u2022 Scan and pay with Dash at merchants where PayNow is accepted.<br/>\u2022 Shop in-store or online worldwide with your Dash Visa Virtual Card<br/>\u2022 Tap to pay for your bus and train rides<br/>\u2022 Pay for your taxi rides with no admin fees<br/>\u2022 Scan and pay for your purchases in Thailand and Japan when you see the VIA\u2122 logo<br/><br/>Send money locally and overseas<br/>\u2022 Send money easily to your loved ones and friends for that meal or taxi ride that you just shared, and more<br/>\u2022 Enjoy secured and simple remittance to Bangladesh, China, India, Indonesia, Malaysia, Myanmar and the Philippines at low fees and competitive exchange rates<br/><br/>Earn Dash reward points<br/>\u2022 Earn unlimited points as you make your daily payments and remittance with Dash<br/>\u2022 Redeem Singtel exclusive vouchers, shopping vouchers, F&amp;B vouchers and many more with your points <br/><br/>Top up on-the-go, 24/7<br/>\u2022 Top up your loved ones\u2019 overseas prepaid account with our new data packs and also for airtime, available for 9 countries: Bangladesh, China, India, Indonesia, Malaysia, Myanmar, Philippines, Thailand and Vietnam<br/>\u2022 Top up your hi! SIM Card and get connected<br/>\u2022 Top-up easily using a variety of channels \u2013 such as PayNow, direct bank (eNETS), Sheng Siong $TM, SOCASH merchants, 7-11 shops, Singtel shops and exclusive retailers <br/><br/>\u2018Grow Money\u2019 with Dash PET<br/>\u2022 Earn higher returns with Dash PET by Etiqa Insurance<br/>\u2022 Start saving from S$50, capital guaranteed, no lock-in period<br/>\u2022 Add more protection to increase your returns<br/>\u2022 Terms apply. This advertisement has not been reviewed by the Monetary Authority of Singapore. Protected up to specified limits by SDIC.<br/><br/>Plan for your next staycation<br/>\u2022 Book Agoda hotels and earn cashback<br/><br/>Protect yourself and what you own<br/>\u2022 Explore \u2018Insurance\u2019 to get coverage for yourself and your assets<br/><br/>Be rewarded as you Dash! Check out our latest deals^ and find out more at dash.com.sg<br/><br/>Questions? Contact us at 1800-GET-DASH (1800-438-3274).<br/><br/>^Location services may be disabled to improve battery life<br/>^Continued use of GPS running in the background can dramatically decrease battery life.",
+    "developer": "Singtel Idea Factory Pte Ltd",
+    "developer_address": "31 Exeter Road, #18-00 Comcentre I.\nSingapore 239732",
+    "developer_email": "g-dashsvc@singtel.com",
+    "developer_id": "Singtel+Idea+Factory+Pte+Ltd",
+    "developer_url": "https://www.dash.com.sg/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/VEl3q4YIga9h7_VujNz2GTfh8sWFo0Hqu_GsGPXah27C3OpnUj0N3ZQbIMv9OyQ8BA",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "Shares Location, Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.1 and up",
+    "reviews": 17793,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/YKCkBHwIU6i7ftQPWgJBxcMEKhxVGSKq0v7ZYgBJLkBxdpzDtcWLjB0Ze9wKj0cj=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4Tinr_gcVkGpjsqlpXVF_j7O2exYVl-li7evMGrcdMzikjoKnohg8Oy0pevLYy1I6VE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-4cT2voQPPLbTCur4J71_l2Na5qiftfFhaGIVfMxbPpkVzFTASxVN1XZJlqMJwK2Pwj6=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/opXKv8zfiAGXlqc1mJnMj4gI9nB5YoBjq9qXWGs5M3O02aMKB8WsqBUHWxXE45dGsg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4U0DRruHy4d9BFxZuKsFjPOfmripp3DdcOqQc2Ah1kdWAI36i7AHaEA9Cy_9MUACXIg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/o6X8ZxbhAOAP9qUBt8wMLu3eYNEzzYnr2px_ThZ2lL4fJsdT6wUcwuK8eA0NsvyfIFI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/sqYxdlPcr974mIb0R3mQ_49ftoJ5C5JDpslOciukejq9cpM9-X9QmxxScA5DLighoA=w720-h310-rw"
+    ],
+    "size": "66M",
+    "title": "Singtel Dash",
+    "updated": "August 17, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.SingTel.mWallet&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/HxHNq3NAxMU"
+}

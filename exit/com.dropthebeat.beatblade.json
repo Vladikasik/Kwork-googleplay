@@ -1,0 +1,56 @@
+{
+    "app_id": "com.dropthebeat.beatblade",
+    "category": [
+        "GAME_MUSIC"
+    ],
+    "content_rating": [
+        "Teen",
+        "Suggestive Themes, Drug Reference, Language"
+    ],
+    "current_version": "2.5.5",
+    "description": "Beat Blade is an exciting music runner game that offers stunning neon levels and 2021 hit songs. Simply using one thumb to control the character, you can slash the blocks and dodge the traps, reaching the end of the color road.\nRunner + music + rhythm + saber = WOW!\ud83e\udd18\ud83c\udffc\nHow to play:\nSIMPLY choose your favorite song, hold and drag to move your saber character and slash the dot blocks on the beat. Do not Tap! This is not a Tap Tap game.\nKey features:\n1. Amazing color and lighting design for every road\n2. Wide range of popular songs including EDM, Hip Hop, KPOP, Dance, and Piano\n3. Satisfying block slashing effects\n4. Connect with Facebook account and sync the saved progress across multiple devices",
+    "description_html": "Beat Blade is an exciting music runner game that offers stunning neon levels and 2021 hit songs. Simply using one thumb to control the character, you can slash the blocks and dodge the traps, reaching the end of the color road.<br/><br/>Runner + music + rhythm + saber = WOW!\ud83e\udd18\ud83c\udffc<br/><br/>How to play:<br/>SIMPLY choose your favorite song, hold and drag to move your saber character and slash the dot blocks on the beat. Do not Tap! This is not a Tap Tap game.<br/><br/>Key features:<br/>1. Amazing color and lighting design for every road<br/>2. Wide range of popular songs including EDM, Hip Hop, KPOP, Dance, and Piano<br/>3. Satisfying block slashing effects<br/>4. Connect with Facebook account and sync the saved progress across multiple devices",
+    "developer": "BattleCry HQ Studio",
+    "developer_address": "Room 02, 21/F, Hip Kwan Commercial Building, 38 Pitt Street, Yaumatei, Kowloon, HongKong",
+    "developer_email": "beatblade@outlook.com",
+    "developer_id": "BattleCry+HQ+Studio",
+    "developer_url": "https://beatblade.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/S9OBF6iojigrT73l1IweRbFdeXqwA_sw11Sj7lzUx8Dtw4JrWHLF-4JXERqYbSU9doo",
+    "installs": "10,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 323216,
+    "score": "4.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Y_Jvs8G4aiNVK9ze4fY_RUQWLEqcrbAQhOjvuyQ65x9siuIrSRXe8lks2NLH9oY0u3Ja=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nUw3Waw_agha17_sqG1wW7mG5ZfT_9KItWrKcF2r4uNyW9QO6Apl2pAFUJU6wmkcoRo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xnoARonu7qneY8iiAAFw6_EGPErrFjY6Vliekz7Fb1iWZRYBhUK80y9AFHI1pWq9Hw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/t6tRyBdDC1ROJA8_jxfbQTKJKqCMStzqFKXuz-jzbwEddTCjgaprINqML_kZfpHOgw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3AExiD3BvMMpjweTCQalD1BDECcggsyqHJSukubwcWxbzqcJeXou7ydthbXfCJ3BvyU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_8vgLhFxdEYeudMRq8yhp4g7tNi8W8mu4YZZTn47RbG4AS-Scdf1fH1O5o2XefvcgHo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NgrQqCwKcuUIbcxCxFhXTAenmoDVul9EpLnRHlL8errUWV1k088XPPVU3fMDVVV6CNM=w720-h310-rw"
+    ],
+    "size": "106M",
+    "title": "Beat Blade: Dash Dance",
+    "updated": "August 2, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.dropthebeat.beatblade&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/etXjD0aWO1s"
+}

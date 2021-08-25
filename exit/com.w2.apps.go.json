@@ -1,0 +1,57 @@
+{
+    "app_id": "com.w2.apps.go",
+    "category": [
+        "EDUCATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.12.0",
+    "description": "PLEASE NOTE: This app requires a Wonder Workshop robot - Dash or Dot - and a Bluetooth Smart/LE-enabled device to play.\nAll Android devices with Android 4.4.2 (KitKat) and above and Bluetooth Smart/LE can download this app, but we cannot guarantee that it will work on devices not in the list. To find out more, please visit us at: https://www.makewonder.com/compatibility. This app is FREE to play.\n***********************************************************************\nWhew! Dash & Dot have traveled the seas and finally arrived at your doorstep. Now it\u2019s your mission to show them how to play! Get full control of Dash & Dot with the Go app.\nSend Dash on missions to deliver messages, use Dot to act out storybook characters, and go out and explore the world together. Ready, set, Go! This app is just the beginning of coding and playing with Dash & Dot. For ages 5 and up.\nHOW TO PLAY\n- Connect Dash and/or Dot to the Go app using Bluetooth Smart/LE\n- Make Dash & Dot your own by setting their personalities and names\n- Discover how Dash moves with full directional control and multiple speed settings\n- Program the lights to display an array of colors and patterns\n- Make Dash & Dot play fun sounds and animations\nIf you have any questions or suggestions, we would love to hear from you! Contact us at any time at https://help.makewonder.com.\nABOUT WONDER WORKSHOP\nWonder Workshop, an award-winning creator of educational toys and applications for children, was founded in 2012 by three parents on a mission to make learning to code meaningful and fun for children. Through open-ended play and learning experiences, we hope to instill a sense of wonder while helping kids develop their creative problem solving skills. We play test with children throughout our product and app development process to make sure our experiences are frustration free and fun.\nWonder Workshop takes children's privacy very seriously. Our apps do not include any third-party advertising or collect any personal information. For more details, please see our Privacy Policy and Terms of Service.\nPrivacy Policy:\nhttps://www.makewonder.com/privacy\nTerms of Service:\nhttps://www.makewonder.com/TOS",
+    "description_html": "PLEASE NOTE: This app requires a Wonder Workshop robot - Dash or Dot - and a Bluetooth Smart/LE-enabled device to play. <br/><br/>All Android devices with Android 4.4.2 (KitKat) and above and Bluetooth Smart/LE can download this app, but we cannot guarantee that it will work on devices not in the list. To find out more, please visit us at: https://www.makewonder.com/compatibility. This app is FREE to play. <br/><br/>***********************************************************************<br/><br/>Whew! Dash &amp; Dot have traveled the seas and finally arrived at your doorstep. Now it\u2019s your mission to show them how to play! Get full control of Dash &amp; Dot with the Go app. <br/><br/>Send Dash on missions to deliver messages, use Dot to act out storybook characters, and go out and explore the world together. Ready, set, Go! This app is just the beginning of coding and playing with Dash &amp; Dot. For ages 5 and up.<br/><br/>HOW TO PLAY<br/>- Connect Dash and/or Dot to the Go app using Bluetooth Smart/LE<br/>- Make Dash &amp; Dot your own by setting their personalities and names <br/>- Discover how Dash moves with full directional control and multiple speed settings <br/>- Program the lights to display an array of colors and patterns<br/>- Make Dash &amp; Dot play fun sounds and animations<br/><br/>If you have any questions or suggestions, we would love to hear from you! Contact us at any time at https://help.makewonder.com. <br/><br/>ABOUT WONDER WORKSHOP<br/>Wonder Workshop, an award-winning creator of educational toys and applications for children, was founded in 2012 by three parents on a mission to make learning to code meaningful and fun for children. Through open-ended play and learning experiences, we hope to instill a sense of wonder while helping kids develop their creative problem solving skills. We play test with children throughout our product and app development process to make sure our experiences are frustration free and fun. <br/><br/>Wonder Workshop takes children's privacy very seriously. Our apps do not include any third-party advertising or collect any personal information. For more details, please see our Privacy Policy and Terms of Service.<br/><br/>Privacy Policy:<br/>https://www.makewonder.com/privacy<br/><br/>Terms of Service:<br/>https://www.makewonder.com/TOS",
+    "developer": "WONDER WORKSHOP, INC.",
+    "developer_address": "1500 Fashion Island Boulevard, #200\nSan Mateo, CA 94404",
+    "developer_email": "support@makewonder.com",
+    "developer_id": "WONDER+WORKSHOP,+INC.",
+    "developer_url": "https://www.makewonder.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/h774Pl6JsMWBLdEj96McyvHarfOnXui5KOsdWu0XljQqWqu8w2BRyzliUcrji1ZQbw",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 383,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ev24OVSsRUz-GJwsv7JmMcsCeHD8SrHOFmqrCiwhfvyZP5tRlHTunX-f8DBCnKHUjOA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BOE-3WEkTa1uMY4GfHqGPu83c_lLJNuracAeWZ6_n2aV4HmA0QhYK0aIrvaIMEiXEmQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RUx8mISQAFFi411WbLH8WLGC7PhU9R-g8nzMgLBVs3kkwVlQEwyN0mq7dWYaLzgF6Y8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/p4gFuKPdFVQsBFXodTGHYhDGtsJ25eNKbbCrlVqJ6_rC76yJnG8UjTG3IzQqu62ZlXo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pFo7fYS7jgaGe2jxaRoB0znnC9DqLHDDC0vwfXheGTNdDfuT9WiCpKXKB5Rmuxw-LsT9=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CnDi7hwgZLKQDAwFI14RTqoyp9Ja1BO_nZOfuQhfIknkAkm0k7eP6vP7cgf_BqfTIQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/E7yo7s2_jgB3i9fT8bLWllQZDu00VX__mtxrK57DtlSXeR4WgWNrB7bSBLAac2Kqgd0K=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ABcV5_nDlNWFMsVX3n0NyJWCkp8ZJf_8QXFx97BZwrHTYNG4Hwzq6U-Rffqn4PkpQg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-GJbZNW6_Ug71dMYzfm7z3kp0usgvDtjNGfeszPO6XoGmuAzuPDWAmjBEuHZwuIiurE2=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wk851o_-86AxAt2qYQAnD8n5Nubi6xBKjJWxnDsOCepJakZqKr9OExr6PLMuqBGaug=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2F5ZXHbPV3ZF6PIzvvbB5yxrvLZU_2a8m1e-Gbp96tvxuebsNQTSlYGYCesl79ZKTmdQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/X9-rjSwGTNLbWAG9823cvblCaUfwVEIYvoMxnRLkCXRizlX5Je3IBbOd3Cq0b5xoTA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K_ly4Kkj1k-zlsQ_87YN8r8nvzJ2QVfLJHulIIG6pIfsqkacGwU6Eq5mh37qfV-rbKQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kzjPaAR5dluhDK6Xnb6RrYpDZNk9N7ON0ADOYueScCf6AxOr-q46tEwzU7GvZDdQOfA=w720-h310-rw"
+    ],
+    "size": "34M",
+    "title": "Go for Dash & Dot robots",
+    "updated": "June 19, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.w2.apps.go&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

@@ -1,0 +1,51 @@
+{
+    "app_id": "io.getdash.ion",
+    "category": [
+        "FINANCE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.98.52",
+    "description": "Give your employees the power to access funds when they need them while keeping your company's finances under control.\n\"The Future of Expense Management\" - VentureBeat\n\"I can stay agile with relationship building and please my finance team at the same time.\"\n- Jeremy Malander, Head of Customer Success at 1-Page\n\u201cBest Mobile App\u201d - Paybefore Awards 2016\nSpeed\n- Transfer funds to any employee\u2019s card in real time\n- Fill out expense reports in less than sixty seconds\n- Order new cards from the app\nSecurity\n- Suspend cards directly from the app\n- Optionally send funds to cards only as they\u2019re needed\n- Allocate monthly allowances per employee\nInsights\n- See an overview of company spend on employee cards\n- Browse through transaction history to see the who, when, where, and what of every transaction\n- Get notified of company spending in real time",
+    "description_html": "Give your employees the power to access funds when they need them while keeping your company's finances under control.<br/><br/>\"The Future of Expense Management\" - VentureBeat<br/><br/>\"I can stay agile with relationship building and please my finance team at the same time.\"<br/>- Jeremy Malander, Head of Customer Success at 1-Page<br/><br/>\u201cBest Mobile App\u201d - Paybefore Awards 2016<br/><br/>Speed<br/>- Transfer funds to any employee\u2019s card in real time<br/>- Fill out expense reports in less than sixty seconds<br/>- Order new cards from the app<br/><br/>Security<br/>- Suspend cards directly from the app<br/>- Optionally send funds to cards only as they\u2019re needed <br/>- Allocate monthly allowances per employee <br/><br/>Insights<br/>- See an overview of company spend on employee cards<br/>- Browse through transaction history to see the who, when, where, and what of every transaction<br/>- Get notified of company spending in real time",
+    "developer": "Prepaid Technologies Company, Inc.",
+    "developer_address": null,
+    "developer_email": "support@getdash.io",
+    "developer_id": "Prepaid+Technologies+Company,+Inc.",
+    "developer_url": "https://getdash.io",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/O9Dgzw5oSMYd_qBcTvmSDVZXd7IYBnn_uit-Lxqrtwie3ewfYbiEHQjJPX8xQjQjylk",
+    "installs": "5,000+",
+    "interactive_elements": [
+        "Users Interact"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.1 and up",
+    "reviews": 20,
+    "score": "4.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/pj9zA5qqqohmDxSEdDCHmQ7-u7reDdTilOCQZI1GbyViDmzA711SRVBxTsBV6H81hQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/x9L1iKm6NEoWKyhVi7J6rZecLQRaVeiTO27n9ow56lUh66o4eleDgl2yiyphNAP-WVEB=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5s2CfqSzAyUWj1M8HA-_oP9gv2zgagmZkxMtU7BBweKWopxJVUkfsHiNug1HMpmT_rP9=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RS1wV-vu_XP6DMyKCwDhOrkQHwcYaKOGLn428GMaw-LVeZjdBQE9mZKbEgfgCzuP_vg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FdofAydCurHdKND2CEPe5ri8t6JbL7Bmi_JM3DLwonfAlNLXBEq3fJmLeWTL77DVNLrl=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/E30HC9v2hFiGJKBn7wBjkM2XZko4OE3V_FJZSAkThLIXGp2gKWAJTGy35sSriAZV0_c=w720-h310-rw"
+    ],
+    "size": "8.9M",
+    "title": "dash",
+    "updated": "April 23, 2021",
+    "url": "https://play.google.com/store/apps/details?id=io.getdash.ion&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

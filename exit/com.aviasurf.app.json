@@ -1,0 +1,55 @@
+{
+    "app_id": "com.aviasurf.app",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.2",
+    "description": "Aviasurf - is a free flights search and flights purchase service of 800 airlines (including low cost flights and charter flights), 100 agencies and 5 reservation systems. We work closely with jetradar and aviasales.\nOur mobile app gives you the opportunity to buy the cheapest flights of more than 700 airlines all over the world, including American Airlines, United Airlines, Virgin America, LATAM Airlines, Alaska Airlines, Air Baltic, Lufthansa, Air France, Air Berlin, Turkish Airlines, China Southern Airlines, KLM, Emirates, Qatar Airways, Japan Airlines, Etihad Airways, Finnair, SWISS, LOT, All Nippon Airways, British Airways, Air Canada, Qantas, EgyptAir, Aeroflot, Rossiya, Ural Airlines, UTair, S7, Air Astana, Ukraine International Airlines, SCAT Airlines, Belavia, Austrian Airlines, Air New Zealand, Hong Kong Airlines, Bangkok Airways, Virgin Australia, Korean Air, Air China, Qazaq Air, Georgian Airways, and many others, including low-cost carriers, such as, Southwest Airlines, JetBlue Airways, Spirit Airlines, Ryanair, EasyJet, Wizz Air, FlyArystan, AirAsia, Norwegian, Jetstar Airways, WestJet, IndiGo, Eurowings, Scoot, Jetstar Asia, PAL Express, Peach, Vueling Airlines, Air Canada rouge, LEVEL, Citilink.\nAdvantages of avia.surf application:\n- Easy flights search among 728 airlines\n- Tickets purchase directly from your phone\n- A large number of flexible filters\n- Multiple currency support",
+    "description_html": "Aviasurf - is a free flights search and flights purchase service of 800 airlines (including low cost flights and charter flights), 100 agencies and 5 reservation systems. We work closely with jetradar and aviasales.<br/> <br/>Our mobile app gives you the opportunity to buy the cheapest flights of more than 700 airlines all over the world, including American Airlines, United Airlines, Virgin America, LATAM Airlines, Alaska Airlines, Air Baltic, Lufthansa, Air France, Air Berlin, Turkish Airlines, China Southern Airlines, KLM, Emirates, Qatar Airways, Japan Airlines, Etihad Airways, Finnair, SWISS, LOT, All Nippon Airways, British Airways, Air Canada, Qantas, EgyptAir, Aeroflot, Rossiya, Ural Airlines, UTair, S7, Air Astana, Ukraine International Airlines, SCAT Airlines, Belavia, Austrian Airlines, Air New Zealand, Hong Kong Airlines, Bangkok Airways, Virgin Australia, Korean Air, Air China, Qazaq Air, Georgian Airways, and many others, including low-cost carriers, such as, Southwest Airlines, JetBlue Airways, Spirit Airlines, Ryanair, EasyJet, Wizz Air, FlyArystan, AirAsia, Norwegian, Jetstar Airways, WestJet, IndiGo, Eurowings, Scoot, Jetstar Asia, PAL Express, Peach, Vueling Airlines, Air Canada rouge, LEVEL, Citilink.<br/><br/>Advantages of avia.surf application:<br/>- Easy flights search among 728 airlines<br/>- Tickets purchase directly from your phone<br/>- A large number of flexible filters<br/>- Multiple currency support",
+    "developer": "surfavi",
+    "developer_address": null,
+    "developer_email": "info@aviasurf.com",
+    "developer_id": "surfavi",
+    "developer_url": "https://aviasurf.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/BnFtw9W3_XIPw2VSlxLsR-nGLnn-AEFPi6-83NYeP5qIiAmd_QQFE0kGikoY2ZElpVk",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "7.0 and up",
+    "reviews": 154,
+    "score": "5.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/nGNyjIxKSvfF39GoZf8up5SxSk2OgsPyZARx20qybodFXnvr6G35zB3-EnuXEBTxvQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ureRy9-xouJFA2-5DY_uUcNMpg7Z4mQdtvMz8vv5fcD9Jzn17ZWsIEx6Kqs3jP0RWf9u=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lPZ4sumSJ5-0iC99DjUwP_BYJFSoJEGFvAIG0MVHVwng4Dt2s23Mvns44x_4_dJ-50Nf=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oSyOTD4BVdoQ3lH7i-yFl8CALmYh0QN5TX8110iOMHMMuhwRccN6zFGx3Pmov0g31w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7LVE-yTQ5Ou_brtMzII3ogImuBW-C6i6UzDmfYo_BODTh-7jb_gU-HvFP4PCiETh9Fs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Bhm1lIl3tgSqMV4a9M60SoVEfA69m-j5HAcJzohtyCecCzJTVDiMN-QNhJ3h1lEJUJ8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/en4vgchGR_lbkbHB_qfIKvT51PpiHHZxuFS6cfFAvj7GO8lP1FV9gAiqINod9OMfn1A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_y3uTFp5BDvLQRvKr2mNaYwpWKiVOFtK2qx7IFmpwSY5V0znlFMZdKhU_hQS_6uNYwk8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OwgPu4vWitXFFv9_jWpK7pd60Qry_dO1FG4xMwcN5oT6PVHxTfGtNOHLcLUNRzhxkQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lIvv7t0NOS_SkvsgijHAPTJEMk-wZ25D3q84x3HgoxyqcOG4yVVY_kCycAQLW3uCNSzh=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ae3maj-kq-r9_E9hqXNiwt8wZ_9Jx-0T5tczv1yMy_npKvj29ZdlHdovpVVuF6OMtzQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BbCxHjJgb5i2kLawmCBv2K_awoEGyM2BNStlT8ZgXbRmITVCmiVBpT_n-5bmJC0QFg=w720-h310-rw"
+    ],
+    "size": "35M",
+    "title": "Aviasurf - cheap flights",
+    "updated": "June 22, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.aviasurf.app&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

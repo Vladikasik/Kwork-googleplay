@@ -1,0 +1,61 @@
+{
+    "app_id": "com.robtopx.geometrydashmeltdown",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.01",
+    "description": "Prepare for a new Geometry Dash adventure filled with more spikes and monsters than thought possible!\nFlex your clicky finger as you jump, fly and flip your way through dark caverns and spiky obstacles.\nGame Features\n\u2022 Rhythm-based Action Platforming!\n\u2022 Three unique levels with music from F-777!\n\u2022 Unlock unique Meltdown icons and colors to customize your character!\n\u2022 Fly rockets, flip gravity and much more!\n\u2022 Use practice mode to sharpen your skills!\n\u2022 Challenge yourself with the near impossible!\nGeometry Dash answers the age old question: \"What do you get when you mix techno, dubstep, spikes and a rainbow?\" Download and find out...\nApproved by RubRub ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+    "description_html": "Prepare for a new Geometry Dash adventure filled with more spikes and monsters than thought possible!<br/><br/>Flex your clicky finger as you jump, fly and flip your way through dark caverns and spiky obstacles.<br/><br/>Game Features<br/>\u2022 Rhythm-based Action Platforming!<br/>\u2022 Three unique levels with music from F-777!<br/>\u2022 Unlock unique Meltdown icons and colors to customize your character!<br/>\u2022 Fly rockets, flip gravity and much more!<br/>\u2022 Use practice mode to sharpen your skills!<br/>\u2022 Challenge yourself with the near impossible!<br/><br/>Geometry Dash answers the age old question: \"What do you get when you mix techno, dubstep, spikes and a rainbow?\" Download and find out...<br/><br/>Approved by RubRub ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+    "developer": "RobTop Games",
+    "developer_address": "Fresta kyrkv\u00e4g 10\n19454 Upplands V\u00e4sby\nSweden",
+    "developer_email": "support@robtopgames.com",
+    "developer_id": "RobTop+Games",
+    "developer_url": "http://www.robtopgames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/o7hHBVIagQ_rylkmNuIx_sOEzaoAgRSHQhsfBM_C5MV3nJThWC_kkTYaBJJwTnfVc7I",
+    "installs": "50,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0 and up",
+    "reviews": 1753930,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/V-oz7PD_B1Oqz_0b6Wr8Ds4CQP55xkdtrb5w2YyJHKlH4ubnzmLztKPeEPIlukxR14o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LcQhWWVThZoCI8WbehtasmIHNvFMAtUxo_gyQNBW_kZ78CJW05rM3wea8rIz31cvJgs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vO2rsRytpJVBKOvkeZCkOvbVZ5QumAxZwWMtgWHZ6n6IpuYL62RTJ0vAEcAS55I5Gg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0CIBp3h4F0Lc-vB7B7ov7nYZun9_Ihq0kBvgg9FkWq3Kkv_m9snmp-m-OCFzC6RjndQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/sQTAduW_fB2mJDTKCVT-DxA_P-6WGMweq2iBdROzuQdaJh-UWF-OPGW9Pkoq2Pi9Dmo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Aew9T3DMnBFczLQ90lKe2ayCID-AL6zKdPN1vqGbvrkT0W7nnfdR9tGNxu5mTJxvbg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lr5KvhunnqjcsdJaXuFhkCXGCdUC2XOE4qGgss_MyE0pPC7YnES5Z_mlzStzJyZ6bA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/n_EQ3CZHmWJUJy_ZiDXEg-8kLSi4EYohLa8Oao3uSxXztPZYmYSBU88oJOZp3ipGfxI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NttG-hxGibEOs-AEnLkuvr5rbjt7HxhWAbGe6ci2xTXbfguPNWnQ_-ZzoEIlgRBjUUA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/h-O2S7-s_-2NY1wprEVtk0JvxUf67050ShTD0vB0XpVzYrNtNW3N6osCu2pH09Tt82EI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oM8qcaRnBFfwvNPyc9bgxb7ewywHesUGzZNBvaHZ3-1zPgMrLW-0imqQSHIxMMDIPpts=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/70oOxIP5TF5XCXs2tn-pwWZmRRRZvvZNrGvWLAu1LGMnmN82sb96HM87Rh7yi7kpjLgS=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Z-3eYveGW2YiVmE0Bs81o7jBk0asFTv3t2Nwgs4burPglxp8-6uBDc1c88TIU2wyDQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Mp4Yrt_Qiwuth_CmGXjA2IGyxoIOpxr6ZBVIoNG3sbe4PK1pOp9b8nZcpoc7Q3O2s94=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9cFniNIgmU2AJRrScHIGCMUcADKfewr1Ct74OaDE9slIhk30NRt7yp0WK7r10p8Pdd0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wVpq4Yhw_Ut1YNcFJgGJ9UAErhUESFygBt47yFmEEIHjGjDpc7A5VD1-7IATydfTmLk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LDAdEYLhRZJz3PAl6pPiJ6uG_B9Qp3eEyGjzUIwQpUhnAScLoAAqwQ6uF-YHkJeiGc8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SjC9xABeopmb3ap9Q79j-U7mWxD482yq_41KfxJvxgkvpxpZ_a1KqlxzFtzPsDb6Z5I=w720-h310-rw"
+    ],
+    "size": "48M",
+    "title": "Geometry Dash Meltdown",
+    "updated": "December 9, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashmeltdown&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/muEvsozBnyE"
+}

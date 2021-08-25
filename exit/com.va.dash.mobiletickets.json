@@ -1,0 +1,50 @@
+{
+    "app_id": "com.va.dash.mobiletickets",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.18.6771",
+    "description": "DASH Bus is the official mobile ticketing app for DASH! The DASH Bus app lets you purchase and use fares instantly on your phone\u2014anywhere, anytime. No need to fumble for cash or paper tickets anymore.  Simplify your travels with DASH by downloading the free app, purchasing your ticket and enjoying the ride.\nWhy you\u2019ll love DASH Bus\n\u25cf   Frictionless travel - No more cards; no more waiting for funds to be added.\n\u25cf   Get going faster - No need to carry cash, dig out a farecard or worrying about finding a ticketing machine.\n\u25cf   No cash, no problem - Instantly buy and use fares using your debit/credit card, or Paypal  account.\n\u25cf  Travel with freedom - Buy a single fare or multiple for your friends and family\nHOW IT WORKS:\n1. SELECT TICKET TYPE\n2. CHOOSE QUANTITY\n3. CHECK OUT\n4. ACTIVATE YOUR TICKET JUST BEFORE BOARDING AND SHOW YOUR TICKET TO THE OPERATOR OF THE VEHICLE.",
+    "description_html": "DASH Bus is the official mobile ticketing app for DASH! The DASH Bus app lets you purchase and use fares instantly on your phone\u2014anywhere, anytime. No need to fumble for cash or paper tickets anymore.  Simplify your travels with DASH by downloading the free app, purchasing your ticket and enjoying the ride.<br/> <br/>Why you\u2019ll love DASH Bus<br/> <br/>\u25cf   Frictionless travel - No more cards; no more waiting for funds to be added.<br/>\u25cf   Get going faster - No need to carry cash, dig out a farecard or worrying about finding a ticketing machine.<br/>\u25cf   No cash, no problem - Instantly buy and use fares using your debit/credit card, or Paypal  account.<br/>\u25cf  Travel with freedom - Buy a single fare or multiple for your friends and family<br/> <br/>HOW IT WORKS:           \t<br/>1. SELECT TICKET TYPE<br/>2. CHOOSE QUANTITY<br/>3. CHECK OUT<br/>4. ACTIVATE YOUR TICKET JUST BEFORE BOARDING AND SHOW YOUR TICKET TO THE OPERATOR OF THE VEHICLE.",
+    "developer": "Alexandria Transit Company",
+    "developer_address": null,
+    "developer_email": "dashbus@alexandriava.gov",
+    "developer_id": "Alexandria+Transit+Company",
+    "developer_url": "https://www.dashbus.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/Yui3WwRsPMg6J3jvfLWVKwhM6AJHnhp40H9dimLKhSOwmNRUq3onJKy5TP_JZjRsqTS4",
+    "installs": "1,000+",
+    "interactive_elements": [
+        "In-App Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 31,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/WUvlKa_T-XOayXKGqBwQkIone2A6blhmFL-zYTppOo-mftu9pz1GqHRahk66MoE0Umr4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/eAUROyZJVg3ImGIsT9jdi6a9DiibdQ3SIU-PaY4s1WEjoJxKl-_RkfVXj4fOj3FtG4PN=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/sdLRMDUyoDtf-CubVDD8QLyl-B2bNL42TjA-pdPdI7w90MwpPixpmCAhchjoGTU-jEA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Z6c2-7_2Wim0ROzMTd5zBXrOQJY9vqKRuxLH6es8Qqq6rF2dyQ77QJI6kfC6BUXoSn8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Qb9YQr2cFbKZ8J9PjM8q31DXkoeKCrCRZy93hPTCg9YixNz3lPs4Sq9TOnbwKjLEzw=w720-h310-rw"
+    ],
+    "size": "21M",
+    "title": "DASH Bus",
+    "updated": "April 22, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.va.dash.mobiletickets&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

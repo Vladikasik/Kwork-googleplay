@@ -1,0 +1,48 @@
+{
+    "app_id": "hashengineering.darkcoin.wallet",
+    "category": [
+        "FINANCE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "7.3.2",
+    "description": "Dash Wallet is the reference Android wallet maintained by Dash Core Group for Dash - Digital Cash - an innovative alternative to Bitcoin which is explicitly designed for payments.\nDash is a cryptocurrency that seeks to fix the flaws that other cryptocurrencies suffer from. It relies on a network of Masternodes to allow such things as optional privacy, instant transactions, and a direct funding mechanism to promote network growth.\nIntuitive and secure, Dash Wallet gives you complete control over your digital cash. Send and receive Dash payments instantly, with the safest mobile wallet available.\nDash Wallet connects directly to the Dash network. This means that there are no servers to get hacked or go down - your funds are always safe. Even if your phone is lost, damaged or stolen, you can easily recover your funds using your personal recovery phrase.\nFeatures:\n* Send and receive Dash payments in seconds, online or in-person\n* One button payments to Dash-accepting merchants and websites\n* Pay quickly with biometric authentication\n* Sweeping of paper wallets (e.g. those used for cold storage)\n* 3rd party integrations to allow users to buy and sell Dash\n* Simple recovery phrase enables you to recover funds when your device is lost or changed\n* Flexible settings to meet a range of custom security preferences\n* Direct dash network client - no central server to get hacked or go down\nDash Wallet is open source and free. Network fees are lower than most cryptocurrencies and there are no additional centralized costs. Send any amount of money to anyone in the world in seconds. Accept payments reliably and instantly at your business. This is how money should be.\nCONTRIBUTE\nDash Wallet is open source and free software. License: GPLv3\nhttps://www.gnu.org/licenses/gpl-3.0.en.html\nOur source code is available at GitHub:\nhttps://github.com/dashevo/dash-wallet\nAll translations are managed via Transifex:\nhttps://www.transifex.com/dash/dash-mobile-wallets/\nYou can find more about Dash at\nhttps://www.dash.org/\nv7.0.0 Upgrade\nDash Wallet v7.0 brings with it a completely redesigned experience that seeks to enhance ease of use in an intuitive and familiar way across all your devices. We reimagined our recovery phrase verification process to highlight the importance of safeguarding this information for later wallet recovery, and users can now decide when they want to take the time to write down their 12-word recovery phrase. We have also added shortcuts to the home screen for quicker access to commonly used features and our menu has been repositioned in the app and organized to help users configure their wallet faster and more efficiently. Users now have much broader control over their security settings and the ability to decide how frequently they have to enter their pin code.",
+    "description_html": "Dash Wallet is the reference Android wallet maintained by Dash Core Group for Dash - Digital Cash - an innovative alternative to Bitcoin which is explicitly designed for payments.<br/><br/>Dash is a cryptocurrency that seeks to fix the flaws that other cryptocurrencies suffer from. It relies on a network of Masternodes to allow such things as optional privacy, instant transactions, and a direct funding mechanism to promote network growth.<br/><br/>Intuitive and secure, Dash Wallet gives you complete control over your digital cash. Send and receive Dash payments instantly, with the safest mobile wallet available.<br/><br/>Dash Wallet connects directly to the Dash network. This means that there are no servers to get hacked or go down - your funds are always safe. Even if your phone is lost, damaged or stolen, you can easily recover your funds using your personal recovery phrase.<br/><br/>Features:<br/><br/>* Send and receive Dash payments in seconds, online or in-person<br/>* One button payments to Dash-accepting merchants and websites<br/>* Pay quickly with biometric authentication<br/>* Sweeping of paper wallets (e.g. those used for cold storage)<br/>* 3rd party integrations to allow users to buy and sell Dash<br/>* Simple recovery phrase enables you to recover funds when your device is lost or changed<br/>* Flexible settings to meet a range of custom security preferences<br/>* Direct dash network client - no central server to get hacked or go down<br/><br/>Dash Wallet is open source and free. Network fees are lower than most cryptocurrencies and there are no additional centralized costs. Send any amount of money to anyone in the world in seconds. Accept payments reliably and instantly at your business. This is how money should be.<br/><br/>CONTRIBUTE<br/><br/>Dash Wallet is open source and free software. License: GPLv3<br/>https://www.gnu.org/licenses/gpl-3.0.en.html<br/><br/>Our source code is available at GitHub:<br/>https://github.com/dashevo/dash-wallet<br/><br/>All translations are managed via Transifex:<br/>https://www.transifex.com/dash/dash-mobile-wallets/<br/><br/>You can find more about Dash at<br/>https://www.dash.org/<br/><br/>v7.0.0 Upgrade<br/>Dash Wallet v7.0 brings with it a completely redesigned experience that seeks to enhance ease of use in an intuitive and familiar way across all your devices. We reimagined our recovery phrase verification process to highlight the importance of safeguarding this information for later wallet recovery, and users can now decide when they want to take the time to write down their 12-word recovery phrase. We have also added shortcuts to the home screen for quicker access to commonly used features and our menu has been repositioned in the app and organized to help users configure their wallet faster and more efficiently. Users now have much broader control over their security settings and the ability to decide how frequently they have to enter their pin code.",
+    "developer": "Dash Core Group Inc.",
+    "developer_address": null,
+    "developer_email": "support@dash.org",
+    "developer_id": "Dash+Core+Group+Inc.",
+    "developer_url": "https://dash.org",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/5gpnez2n8oxF4f2EpegHUUrx0C2kYt8xeEcGA17fXnR5fQXu9G5AF_qzUUtQws5l8Uc",
+    "installs": "500,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 1589,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/oCSEcI1DC_nu4B86aSPdvjlmmlvVhS6WKcQ9Obd3QuiT2BvN5if3-sW-1yMpxpZDmw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wW0_STunOfmb08cxkVcbd3ms7NvTVDgsunjC8R1gkRauoo5Xabpn4-TSBjL-q-pteA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/06frRBWT0J_MN9recrPb7qgdWd-g7e610HuJf41qD5f7IIlBaQJlR8Qwaa83ZS8erfc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4n0uSRRn1nUqfvWWIjEaOwa4oLgzFipd4SRF_f-u8ANHB6WU4uq4Hu62_yuMQtc0WKg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1yYzgf6okaLZE_gvZOckmIlrioHc4gGF3wNN8axb7NqqoF23ke1vZItYsR9G3HK97g=w720-h310-rw"
+    ],
+    "size": "17M",
+    "title": "Dash Wallet",
+    "updated": "August 19, 2021",
+    "url": "https://play.google.com/store/apps/details?id=hashengineering.darkcoin.wallet&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

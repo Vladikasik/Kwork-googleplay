@@ -1,0 +1,52 @@
+{
+    "app_id": "com.icrealtime.dash",
+    "category": [
+        "HOUSE_AND_HOME"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.6.0",
+    "description": "Professional standalone camera products, now with a doorbell offering and cloud-based storage!\nThe DASH app is a platform for users of ICRealtime camera hardware. It enables users to deploy, configure, and access their DASH series ICR products (Dinger, etc), as well as receive notifications when someone walks by or rings their Dinger series doorbell.\nThe DASH app also supports cloud recording for supported hardware. If you need to extended the storage duration of your device, consider using DASH's built-in cloud storage services for your surveillance footage!",
+    "description_html": "Professional standalone camera products, now with a doorbell offering and cloud-based storage!<br/><br/><br/>The DASH app is a platform for users of ICRealtime camera hardware. It enables users to deploy, configure, and access their DASH series ICR products (Dinger, etc), as well as receive notifications when someone walks by or rings their Dinger series doorbell.<br/><br/><br/>The DASH app also supports cloud recording for supported hardware. If you need to extended the storage duration of your device, consider using DASH's built-in cloud storage services for your surveillance footage!",
+    "developer": "ICRealtime",
+    "developer_address": "3050 N Andrews Ave Ext, Pompano Beach, FL 33064",
+    "developer_email": "tech@icrealtime.com",
+    "developer_id": "ICRealtime",
+    "developer_url": "http://icrealtime.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/Zv_ddNJCUPQQ4eELBFvILPsV3_bpANj2cExMjPGA0ECWWy1hHI-lpBcdBeWrSq4UQOo",
+    "installs": "1,000+",
+    "interactive_elements": [
+        "In-App Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 11,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/cGqrlqcPywtq2PpqRYKpJogC57GE2d_sF0Mk3HCLQ9s67ul3qHFKeDmFdw4Gvm7ptpg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9H_W8tmCRo9TnnYLzIZCM_Hw_lFX-aVog2kPS50ZakMJ1hOcDqqNafIUfFG8p8oVC0U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/e4NTfQqPC5f10G_OSp8LVnmcbzGDYBbMbrMJdcG1ahi76IQLUwbGDLS4VnSjk7ubCWI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_X8ChGJBqwHaCMi2fzV3rNMrq2PbGq7Guwj2Zpvms0vLcTBLQHhkRaw3zGmLLFGJ68Ux=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QQoZ63J4j-vFcSHCl0Px7ZirrmpHw2SkvPpgXQqTATB_RiVSbHCMYEgPMg-o8rG9_D-n=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/c1EM5BNAd_RKeE9mtFwXeBH2VzgwoMdL2W6P6sDsbuHvr3ROMzR5jhOzfPUYTbSlrw0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fDVgYmtOCU-vFjDmqS1eUgtbsAJKk2BLPGPP8zt1GgF1Dzl4cAhA7X86hOeapwrfJZKA=w720-h310-rw"
+    ],
+    "size": "79M",
+    "title": "Dash",
+    "updated": "March 15, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.icrealtime.dash&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

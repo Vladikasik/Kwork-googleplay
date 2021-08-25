@@ -1,0 +1,45 @@
+{
+    "app_id": "com.DeusCraft.DeliveryDash",
+    "category": [
+        "GAME_STRATEGY"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "Start your own delivery business! Be the coolest boss around!\nEveryone is hungry! Develop your own chain, and deliver everything from French fries to ice cream!\nTransform your business from a humble service into a giant delivery business. The more deliveries you make, the more money you'll earn! Just don't run out of gas!\nDelivery Dash is a casual strategy game in which the success of your business depends on your skills.\nHighlights:\n- Easy gameplay\n- Lots of different tasks to keep you entertained\n- Delightful animation and 3D graphics",
+    "description_html": "Start your own delivery business! Be the coolest boss around!<br/><br/>Everyone is hungry! Develop your own chain, and deliver everything from French fries to ice cream!<br/><br/>Transform your business from a humble service into a giant delivery business. The more deliveries you make, the more money you'll earn! Just don't run out of gas!<br/><br/>Delivery Dash is a casual strategy game in which the success of your business depends on your skills.<br/><br/>Highlights:<br/>- Easy gameplay<br/>- Lots of different tasks to keep you entertained<br/>- Delightful animation and 3D graphics",
+    "developer": "DeusCraft",
+    "developer_address": "Diagorou 4, KERMIA BUILDING, 2nd floor, Flat/Office 204, 1097, Nicosia, Cyprus",
+    "developer_email": "dcgamepub@deuscraft.com",
+    "developer_id": "5059867847256046132",
+    "developer_url": "https://www.deuscraft.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {},
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/5dDC8XfjHpG-nAlvY0yi1bq63TLICLZtNxbkg0dUf7svlH1LVBPA3JdxCoHqHGPhxg",
+    "installs": "5,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 0,
+    "score": null,
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/5PRTY712k2x4CUjET1tmcRiUv5pvVUenxBlSRqOx8XbwoNs_fvfylH-e7HZiKi3jkQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WQyf1gUTW5zSf5X7LSNIr5dOnS3RzvymU0A4ljU03XWKFjyp5d4unM7J6eWlYKJZOi0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5hJiVru0kMGIerUjgXViKs1LV9pCuh1zC7nsQDIg31Y8MBBf5vGhVZAOVI-t7IRAlMwO=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "Delivery Dash",
+    "updated": "August 23, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.DeusCraft.DeliveryDash&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

@@ -1,0 +1,60 @@
+{
+    "app_id": "com.Born2Play.StackyDash",
+    "category": [
+        "GAME_ACTION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.8",
+    "description": "Swipe your finger to move across the stage and collect all the tiles !!!",
+    "description_html": "Swipe your finger to move across the stage and collect all the tiles !!!",
+    "developer": "Supersonic Studios LTD",
+    "developer_address": "Menachem Begin 121, Tel Aviv",
+    "developer_email": "support@supersonic.com",
+    "developer_id": "Supersonic+Studios+LTD",
+    "developer_url": "http://www.supersonic.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/j2eF-FPYj7_ke8378B_PwZZGgEYHv495enkpwRxw6oa17f370sebQEjJMM8njGI89sQ",
+    "installs": "50,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 149598,
+    "score": "3.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/VlvwMf9WyS_et6RkyfxNvXYrFQwfG58I7WPyels2kmQjGbJlqbl0bpF_63oZiWidow=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zhAORxgLvsv5KquBH5LN2dLZ-51PmCwCq7EB9wtKDFXz1cCLr7Jc1OMNd_qfSJG8olQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fa8XbSzGnwsmPo9bzWSltyuo6IDG6CIJjHW5izFJIdg9BqFex7cPsnMNkcla1WuBJQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gAwATMmW6Ck0dEpNwiujQIPoUdq6pAi2Y8anu0Fbeg_UpQJe5Isiwbl48zVHzouOj2Tt=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ukPCuidk0-2lyGOd1i5BUytZzL2x9jlR7VrEUVhjVyZIWYXaR_ScRPXhI8Nea4g6lNc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/smAuj3a-DPI-wXTElDpRoEuuB4iRl8S8MrPp3yb8_RSUBLvApXYGsSm0XeRnHfQmuyM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_pvouWIs5CLV4tsEORV_U9TQ-Z7ixc9RCe3EWQz3S3P5_PTVMqnJlJPZEYuBbLuHbm0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/EuIQx9R31YFsbKt0cNcaoqGQAIdolDizK4rcxWLTKuzpCxVHCZRywp22NdTcnM1QKw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V3leA6VDZWkBMkXt6TYRxL5Yh5eCHArt9NVZaPRshCom_f-2GmITk0NMfh7ZYsmtxjzq=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mFy3bxRi7-dsCRGOA4OkMF5kRjtnGxL_FN_BZHcDfFCLivi-8C-Fw9v_I3_2aofMWy0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/DHcxrVC1Z3TEdICJXGsb4woGV87RvNmX6CumE2Q0gBwPlFpkGaTzzeusxt2kQVvVrKY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/uQzgwpgkfO07jpsfJQyUyOP5NHc9jW2yQNzB9BwpftFowgmw_0MnrBLlEVDNyeWmglY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/y8GJZZHs0DAdJp380tRvi3JV8SSlcLFSKcn_BRkiI_PM-BCZEb_GcAuIF1NBSOrNow=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Oxx5SVCD45StRCh2dU6Re7L44LMjR6snsIOdhVBXAB9P-z_xWmSyqh8Mx7GU0ZrEikw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6K4So92wsdjfAIA03LwW6VlSOWscwqivLYJX9p4CkeHODo9vAPMO7zBR14AwC9uhgg=w720-h310-rw"
+    ],
+    "size": "65M",
+    "title": "Stacky Dash",
+    "updated": "August 22, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.Born2Play.StackyDash&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

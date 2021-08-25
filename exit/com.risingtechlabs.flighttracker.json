@@ -1,0 +1,48 @@
+{
+    "app_id": "com.risingtechlabs.flighttracker",
+    "category": [
+        "MAPS_AND_NAVIGATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.0",
+    "description": "Do you want to find out the current position of a family member's plane? No problem, with the Flight Tracker App you can quickly and easily track flights from now on. The flight tracking is done in real time.\nTop Features:\n\u2714\ufe0f Smooth design\n\u2714\ufe0f Easy menu\n\u2714\ufe0f All relevant flight information (type of the plane, flight level, speed, departure time and the time of arrival of the respective air route)\n\u2714\ufe0f Current position & Total Airway\n\u2714\ufe0f Worldwide Flight Schedules / Timetables\n\u2714\ufe0f Flight Board\n\u2714\ufe0f All arrival and departure information\n\u2714\ufe0f Worldwide Airport Map\n\u2714\ufe0f Flight Time Calculator\n\u2714\ufe0f Airport Wifi-Map\n\u2714\ufe0f & much more\nDo you want to check, which planes are currently flying above your house or identify the point of departure, type of aircraft and airline at the same time? Do you want to just find out where family members, friends or business partners are, because you are tired of worrying? No problem - you have these bits of information at hand thanks to Easy Flight Tracker!\n\u2714\ufe0f Download Easy Flight Tracker for free",
+    "description_html": "Do you want to find out the current position of a family member's plane? No problem, with the Flight Tracker App you can quickly and easily track flights from now on. The flight tracking is done in real time.<br/><br/>Top Features:<br/>\u2714\ufe0f Smooth design <br/>\u2714\ufe0f Easy menu<br/>\u2714\ufe0f All relevant flight information (type of the plane, flight level, speed, departure time and the time of arrival of the respective air route)<br/>\u2714\ufe0f Current position &amp; Total Airway<br/>\u2714\ufe0f Worldwide Flight Schedules / Timetables<br/>\u2714\ufe0f Flight Board<br/>\u2714\ufe0f All arrival and departure information<br/>\u2714\ufe0f Worldwide Airport Map<br/>\u2714\ufe0f Flight Time Calculator<br/>\u2714\ufe0f Airport Wifi-Map<br/>\u2714\ufe0f &amp; much more<br/><br/><br/>Do you want to check, which planes are currently flying above your house or identify the point of departure, type of aircraft and airline at the same time? Do you want to just find out where family members, friends or business partners are, because you are tired of worrying? No problem - you have these bits of information at hand thanks to Easy Flight Tracker!<br/><br/><br/>\u2714\ufe0f Download Easy Flight Tracker for free",
+    "developer": "Rising TechLabs",
+    "developer_address": null,
+    "developer_email": "rising.techlabs@gmail.com",
+    "developer_id": "Rising+TechLabs",
+    "developer_url": "https://www.dropbox.com/s/ux9if1hv03qo8jn/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pdf?dl=0",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/OHq-uz3KVK4W_i2sCbXP2t2Dm1Ti331odVY-Mq9bhkLrL4E9Z9qeqgZGtmdPfZFPEhE",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 1442,
+    "score": "4.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Z2H8S1Y1PHJMJ7sm6Z9ldvWLD42VEaso5bxLzvNOuAGQ0gzreGzQ-vQl-CK6s3cJDis=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Si4l64anbWgSNjG5yFTUgKxYw-XYi6wxoZ9s7zNmnPxGtZJ9To6QWQ6CisktOzyS1Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Dkk0wVcCqgpAdfv_dbE01fjPpRC-K_R3U9VOcVSexrZMMvgHgg13XARY0ZAzlwbBeQk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yMSAEhkt8qOjaFW2AG1vNjVO8621v53gbMMsnc9LB8dsdmD-c12Bkw6aZQfDHI9ECn0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/b17vZQyELDSSz0-SRCeHwbDW1DkhwO5onnxJnh4e5KHlbh7Pr_dqNaLYYgJGA1HgmDI=w720-h310-rw"
+    ],
+    "size": "20M",
+    "title": "Easy Flight Tracker \u2714\ufe0f Free Flight Radar",
+    "updated": "August 14, 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.risingtechlabs.flighttracker&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

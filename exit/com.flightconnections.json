@@ -1,0 +1,51 @@
+{
+    "app_id": "com.flightconnections",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0",
+    "description": "FlightConnections is the Swiss army knife that should not be missing in your travel toolkit. It\u2019s one of the best tools for travel hacking, trip planning and travel inspiration.\nWant to know where you can fly from your local airport? Need to know which airlines are operating? Prefer to fly with a specific alliance only? FlightConnections is here to help!\nFlightConnections provides an overview of all flight routes worldwide. Flight schedules and timetables from every airline in the world (900+) for 12 months ahead are presented in a very convenient way. Within seconds, FlightConnections provides you with schedule information of any flight route, operated by any airline.\nFind the most convenient flight route at the most convenient departure time. Search for flights with up to 2 stops and filter down extensively: to show flights and airports operated by a specific airline or alliance only (very useful for award travelers).\nEven the most seasoned travel gurus, travel professionals and travel agents, award travelers and non-revs, cabin crew and pilots are using FlightConnections daily.\nDon't waste hours searching flights, use FlightConnections!\nFLIGHTCONNECTIONS MAIN FEATURES\n\u2022 Interactive Flight Route Map.\n\u2022 Plan a trip based on your preferred local airport.\n\u2022 Find new, nearby airports on the map.\n\u2022 Filter by airline or alliance.\n\u2022 Discover airline routes and flight schedules / timetables.\n\u2022 Compare direct flights or connections flights.\n\u2022 Show connecting flights with one or two stops.\n\u2022 Show connecting flights with different airlines, or the same airline only.\n\u2022 Find cheap flights and book flight tickets for the best price available.\n\u2022 Useful for frequent travelers, travel professionals, cabin crew and pilots, backpackers and digital nomads.\nAny questions or feedback? Contact us at:\ncontact@flightconnections.com",
+    "description_html": "FlightConnections is the Swiss army knife that should not be missing in your travel toolkit. It\u2019s one of the best tools for travel hacking, trip planning and travel inspiration.<br/><br/>Want to know where you can fly from your local airport? Need to know which airlines are operating? Prefer to fly with a specific alliance only? FlightConnections is here to help!<br/><br/>FlightConnections provides an overview of all flight routes worldwide. Flight schedules and timetables from every airline in the world (900+) for 12 months ahead are presented in a very convenient way. Within seconds, FlightConnections provides you with schedule information of any flight route, operated by any airline.<br/><br/>Find the most convenient flight route at the most convenient departure time. Search for flights with up to 2 stops and filter down extensively: to show flights and airports operated by a specific airline or alliance only (very useful for award travelers).<br/><br/>Even the most seasoned travel gurus, travel professionals and travel agents, award travelers and non-revs, cabin crew and pilots are using FlightConnections daily.<br/><br/>Don't waste hours searching flights, use FlightConnections!<br/><br/><br/>FLIGHTCONNECTIONS MAIN FEATURES<br/><br/>\u2022 Interactive Flight Route Map.<br/>\u2022 Plan a trip based on your preferred local airport.<br/>\u2022 Find new, nearby airports on the map.<br/>\u2022 Filter by airline or alliance.<br/>\u2022 Discover airline routes and flight schedules / timetables.<br/>\u2022 Compare direct flights or connections flights.<br/>\u2022 Show connecting flights with one or two stops.<br/>\u2022 Show connecting flights with different airlines, or the same airline only.<br/>\u2022 Find cheap flights and book flight tickets for the best price available.<br/>\u2022 Useful for frequent travelers, travel professionals, cabin crew and pilots, backpackers and digital nomads.<br/><br/><br/>Any questions or feedback? Contact us at:<br/>contact@flightconnections.com",
+    "developer": "FlightConnections.com",
+    "developer_address": "Bruggertstraat 1\n\n7545 AP\n\nEnschede\n\nNetherlands",
+    "developer_email": "contact@flightconnections.com",
+    "developer_id": "FlightConnections.com",
+    "developer_url": "https://www.flightconnections.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/MNe6qUPu1MHJO8oF1cNvh7LWu_SgrJdNGmm3Nx_j0ZpxSg2JUBxmg3XgOTGVh7mrwIUR",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.1 and up",
+    "reviews": 156,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/o8kTf-8CVr2RZqZt9nW8wyPtQuELy8l05EHDVFdJFOPurToPCM3DhPVbgkhe3uW5Dg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vyaHQ6Y8owCVUBvZWhuogk5fO25Ywkf9Q9YTumYuYWyewAEK7R3VSYYPc-Pa6RxLKR0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0EInQcipyLeJsAFM_B09GNjqCfkflDuVWRMQcTms4ZmZeqId7OAIZZSBJCEVoda0TcU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FEmcffcmBEZpa7GXZLEVGHTlIUZDqIbJjECSQAF_dSOCEEDp0g4_9rkG5TidBxs9zZY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vPdul_O5dXS__P1doPWEiAb_JTCZNRrQqopkVcg-ARplnT9d3ofu7AjFvPQEO0W-szMG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yO0ieHRA7AdMaTtVmhxykWpLfBmZ3w1rL4kvqJzB0oXx3WokaqaRZE6xJ_fLvYrCJQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lTO-sp5vVJ2_LrmEppl7JdJcDcpGOJA6feOdC19u7b92Bzo65mrZ_7mP8bLjsS0uV-Y=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pvhs2rPOHtjbI4pL5hhuOOVWVFOQ7SqxMN8fzM8yeFunZrW-2igvL1rDx2SixtDu4g=w720-h310-rw"
+    ],
+    "size": "3.6M",
+    "title": "FlightConnections - Worldwide Flight Route Map",
+    "updated": "July 11, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.flightconnections&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

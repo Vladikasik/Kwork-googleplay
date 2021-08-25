@@ -1,0 +1,52 @@
+{
+    "app_id": "com.doordash.driverapp",
+    "category": [
+        "BUSINESS"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "6.42.0",
+    "description": "Enjoy the freedom to be your own boss and earn money on your schedule. Plus, get 100% of your tips, always.\n*    EARN WITH NUMBER ONE   *\nMake money delivering with the #1 Food & Drink Delivery app, available in 7,000+ cities.\n*   GET PAID FAST   *\nCash out daily, get free weekly direct deposits, or get daily deposits with no fee using DasherDirect Business Prepaid Visa Card.\n*   START RIGHT NOW   *\nSign up to deliver in minutes. You only need your smartphone and transportation (bike, car, scooter, or motorcycle) to start.\n*   BE SUPPORTED   *\nYour app will show you where you\u2019re going and when to get there. Plus 24/7 help is available if you need it.\n*   SET YOUR OWN SCHEDULE   *\nChoose your own hours and enjoy flexibility over hourly, seasonal, or full-time work. Start and stop whenever you want.\n*   FIND WORK NEAR YOU   *\nWork wherever you want. DoorDash is available in 4,000+ cities across the U.S., Canada, and even Australia. In select markets, you\u2019ll be able to accept orders from Caviar, too!\n*   RESTAURANTS AND MORE   *\nMake money by completing deliveries from restaurants, convenience stores, grocery stores, and pet stores, too.\nDoorDash is available in over 4,000 cities in all 50 U.S. states, including Washington, D.C. and Puerto Rico; over 80 cities in Canada; and Melbourne, Australia, with more coming soon.\nFind out if we\u2019re in your area and learn more here: doordash.com/dasher/signup\nCaviar Couriers can sign up using the DoorDash - Driver app\nThe DasherDirect Business Prepaid Visa Card is issued by Stride Bank, N.A., member FDIC, pursuant to license from Visa U.S.A. Inc.",
+    "description_html": "Enjoy the freedom to be your own boss and earn money on your schedule. Plus, get 100% of your tips, always.<br/><br/>*    EARN WITH NUMBER ONE   *<br/>Make money delivering with the #1 Food &amp; Drink Delivery app, available in 7,000+ cities.<br/><br/>*   GET PAID FAST   *<br/>Cash out daily, get free weekly direct deposits, or get daily deposits with no fee using DasherDirect Business Prepaid Visa Card.<br/><br/> *   START RIGHT NOW   *<br/>Sign up to deliver in minutes. You only need your smartphone and transportation (bike, car, scooter, or motorcycle) to start.<br/><br/>*   BE SUPPORTED   *<br/>Your app will show you where you\u2019re going and when to get there. Plus 24/7 help is available if you need it.<br/><br/>*   SET YOUR OWN SCHEDULE   *<br/>Choose your own hours and enjoy flexibility over hourly, seasonal, or full-time work. Start and stop whenever you want.<br/><br/>*   FIND WORK NEAR YOU   *<br/>Work wherever you want. DoorDash is available in 4,000+ cities across the U.S., Canada, and even Australia. In select markets, you\u2019ll be able to accept orders from Caviar, too!<br/><br/>*   RESTAURANTS AND MORE   *<br/>Make money by completing deliveries from restaurants, convenience stores, grocery stores, and pet stores, too. <br/><br/><br/>DoorDash is available in over 4,000 cities in all 50 U.S. states, including Washington, D.C. and Puerto Rico; over 80 cities in Canada; and Melbourne, Australia, with more coming soon. <br/><br/>Find out if we\u2019re in your area and learn more here: doordash.com/dasher/signup<br/><br/>Caviar Couriers can sign up using the DoorDash - Driver app<br/><br/><br/> <br/>The DasherDirect Business Prepaid Visa Card is issued by Stride Bank, N.A., member FDIC, pursuant to license from Visa U.S.A. Inc.",
+    "developer": "DoorDash",
+    "developer_address": null,
+    "developer_email": "support@doordash.com",
+    "developer_id": "DoorDash",
+    "developer_url": "http://www.doordash.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/trfOy_Wg9gQTwGcoYJNushqXIV3xFhWBReAVWM5IPqspN5N811YhTKQCG48anNS13HE",
+    "installs": "5,000,000+",
+    "interactive_elements": [
+        "Shares Location"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 88885,
+    "score": "3.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/VJdqcls1THqk3dDpRedrQ66q7hSYb_L9LFYPJzbN72fw3EWQIC5kzBlCS0OcUcKemY4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/KzL6V0_2dobTN7Vdze89dxQm5k7IMn93e0XaxMUT-fhgVMVpCLAaHqbxoTzEAk58aT4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CwQDMFfxtzNh7btu7KroT8mcK-cmLqMqAmrkgMp5tauJplfztW4J6wIzZ5_oS4pkwBk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JOeO6RHjqhww62cP6mpdsZu5dxVSBhIhg_-L58Y_2urTadozvS_to9rlRET3PBCac2w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/uI4tCagZPXoI6JAd03k9kEjgW0kSVBh4a8SxD8UgJM6RAvzAGlMXk6tFkgvJEIip154=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CvhAgMrqDxkSu1jCpniSBmmOKeOr64wDmRRKrtVVjySS2brCU2RV0FavMWo5p22XzYo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1qdVuFLbrDDqDhTCkp5B_Wd448Cy7dhR8W8CpnI3pCRFsgEJoj2PET50_AFJvdkwKiU=w720-h310-rw"
+    ],
+    "size": "74M",
+    "title": "DoorDash - Driver",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.doordash.driverapp&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

@@ -1,0 +1,54 @@
+{
+    "app_id": "com.IsaacHawn.DoodleDash",
+    "category": [
+        "GAME_ADVENTURE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.04.5",
+    "description": "Run, jump, and dash your way through cheerful hand-drawn worlds as you avoid obstacles and chase your own high score! Each run looks different than the last with varied environments and obstacles drawn completely by hand. When you're playing Doodle Dash you never know if you're going to exit the cave and be swept up in a dust storm or land on a beach and jet ski your way around sharks and lightning storms.\nDue to the large amount of textures, only phones with 2 GB or more of ram will be able to play.",
+    "description_html": "Run, jump, and dash your way through cheerful hand-drawn worlds as you avoid obstacles and chase your own high score! Each run looks different than the last with varied environments and obstacles drawn completely by hand. When you're playing Doodle Dash you never know if you're going to exit the cave and be swept up in a dust storm or land on a beach and jet ski your way around sharks and lightning storms.<br/><br/>Due to the large amount of textures, only phones with 2 GB or more of ram will be able to play.",
+    "developer": "Ghostfall Studios",
+    "developer_address": "815 Fotis Dr",
+    "developer_email": "ghostfallstudios@gmail.com",
+    "developer_id": "Ghostfall+Studios",
+    "developer_url": "https://www.ghostfallstudios.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$5.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/xQ_XCtxKBv-072Y8Pu2Z4iwlHsVEIOjmZoB3LUfKqnAFoh8ssLGJk1llrjgySAUHWqc",
+    "installs": "10,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 376,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/FlMLWK_dGjgPDvzqefTDZfYX-K2Uofh-0FIuxfC8GETxIsGvS7YPD6mSldrRxWxRBQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ogvupli1qdHS0elXbdgCemt07EQYmZ0xtxCKy3zcsO69V5BZPmven5I3rdFmPy5m2yU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/v-vaKPbtkvp-mxdH92AoTmTno4Mk_t4mY3NhaTMdD-BlWTWU5ZcVjjEbLs6Jm-pouYV9=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nuugxQstGnRKheuEOOl4qSmXjaZV9HNidXWAJRC0FXvw2oWb39VqbjkH2dOU_LjCcPw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IK81PZWwd4kxOqpAhdvlRvJ845J-kA-kpBO28-bzWoVNRLTA3d1jUBq39gr46IRNNtkJ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JZPRPr04mOsTnrqiGcScYtnvjIX8xmWrmPT-BuIVd-ugtTQi3yD-Fq-NFb7BCpnEgEs=w720-h310-rw"
+    ],
+    "size": "82M",
+    "title": "Doodle Dash",
+    "updated": "May 30, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.IsaacHawn.DoodleDash&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/BI8RMbmu6b0"
+}

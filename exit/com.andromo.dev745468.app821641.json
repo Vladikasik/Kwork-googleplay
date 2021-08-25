@@ -1,0 +1,51 @@
+{
+    "app_id": "com.andromo.dev745468.app821641",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0",
+    "description": "Find it difficult to update yourself on current airport information while flying?\nWorry no more, this app helps provides access to three tremendously useful airport database websites that provides Runway ILS data and detailed airport charts.\nAlso, there is a built-in flight planner that helps you make and download flight plans for X-Plane or FSX (use it on a computer).\nThank you!\nThere is no affiliation to any other organisation, persons and institutes. No material is endorsed by any persons or organisations. All material is in fair use and if you wish to have your content taken from the app do contact my developer email.",
+    "description_html": "Find it difficult to update yourself on current airport information while flying?<br/>Worry no more, this app helps provides access to three tremendously useful airport database websites that provides Runway ILS data and detailed airport charts.<br/><br/>Also, there is a built-in flight planner that helps you make and download flight plans for X-Plane or FSX (use it on a computer).<br/><br/>Thank you!<br/><br/>There is no affiliation to any other organisation, persons and institutes. No material is endorsed by any persons or organisations. All material is in fair use and if you wish to have your content taken from the app do contact my developer email.",
+    "developer": "Shanmugam Udhaya",
+    "developer_address": null,
+    "developer_email": "udhaya.shan1@gmail.com",
+    "developer_id": "Shanmugam+Udhaya",
+    "developer_url": "https://www.freeprivacypolicy.com/privacy/view/78cf2f6276c972f3d17fcfbdcfd488e2",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/HDyye_3xunVRP0FSh7TfBs7jNkl7GYq5Njr4XWTYWpH_rtIKgN11eL-dLR7S_jdsCQ",
+    "installs": "10,000+",
+    "interactive_elements": [
+        "Shares Location"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0 and up",
+    "reviews": 120,
+    "score": "3.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/saoxwyuNCwCmIDuDxBVlQevh1UnmXTlVe7BuOsbAmteodxU_JjKv7KwmgHrfhAnHLg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QBrJb3gWaJIvEMPE3LSAHjuBfbEX1NMGSE91x8tMsIlcCOKX-TVjNowrdZ5j1nklSn0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XIzx1FPUUB4GIr77X9PaM8O9ozx3mQeHG35uCQlwW0TeZI8k8158QSHVFZPklWRMPy4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Yj51du0eLoPL3CXVgCg07q7N9pQndw4iadNYhByF4YK3L3kd6tvRfoOrMxMKtWTwOeA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kIZ_m4rB3S5w6qWSAPpB6EqgX4p--Lndc-GxM35eRzNIYGhkXOHz8o-327MYcFWE7Cxq=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yxZlW7I1cZvXxYSzclpatTEmr1UnnpWTkl8u5JeSWw_D4FpPxRHr1tascLY9iRbRQmc=w720-h310-rw"
+    ],
+    "size": "3.2M",
+    "title": "Flight Simulator Companion - ILS & Airport Charts",
+    "updated": "July 1, 2018",
+    "url": "https://play.google.com/store/apps/details?id=com.andromo.dev745468.app821641&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

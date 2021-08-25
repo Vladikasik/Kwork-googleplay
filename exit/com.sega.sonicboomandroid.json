@@ -1,0 +1,67 @@
+{
+    "app_id": "com.sega.sonicboomandroid",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone",
+        "Mild Fantasy Violence"
+    ],
+    "current_version": "2.7.0",
+    "description": "The dazzling sequel to SEGA\u2019s hit endless runner, SONIC DASH. Featuring the cast and world of the new TV series, SONIC BOOM!\nNew and amazing 3D worlds, challenges and game play. Play as Sonic the Hedgehog, Tails, Amy, Knuckles, and Sonic\u2019s new friend, Sticks. Let\u2019s do this!\nSONIC DASH 2 FEATURES\n- RACE with up to three characters in new Team Play mode! Swap runners mid-race to earn high scores!\n- UNLEASH new special powers -  Sonic\u2019s Dash Ring Magnet, Knuckle\u2019s Slam, Amy\u2019s Ring Hammer, and more\n- CONQUER new obstacles and Badniks\n- DASH on new fast-paced tracks in and above the beautiful Sonic Boom world\n- MASTER new Swing & Tilt gameplay with the super charged Enerbeam; tilt your device to swing the runner towards the Rings and Orbs\n- COLLECT, evolve, and run with new magical Sprites\n- EARN special prizes in new Events and Daily SEGA Challenges!\n- - - - -\n- - - - -\nPrivacy Policy: http://www.sega.com/mprivacy/\nTerms of Use: http://www.sega.com/Mobile_EULA\nGame apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.\nOther than for users known to be under 13, this game may include \"Interest Based Ads\" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)\u200b and may collect \"Precise Location Data\" \u200b(please see http://www.sega.com/mprivacy#5LocationDataDisclosure \u200bfor more information)\u200b.\n\u00a9 SEGA. All rights reserved. SEGA, the SEGA logo, SONIC THE HEDGEHOG, SONIC DASH and SONIC BOOM are registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.\u200b",
+    "description_html": "The dazzling sequel to SEGA\u2019s hit endless runner, SONIC DASH. Featuring the cast and world of the new TV series, SONIC BOOM!<br/><br/>New and amazing 3D worlds, challenges and game play. Play as Sonic the Hedgehog, Tails, Amy, Knuckles, and Sonic\u2019s new friend, Sticks. Let\u2019s do this!<br/><br/>SONIC DASH 2 FEATURES<br/>- RACE with up to three characters in new Team Play mode! Swap runners mid-race to earn high scores!<br/>- UNLEASH new special powers -  Sonic\u2019s Dash Ring Magnet, Knuckle\u2019s Slam, Amy\u2019s Ring Hammer, and more<br/>- CONQUER new obstacles and Badniks<br/>- DASH on new fast-paced tracks in and above the beautiful Sonic Boom world<br/>- MASTER new Swing &amp; Tilt gameplay with the super charged Enerbeam; tilt your device to swing the runner towards the Rings and Orbs<br/>- COLLECT, evolve, and run with new magical Sprites<br/>- EARN special prizes in new Events and Daily SEGA Challenges!<br/><br/>- - - - -<br/>- - - - -<br/>Privacy Policy: http://www.sega.com/mprivacy/<br/>Terms of Use: http://www.sega.com/Mobile_EULA<br/><br/>Game apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.<br/><br/>Other than for users known to be under 13, this game may include \"Interest Based Ads\" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)\u200b and may collect \"Precise Location Data\" \u200b(please see http://www.sega.com/mprivacy#5LocationDataDisclosure \u200bfor more information)\u200b.<br/><br/>\u00a9 SEGA. All rights reserved. SEGA, the SEGA logo, SONIC THE HEDGEHOG, SONIC DASH and SONIC BOOM are registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.\u200b",
+    "developer": "SEGA",
+    "developer_address": "Sega of America, Inc\n6400 Oak Canyon, Suite 100\nIrvine, CA 92618",
+    "developer_email": "help@segaamerica.com",
+    "developer_id": "7891990035506213180",
+    "developer_url": "https://www.sega.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/9EYrR6ilBWJFLt_LE_QniHZjdYlG9on6PzTOqR9tBf3SKiWU4lIDOXq-kXrrSKyyEg",
+    "installs": "100,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 672729,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/SF0GH_MiNpil6GRUnqdUHF5jCkFn1kYDW1Lo5WyGIOidCJUSosu1WJZTa2zMPXEDnq4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/eS91gNvlTRhnKNZ-1XxxTjb_MaZdwpTPvk2jCxXMRxRX6kLVV3JQPBEqsuikikPqpVOR=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9-9DlQnTexhrr8kYs9xsvF7qLZPTLcdzzcLTE49OkZOWRyv6nFiAMct9bzYBco17fQE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Dvn5jVml7uVyUHU8iXsdpnAwJCmqfiX-7VDMIljftUnc0pLyl9PawG6ZMhU9yLgblc_J=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Q-xRg7juOPUVYYaXivE-KwyfdDsZ0i0InrKdI626fKJQoToJy_y6c8cxhZ2WUv-r9dYz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/D1qx-zaT-7tlkPSPAodC6Ak8SibtPvBYKiF-GjtpCrrTsfVjCTz5XUGXBD6qi1kL14MC=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2vDxVukFcBO4uV1pSDOvyomcrmEh-rZOqNsdAioFYLvQ_iyuLAnDM_SJDo8iTFbEv0s=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XIlJwpII5dngAT7BxwToie_mVSqFBrXsZzc0m-GN3ImbrGGzOSEuuJe7gQJphfSQqrM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/cfuWu-Kq1Hm7dZjZEfNPB4pj98wQI1kHllWrW7kTlt0y2ToNitDItV5GJ1pNfHnzg9Me=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7slmJwuXkcASeAycXIKSoOoaFwY61ycxi8WapCTmmLchiwV610y4rzp1E9UnOUcb0Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Pg67E2OqLdnackTpgRW_BVyGC4g4wrVMUg9buJKlvkEFgql0ZTcgdsxhLQdV3dpPoHo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9uf1-zBpYkRAw2GyZZckVw3g03iDlZHYGOAp5I-mTcoHl-UrVb4Kh0T5HwWNnRTKgQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_6mrgqWCEbxh9Z5vdhgWsEuIWcJe_X-DoG1YlRIw0CxY20cV3WtnHOYlm624iAyelw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K0xUHfmC55vOmTZD9s-APzmf2sEPE-h85XpWKDfNUu-n-mHg8byAe4FrBqZ9SA8RpKA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WInMaG1olJ6dnuVjiNccsLDAud9vqZKLWg6IUluQ0xWwNwOrpDjLv0npahSmy2fJ3U8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Yh_7iVM4ilet0nzLhuIc5EO92yc13gR03LYGQhML1c7hk_s-GPeH134IswBSheGjz50=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aDqeoOBcuw05ZhhqHC68fg5rcpy174MJ1F09Iqh-_3Yj672Kfhw1-5OoQd2OOcIeJA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/r4WmqESUjtvn2LuEOWKDMdRpUmQvl92TQNcfkmlBgrXwW-TY3LvqFJd1hdueNfcrmQ=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "Sonic Dash 2: Sonic Boom",
+    "updated": "June 15, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.sega.sonicboomandroid&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/lczJTM5UJ5s"
+}

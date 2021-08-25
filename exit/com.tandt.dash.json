@@ -1,0 +1,63 @@
+{
+    "app_id": "com.tandt.dash",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.9.6",
+    "description": "Designed specifically for CTM\u2019s corporate travelers, this proprietary mobile app empowers travelers with the important travel information they need, without the hassle or privacy concern of sending itinerary information to a third party.\nWhen travel plans change, Dash Mobile keeps travelers up-to-date with gate departure information as well as important travel and security alerts. Skip the long lines at the airline counter by utilizing the touch-to-call application that connects travelers with an experienced CTM travel counselor who has their specific travel information and is ready to assist 24/7.",
+    "description_html": "Designed specifically for CTM\u2019s corporate travelers, this proprietary mobile app empowers travelers with the important travel information they need, without the hassle or privacy concern of sending itinerary information to a third party.<br/><br/>When travel plans change, Dash Mobile keeps travelers up-to-date with gate departure information as well as important travel and security alerts. Skip the long lines at the airline counter by utilizing the touch-to-call application that connects travelers with an experienced CTM travel counselor who has their specific travel information and is ready to assist 24/7.",
+    "developer": "(formerly) Travel and Transport",
+    "developer_address": "CTM\n2120 South 72nd Street, Suite 300\nOmaha, NE 68124",
+    "developer_email": "dash@travelctm.com",
+    "developer_id": "%28formerly%29+Travel+and+Transport",
+    "developer_url": "https://us.travelctm.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/r5L0ZVr4us7joFHjw6ndUbAnYEUeD700jwTWzM9uK33b3-NxZgQNSDlJMsbwdQzT7e_P",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 172,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/9d1mBf9rBCbtuSfD3qSkSMVPtpjgOUlBy4iGjqMFY3heKiBHBZfMQY7asWFktsI_Fg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/cNpEjqIamNFqAJOzOAS7_73tYUMaC0CSOLB-GwlP-_eUooG9wh3IaDqeGyqji70k_J4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Or26_gPjqWwno7qigtqAQk8D1lxZZQS6ha58_VBvfrx4akVXgzkzyeibrraIAclTxLI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1j7i6ddPoFk6PDaxWFZkWF7iX26K5e0oLBg0K513rqOtq9NZ2a4HJ80ibvwco4-MZRU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oV-ZN5lVmLxxvCx2xA0FH1mCVn1PteGQ2CpBOrgjOmpJybxAXX4gT2HtzPuFP_Tyjg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Lr5EXEjA_2x7hibJyr0yKic5hyWbPt2tVChsV77TcAUZH8dD-gzL7niqM9K76gRNQKY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gYTLqy3D21nmjGfcUQJEPZFgn391u8Mss2hvAoV-QQlVCQe015zmhDBklY76Q85LuA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/c9YdJw5KmvdpeR-0sfvhTmVCMJVjftcRaQRppwBuyRYUTOpSfjJ5on7LbLYlcYOZ-po=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xNiNUND-uOxnPQtbvEOI-AsMufX1d-oKeyLB39RyohC-eo3_f-8M4thsKr2jfBED8Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SmFnMvqy2snq_l4swvYrN9R_pbmfZ-MEMfF-dfi5UKd-lI3WUZ_QB52lPQjzaw1_0VB2=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6FDt_GvmKe95QLMyUDLRAtdiVc2n_JIXlZrFhQnzbsQ1RYdE051OeZHOdPFaAcu2Big=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/a9FNKiARvhLjjxwkvBHhctarBHAGsUDj8gH_AY5LbsUyi0NYdD-KMemvFCYsTIrjKg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bKvHygDfqhFwE0kjUvlrBuD7zGgs2jS41Gb6SUfEOsfjsuNH1AhjJGBzVzQLXnDem9yf=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JyzSlD4Z6uUMNpqyKlyqF_lZCE5OfzNpxj97Gj9XC5eYziGQyLuahMSzBIR5NuP9GA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4kQYmmpfUbb8QZ-EmsHSPyA3GRmkBplWj9w5V8e8ImrgUpEapraj8_Qt4Cbt6igEKP8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/eh3Sfp0_TkKonVqTPs4LhD-m1HFdN4L441B3IBi2auClp24_FhE0si-02iQMHWg9f_o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1srvfUbF80EcbblXTUYIQ-2uQynWNKI_V_2HldRxPbc97OKQ4G27KahWDqGsuZ_h25P6=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/EybFri7-NMxl8lgphaTDmDJRmK_TM8zJGvtRirQWL2qMl_Sr0yUfFdEN3zRhaLOxDblG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ppwNMSkDycY3bZECVO5BMFTCa1t-M7hK9pT2AxBeXYilLSrTqJYWk3j68TgvA7xjrd8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8gI2RFB47OmE436oxXhMoA8S1c27tAaELUR3AAxsaowhWkoKDMhlxL9_5YPbXQOH_Y2l=w720-h310-rw"
+    ],
+    "size": "58M",
+    "title": "Dash Mobile",
+    "updated": "June 1, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.tandt.dash&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

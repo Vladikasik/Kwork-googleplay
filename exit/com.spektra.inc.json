@@ -1,0 +1,51 @@
+{
+    "app_id": "com.spektra.inc",
+    "category": [
+        "FINANCE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.66",
+    "description": "Dash App simplifies your money movement and allows you to send, receive, spend and save, all in a single app, with full transparency and security. It works seamlessly with your Mobile Money account, card and bank account. Dash is currently in Ghana \ud83c\uddec\ud83c\udded, Kenya \ud83c\uddf0\ud83c\uddea, and soon, Nigeria \ud83c\uddf3\ud83c\uddec.\nFeatures\nSend & Receive Money\nSending and receiving money to/from a dash user is FREE. You can send money across countries instantaneously. You can also send money to any Mobile Money user, 80% cheaper than traditional means. With the Dash app, you'll be able to send money to bank accounts and PayPal accounts instantly and cheaper as well.\nBill Payments\nDash App allows you to pay, automate and split bills with friends. You can buy data bundles, airtime, pay for your Surfline, Vodafone Broadband, DStv, GOtv, Startimes, Busy Internet, MTN Fibre, ECG Postpaid and Water Bills in Ghana. In Kenya, you can pay Zuku, KPLC Postpaid & Tokens, DStv, GOtv, StarTimes, Safaricom Home and Nairobi Water bills. You can even automate these bills, we will notify you 5 days before the bills are due.\nBusiness Payments\nYou can pay Paybill accounts & Buy Goods Till numbers straight from the Dash app.\nTop Up Methods\nYou can top up your Dash app account using Mobile Money (M-PESA, MTN Mobile Money, AirtelTigo Money, Vodafone Cash & Airtel Money), Debit or Credit Card (Visa or Mastercard) & PayPal.\nRewards\nDash rewards you with points whenever you transact. You can redeem rewards anytime, when you reach a threshold. You can redeem airtime, data bundles, KPLC tokens and more.\nExpense Reports\nWith monthly expense reports, you can see where your money went to with a full visual breakdown of your expenses.\nCustomer Support\nWant a refund? You can request a refund for any transaction, we will notify the other party, they can accept or decline. If that fails, we're always here to help you sort out any problem with our in-app customer support.\nDash+\nDash+ gives you access to exclusive services in the Dash app. You can increase limits and further reduce charges by signing up to the Dash+ service.\nSavings\nYou can save in two ways using Dash app. Savings for a goal, this allows you to save towards that trip, fees, sneakers etc, daily, weekly or monthly. We automate the savings to fit your budget, you earn 5% per annum. Savings for interest, you can earn up to 15% per annum using this saving method. Dash Reserve gives you 3.5% per annum interest on your app deposits monthly, no strings attached. You can cancel, withdraw and lock your savings at anytime. Dash Pots has no withdrawal and cancellation fees. You can save with friends and family.",
+    "description_html": "Dash App simplifies your money movement and allows you to send, receive, spend and save, all in a single app, with full transparency and security. It works seamlessly with your Mobile Money account, card and bank account. Dash is currently in Ghana \ud83c\uddec\ud83c\udded, Kenya \ud83c\uddf0\ud83c\uddea, and soon, Nigeria \ud83c\uddf3\ud83c\uddec.<br/><br/>Features<br/><br/>Send &amp; Receive Money<br/><br/>Sending and receiving money to/from a dash user is FREE. You can send money across countries instantaneously. You can also send money to any Mobile Money user, 80% cheaper than traditional means. With the Dash app, you'll be able to send money to bank accounts and PayPal accounts instantly and cheaper as well.<br/><br/>Bill Payments<br/><br/>Dash App allows you to pay, automate and split bills with friends. You can buy data bundles, airtime, pay for your Surfline, Vodafone Broadband, DStv, GOtv, Startimes, Busy Internet, MTN Fibre, ECG Postpaid and Water Bills in Ghana. In Kenya, you can pay Zuku, KPLC Postpaid &amp; Tokens, DStv, GOtv, StarTimes, Safaricom Home and Nairobi Water bills. You can even automate these bills, we will notify you 5 days before the bills are due.<br/><br/>Business Payments<br/><br/>You can pay Paybill accounts &amp; Buy Goods Till numbers straight from the Dash app. <br/><br/>Top Up Methods<br/><br/>You can top up your Dash app account using Mobile Money (M-PESA, MTN Mobile Money, AirtelTigo Money, Vodafone Cash &amp; Airtel Money), Debit or Credit Card (Visa or Mastercard) &amp; PayPal.<br/><br/>Rewards<br/><br/>Dash rewards you with points whenever you transact. You can redeem rewards anytime, when you reach a threshold. You can redeem airtime, data bundles, KPLC tokens and more.<br/><br/>Expense Reports<br/><br/>With monthly expense reports, you can see where your money went to with a full visual breakdown of your expenses.<br/><br/>Customer Support<br/><br/>Want a refund? You can request a refund for any transaction, we will notify the other party, they can accept or decline. If that fails, we're always here to help you sort out any problem with our in-app customer support. <br/><br/>Dash+<br/><br/>Dash+ gives you access to exclusive services in the Dash app. You can increase limits and further reduce charges by signing up to the Dash+ service.<br/><br/>Savings<br/><br/>You can save in two ways using Dash app. Savings for a goal, this allows you to save towards that trip, fees, sneakers etc, daily, weekly or monthly. We automate the savings to fit your budget, you earn 5% per annum. Savings for interest, you can earn up to 15% per annum using this saving method. Dash Reserve gives you 3.5% per annum interest on your app deposits monthly, no strings attached. You can cancel, withdraw and lock your savings at anytime. Dash Pots has no withdrawal and cancellation fees. You can save with friends and family.",
+    "developer": "Spektra Inc.",
+    "developer_address": null,
+    "developer_email": "admin@spektra.co",
+    "developer_id": "Spektra+Inc.",
+    "developer_url": "https://www.spektra.co",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/KKUYNeEoGOXaRMNBnwTpNodQf6t-MkYESk9a4XSwg_TTLe-mMl9KHpkiq4dOBiul0bI",
+    "installs": "5,000+",
+    "interactive_elements": [
+        "Users Interact"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 285,
+    "score": "4.1",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/XVK6wUex3Qg6TUy_tpLB-3dTvwt9ixRXJn8W95-hNgk4lJ08ToK9szU1mNx9gJM9tA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/KcJ1ECdeAN0vgmzDxSsQbih34n95QFaV3cTQRAA6AvnNA1Frn045K48-gcXXTg8Qcpg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-W74_ZYrwKgs6KIGVoX5ORV7O0QOKQSTjIzPQO2OWzxINxvTjM6Y3sKoQc3hhYxkbU5U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ptTbZl_PtJbEXmSICyeyN-GYM0Hk2naLfC7bebNYySqG00aVoBT58A1tYDXFKc1ieA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dyImTLOg8oQSIKjJINAQ1S7tASblE_UjjQkM4q4fkwvroe8Fv319MxxMR1WQsJcCUQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7hEr521U1k5TbWBqKkb0BzJBm5rGBHqzqudT3WAhxbvYsy4iLKMK4vYb3ZQ56O_iqFI=w720-h310-rw"
+    ],
+    "size": "19M",
+    "title": "Dash App",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.spektra.inc&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

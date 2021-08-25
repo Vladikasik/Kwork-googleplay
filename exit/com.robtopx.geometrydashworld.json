@@ -1,0 +1,60 @@
+{
+    "app_id": "com.robtopx.geometrydashworld",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.03",
+    "description": "Geometry Dash is back with a brand new adventure! New levels, new music, new monsters, new everything!\nFlex your clicky finger as you jump, fly and flip your way through dark caves and spiky obstacles. Discover the lands, play online levels and find the secrets hidden within the World of Geometry Dash!\n\u2022 Rhythm-based Action Platforming!\n\u2022 Ten unique levels with music from Dex Arson, Waterflame and F-777!\n\u2022 Play daily quests and earn rewards!\n\u2022 Play online levels created by the Geometry Dash community!\n\u2022 Unlock unique icons and colors to customize your character!\n\u2022 Fly rockets, flip gravity and much more!\n\u2022 Use practice mode to sharpen your skills!\n\u2022 Challenge yourself with the near impossible!\nApproved by RubRub \\ (\u2022\u25e1\u2022) /",
+    "description_html": "Geometry Dash is back with a brand new adventure! New levels, new music, new monsters, new everything! <br/><br/>Flex your clicky finger as you jump, fly and flip your way through dark caves and spiky obstacles. Discover the lands, play online levels and find the secrets hidden within the World of Geometry Dash!<br/><br/>\u2022 Rhythm-based Action Platforming!<br/>\u2022 Ten unique levels with music from Dex Arson, Waterflame and F-777!<br/>\u2022 Play daily quests and earn rewards!<br/>\u2022 Play online levels created by the Geometry Dash community!<br/>\u2022 Unlock unique icons and colors to customize your character!<br/>\u2022 Fly rockets, flip gravity and much more!<br/>\u2022 Use practice mode to sharpen your skills!<br/>\u2022 Challenge yourself with the near impossible!<br/><br/>Approved by RubRub \\ (\u2022\u25e1\u2022) /",
+    "developer": "RobTop Games",
+    "developer_address": "Fresta kyrkv\u00e4g 10\n19454 Upplands V\u00e4sby\nSweden",
+    "developer_email": "support@robtopgames.com",
+    "developer_id": "RobTop+Games",
+    "developer_url": "http://www.robtopgames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/mgYqsZbCv6Y07et07PB9_SOp7LpGGSsYbPonzXIP5lDuhUMybJCx3-zA6pmmn5DngHE",
+    "installs": "50,000,000+",
+    "interactive_elements": [
+        "Users Interact"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0 and up",
+    "reviews": 1070900,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/nuL8poUuSy7LhqqfOcy33dMeSt1RVENzJ8DIFTIFQbKlU0fK45vVZ7aGVPoo15RytJpt=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VzxNgLrgUBXotmvQkR62Dw3ETnFl6rpa2KjCMtUlCS_ulcofQW5V_8JORfHzxQxJpbc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pawPXfPD0WSbj5UIP7-6N2EIvfHN-3n38uJtd_5HD4LVeVCYCiuPelWOGqiDy_w4Gw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_rzQ6800NP6In30-q6mOgbVd0xQug0WQIaABEbmpMTYqkpcyzFYNtuIb4tbh5NJ0t9A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Z9wjWx26-g9jIztQ8ePzWVPy_W9Tkp0mGyxD_4yjkctye4Sv4owBlOBXdmPyCWGeaasv=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/sNbUalP0DJS7d0OuvGCP0oSibbkZ-DwM1NGWLIJ2yzZ7yJkvpEeKGQoqipEH2AYx5yM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/EX2vXqCDZmmlydG0D_AiMqgP3ENwivHnNImLD1Cw9WnyP7MT30ILqCgA5kjeAddsKgI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/e8Ancc3NF0UZdrRbP7uLGmE-MUwHBWWPIMAUzf0M8C2s4yqdW_k5tNh9Mb8IZQWjoU8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-tSt-lgbW0rC10r_1OlqFV-0ZCNQHK012Wed-cvj1EYBOmmhaSkNuDbQkekvtQyNZ1w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/w3XcaaS_Sc-lnwbPwJXOWX-AUgb1OTeV6Q6ii10rZVSrY0En8IvPEJH-DEOOMuPojA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/deXLdP-XA84_fgiigDUluqOdIVk5uBovg8T5W2DJoQAZyv19E3VbNbS9NxnkRm-E1ig=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yO6AlRNBS0Wjf9sXp0kzMImQn828Tk1GkybNBEGryzPB3sPatazsOhHDq5WY9Ki59A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aGI9KM-0K_6LUnpZF0Tnfud68C5KDTF_FVoxti-dF-TGfRbbQYL2o-TkWW-h2sZBGuQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/DlTN3seXBlfWrI7qjQnlQJaYoKhkd8DYjW2N_1Z2iw5wY_vsUBg7ryFySNwZ1E0giRM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/z7Xp6kazQF4l9-Nwd2eh2HF3TkKY3DDGkWME4Gfr7oxWGUAeSAckEdArILdohiAwM_4F=w720-h310-rw"
+    ],
+    "size": "63M",
+    "title": "Geometry Dash World",
+    "updated": "December 17, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometrydashworld&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/AtWMZk-THhY"
+}

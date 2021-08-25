@@ -1,0 +1,51 @@
+{
+    "app_id": "com.nextgearsolutions.xp.dash",
+    "category": [
+        "BUSINESS"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.17.23.477",
+    "description": "The Next Gear Mobile App is the premier cloud-based technology solution created for restoration professionals to easily manage jobs from anywhere, anytime, with real-time documentation. Our mobile app gives you the tools you need to run your restoration organization more efficiently, creating opportunity for growth and helping you build the most successful future for your business. Put the power of mobility in your hands with Next Gear Mobile.\nFeatures:\n* Create jobs\n* Track equipment\n* Upload photos\n* Speak notes directly into the job file\n* Close the communication gap between your field and office staff, as well as your customers\n* Full calendar capabilities \u2013 view job and marketing tasks, meetings, and more\n* View all company contacts via the Contact Manager\n* Easy directions to job address - clicking the job address will open your native map application",
+    "description_html": "The Next Gear Mobile App is the premier cloud-based technology solution created for restoration professionals to easily manage jobs from anywhere, anytime, with real-time documentation. Our mobile app gives you the tools you need to run your restoration organization more efficiently, creating opportunity for growth and helping you build the most successful future for your business. Put the power of mobility in your hands with Next Gear Mobile.<br/><br/>Features:<br/>* Create jobs<br/>* Track equipment<br/>* Upload photos<br/>* Speak notes directly into the job file<br/>* Close the communication gap between your field and office staff, as well as your customers<br/>* Full calendar capabilities \u2013 view job and marketing tasks, meetings, and more<br/>* View all company contacts via the Contact Manager<br/>* Easy directions to job address - clicking the job address will open your native map application",
+    "developer": "Next Gear Solutions",
+    "developer_address": null,
+    "developer_email": "ngs.mobile@nextgearsolutions.com",
+    "developer_id": "Next+Gear+Solutions",
+    "developer_url": "http://www.nextgearsolutions.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/JK1orWScygXvM0C7GuL6fOJuVmciscH3g4ZCPMYD-j0fJCu83o290Bq5zDB8QjPY75VG",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 195,
+    "score": "3.1",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ngiT6Xqd375i3XP1KSE1XKyTHAZnBwj1VfygEZm8fSLelkKU6BKGTz9NNBL7Kt-lB17F=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZPQFt1tNWzz489WwyXiR99gTBy4XamjQwe2gOjUEacEENxBLyMuzbsjqgNYoMGR1nApb=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lKyVSqGlds-fVWCjd49xLRx2jUxLu_k9A7Z0IH5yYWdKOaMWoiTonAJ6SOhOOHkDMA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HzwUzhdiMsypqKxFc9qp8nWsLyz7UVgAab-NIJEZHuTnE95TzIcAs-PcE3HgkbHi7fU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/sArxpBatV8fuXv4W83smdZ_ZS-l_tfzchvrkXTsyLBHudFkIr2iNwwsEWP3duFSJjcvR=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HxdsKbL00ksC-tNcIuzHNOxCvOI73bq06kNIjhL0sfsIQaunfLbwcbaP0kqrKFLwTw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/30008Jb4ASiz1i5-x5b139PZfet5PgWZmGR-Rka85U1mr7k_oF2LfMzgtxaMUcqV8qk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mNPdzaEkv3rc79DW6yt8z79ZLMESO_b5pxY4Npr2UZm7D441BrfORDUQJYVtr7HvBGc=w720-h310-rw"
+    ],
+    "size": "53M",
+    "title": "Next Gear",
+    "updated": "August 2, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.nextgearsolutions.xp.dash&hl=en&gl=us&q=dash&c=apps",
+    "video": null
+}

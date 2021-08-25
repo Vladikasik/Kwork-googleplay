@@ -1,0 +1,60 @@
+{
+    "app_id": "com.riftergames.dtp2.android",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.6.7",
+    "description": "Jump, fly, bounce and dash your way through geometric worlds and music beats!\nAre you ready for the challenge? Dodge random obstacles following the rhythm of the music and reach the impossible game modes where only the most skilled survive.\nFeatures:\n\u2605 Dash through 9 colorful endless procedurally generated worlds!\n\u2605 Unlock new avatars, colors and trails to customize your character!\n\u2605 Find hidden secrets and avatars with special powers!\n\u2605 Simple controls with one touch gameplay\n\u2605 Dash through a ton of different obstacles with unique geometry, shape and behaviour!\n\u2605 Choose between 3 increasingly difficult game modes, from normal to impossible!\n\u2605 Play offline without wifi!  No need of wifi or Internet access!\n\u2605 Are you low on disk space and need a light game? The game is under 25MB!\n\u2605 Compete against your friends with Google Play Games Leaderboards! (need Internet access)\n\u2605 Enjoy the amazing soundtrack from top artists Waterflame, DJVI, EnV, F-777 and BossFight!\nDownload Dash till Puff 2 now and add it to your collection of top geometry dodging skill games. Be warned though, it's highly addictive!",
+    "description_html": "Jump, fly, bounce and dash your way through geometric worlds and music beats!<br/><br/>Are you ready for the challenge? Dodge random obstacles following the rhythm of the music and reach the impossible game modes where only the most skilled survive.<br/><br/><b>Features:</b><br/>\u2605 Dash through 9 colorful endless procedurally generated worlds!<br/>\u2605 Unlock new avatars, colors and trails to customize your character!<br/>\u2605 Find hidden secrets and avatars with special powers!<br/>\u2605 Simple controls with one touch gameplay<br/>\u2605 Dash through a ton of different obstacles with unique geometry, shape and behaviour!<br/>\u2605 Choose between 3 increasingly difficult game modes, from normal to impossible!<br/>\u2605 Play offline without wifi!  No need of wifi or Internet access!<br/>\u2605 Are you low on disk space and need a light game? The game is under 25MB!<br/>\u2605 Compete against your friends with Google Play Games Leaderboards! (need Internet access)<br/>\u2605 Enjoy the amazing soundtrack from top artists Waterflame, DJVI, EnV, F-777 and BossFight!<br/><br/>Download Dash till Puff 2 now and add it to your collection of top geometry dodging skill games. Be warned though, it's highly addictive!",
+    "developer": "Rifter Games",
+    "developer_address": "71\u201375 Shelton Street\nLondon WC2H 9JQ",
+    "developer_email": "support@riftergames.com",
+    "developer_id": "4911312717289839616",
+    "developer_url": "http://www.riftergames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$3.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/GhF2KdJWmnPQx3xTNYGMRkDOIkvzOiugHDe8OuVn549MFEsq5WaWbMQvaw-YaBfuSDG8",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 83374,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/DuTKiSMjSmRRIyzbRGvYwcKk0wsVOodrjBhX6ikXZCnO5PzUCbUgxwuO2PJimXav-A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oHclMcpBo91-eVm_iI9dABFRbokwPRbD801-FJQFWu-1lymI0cfY0BeoE69rEj-qxA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gq7sXhYO5SkT5S4uiodqSo-kDkPzh34MwxBE2gwHNThowKjqNL5ncukBpitRLVoqBpI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/obPFpbo2wyNHFog8j_5xX87cnDerBw9vdUr5hiKbncdhzkCPXZS0INtleDrcxFo3lQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zxQ6mUKPKq9T6IbcGX7CWx_Fl3uK6hd1MTqbQesTHbuWAEhiUW84cpuUp7PqgiztlQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/hLrDJ_PHy34MiNcoMKZmZv6IXLQGrLhCVZlnE1lCqu3KimekhTD_alkaFNqXd_DZ6w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/uPxveue4VzYCI5TpGQBsGg_WWwHZryMbtbyclDDC55UAhxOHjqTPnH-_UUpObIjy-Nw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JHgmS7SZKLmocmYe1KUtiN4jd0T0utO3pfEcd0LGCB554wtZ0CJ29GcAcumnRhi93Lo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Tr8bNjd3UPxQvqBogRVhV6jq-gtaqwyYypY-pEzqbM73PSjbXcDkk2mCn5qtClf1kQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RMr0GEJqaBa5R_RUNQCTCiR_w2BFbd05otwfE21lNUxyeJsSGxlEKTkCxeRX1HrX0SFB=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nsetAWdQlzn29LMNwVR4TR8Eqz8e28Ip8hmuQJ-OVea0LU5FXD5ylw_fzhFFhiLD0A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V4JqcviPrRzDFlj8RM1hNZd162d2PkMxhpFwkDtUOsiIX5rDgthqz1Nk7HrGyeqeSF4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UVN1iKAbpyn6wbO-wfUVk0Jx_Dq5fkEKV0XUyopCvi1SqvXdS2kdz3S4PRHCQ7KLcvU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-6XysVcKzetRNnMKhqbT5CJeDqVxLOEJE1cBloiFb4lLcl1JIeRNeIHD3UMW0wsXzmo=w720-h310-rw"
+    ],
+    "size": "25M",
+    "title": "Dash till Puff 2",
+    "updated": "June 16, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.riftergames.dtp2.android&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/Su7AXk9bzpw"
+}

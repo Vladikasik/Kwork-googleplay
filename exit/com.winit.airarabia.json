@@ -1,0 +1,48 @@
+{
+    "app_id": "com.winit.airarabia",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "6.4.0",
+    "description": "Air Arabia - Fly more\nTraveling with Air Arabia is now even easier with this FREE Android application. You can search, book, add extras and manage your flights all in the palm of your hand.\nWhat can you do with this app?\n- BOOK FLIGHTS:\nThe quickest way to search and book Air Arabia flights.\n- MANAGE YOUR BOOKINGS:\nModify your flight dates or add extras to your booking (baggage, seats, meals...).\n- CHECK-IN ONLINE:\nCheck-in online for your flight and avoid the queues at the airport.\n- FLIGHT STATUS:\nCheck the flight status and always reach airport on time.\n- LATEST PROMOTIONS\nStay updated with our special offers and discounts.\n- MULTI-LANGUAGE SUPPORT:\nOur Android app is available in English, Arabic and French.\n- LOGIN AND SAVE YOUR DETAILS:\nLogin once and load your profile so that never enter your passenger and contact details again.",
+    "description_html": "Air Arabia - Fly more<br/><br/>Traveling with Air Arabia is now even easier with this FREE Android application. You can search, book, add extras and manage your flights all in the palm of your hand.<br/><br/>What can you do with this app?<br/><br/>- BOOK FLIGHTS: <br/>The quickest way to search and book Air Arabia flights. <br/><br/>- MANAGE YOUR BOOKINGS: <br/>Modify your flight dates or add extras to your booking (baggage, seats, meals...).<br/><br/>- CHECK-IN ONLINE: <br/>Check-in online for your flight and avoid the queues at the airport.<br/><br/>- FLIGHT STATUS: <br/>Check the flight status and always reach airport on time.<br/><br/>- LATEST PROMOTIONS<br/>Stay updated with our special offers and discounts.<br/><br/>- MULTI-LANGUAGE SUPPORT: <br/>Our Android app is available in English, Arabic and French.<br/><br/>- LOGIN AND SAVE YOUR DETAILS: <br/>Login once and load your profile so that never enter your passenger and contact details again.",
+    "developer": "Air Arabia",
+    "developer_address": null,
+    "developer_email": "usiddique@airarabia.com",
+    "developer_id": "Air+Arabia",
+    "developer_url": "http://www.airarabia.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/WkWXGmfQ5kd1tWdGPHQ040sh_R7hu_vnEmNFzOvPuGcOAKny8ppcAnA9PKsXoFMKqcI",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 13615,
+    "score": "4.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/omC5Xq_6NASHqD8YGisOBb5PLDzaqP6BadzjDHPgoU0XTJkMjDY6LKhg6_mGfbB3Mw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Yw0FXwsLG-l7n5eaNV6yO7doLUScvSzM-R4igItcujbOsmtHTyNQrIxPCubIrrz8JA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_oEcEJH_uBg6em76BywhvQ00rP3NLiUT_XxZBFzFlij1ioEYLGcl_5CJNzrM4LbkbA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2rG-A5uAQm1cuHBg5GdCw-uyaOHcXHiuBdg2e2K3CPyHunKtBADDepNqz1DHkTV8MW5u=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/q9LOJH-Gk9WZBtJ4_YlxmmZW12arCiDYkTSnoqA5Q6Ib4ijx7hjGuc4MrSxg_zD_VA=w720-h310-rw"
+    ],
+    "size": "29M",
+    "title": "Air Arabia (official app)",
+    "updated": "August 17, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.winit.airarabia&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

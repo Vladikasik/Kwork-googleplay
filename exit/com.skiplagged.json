@@ -1,0 +1,50 @@
+{
+    "app_id": "com.skiplagged",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "Find flight and hotel rates you won\u2019t see anywhere else. Save hundreds of dollars compared to other travel sites.\nDiscover extraordinary travel deals, set fare alerts, and uncover great hotel rates.\nWe\u2019re so good, United Airlines actually sued us for it!\n\u2022 Find flights other search engines won\u2019t show you -- including HIDDEN-CITY flights and arbitrary round-trips\n\u2022 Filter flights by duration, number of layovers, takeoff/landing time and more\n\u2022 Explore lowest priced travel dates and see fare changes for flights\n\u2022 Receive alerts when fare prices drop\n\u2022 Book hotels as well, including last-minute hotels and special deals\n\u2022 Filter hotels, read reviews and view traveler ratings\nThe fine print: a HIDDEN-CITY flight is a flight where you get off at the layover rather than the final destination. For example, a flight from New York to San Francisco might be $300, but a similar flight from New York to Seattle with a layover in San Francisco might be $200. If you\u2019re going to San Francisco we\u2019ll show you both flights, and if you choose the cheaper one, you get off the plane at the layover (San Francisco) rather than going to the final destination (Seattle).\nThis is perfectly legal and the savings can be significant, but if you\u2019ve never traveled like this before, you should read our HIDDEN-CITY FAQ at http://skiplagged.com/faq\nWe\u2019ll always show you all the options, so YOU can pick the deal you want!",
+    "description_html": "Find flight and hotel rates you won\u2019t see anywhere else. Save hundreds of dollars compared to other travel sites.<br/><br/>Discover extraordinary travel deals, set fare alerts, and uncover great hotel rates.<br/><br/>We\u2019re so good, United Airlines actually sued us for it!<br/><br/>\u2022 Find flights other search engines won\u2019t show you -- including HIDDEN-CITY flights and arbitrary round-trips<br/>\u2022 Filter flights by duration, number of layovers, takeoff/landing time and more<br/>\u2022 Explore lowest priced travel dates and see fare changes for flights<br/>\u2022 Receive alerts when fare prices drop<br/>\u2022 Book hotels as well, including last-minute hotels and special deals<br/>\u2022 Filter hotels, read reviews and view traveler ratings<br/><br/>The fine print: a HIDDEN-CITY flight is a flight where you get off at the layover rather than the final destination. For example, a flight from New York to San Francisco might be $300, but a similar flight from New York to Seattle with a layover in San Francisco might be $200. If you\u2019re going to San Francisco we\u2019ll show you both flights, and if you choose the cheaper one, you get off the plane at the layover (San Francisco) rather than going to the final destination (Seattle).<br/><br/>This is perfectly legal and the savings can be significant, but if you\u2019ve never traveled like this before, you should read our HIDDEN-CITY FAQ at http://skiplagged.com/faq<br/><br/>We\u2019ll always show you all the options, so YOU can pick the deal you want!",
+    "developer": "Skiplagged",
+    "developer_address": null,
+    "developer_email": "support@skiplagged.com",
+    "developer_id": "Skiplagged",
+    "developer_url": "http://skiplagged.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/n1DAHRqituuNq5lCv3c8Gh1QX7P1T8yFfLNujm0QjfqdWQb7fZ_EvaaDKNjxwbpfGhE8",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 20854,
+    "score": "4.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/HiR8KuazzbHezMODtpQ1NR6NT-QtVqYRVoW7_yfqqh-4LcaGEv2UhgYHx4_ABUNaNZtk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/19JTd5bSWgwOeswSd3sgF25w2Oy2-PMtLkFH0VpdDoSV77euS3LnR0KRHK1iQ7L5MKA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Mdshs1msibcQ07k-udSkSxYW141vo36A5UkhXsg90Rh3aTJQJWxsaODXN7E9I9J_DGCM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PiibrLBRpCwp68j9IxJ3uCDwAsLDZzfM-V1_mdNhMACYWfIgCp9B_Cxs5QLTYUSAXg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nSN5vdGJiGI6quvxXn55ai0psoeIv50IhqF95aFos16drNqq_q9OWTojvyytAzGqKg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/cTZ7N61jmvmxwe3LeY00dQuQVwdtXL9MYJkzbcxBsd9nq0mrj0pd1CDZFMh9Q6pqoYg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fHEiaGLKnyzIt4ruSBYC6KrG4BU-LEfrnmVy9q9mjEum4SOCa2ghFI3BWM2fOI6qldQ=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "Skiplagged \u2014 Exclusive Flights & Hotels",
+    "updated": "May 7, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.skiplagged&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

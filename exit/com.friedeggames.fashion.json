@@ -1,0 +1,50 @@
+{
+    "app_id": "com.friedeggames.fashion",
+    "category": [
+        "GAME_ADVENTURE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.1",
+    "description": "Work your way up from a small boutique in a shopping mall to a haute couture empire of luxurious beauty parlors, ateliers and advertising agencies working with the biggest stars of entertainment!\nIn our game you will be able to develop your own fashion brand, and also: manage your staff, fulfill your clients' wishes, renew your equipment, and surprise everybody with new designs and fashion accessories!\nUse different boosters to move towards your goal faster and overcome difficult levels!\nFashionable dresses, unique footwear collections, exclusive hats or exquisite accessory designs - how YOUR business story will evolve is for you to decide!\nAnd don't forget to pet our cute kitty - because your mood depends on it! And not only yours, but also the mood of all visitors of your fashion empire!",
+    "description_html": "Work your way up from a small boutique in a shopping mall to a haute couture empire of luxurious beauty parlors, ateliers and advertising agencies working with the biggest stars of entertainment!<br/>In our game you will be able to develop your own fashion brand, and also: manage your staff, fulfill your clients' wishes, renew your equipment, and surprise everybody with new designs and fashion accessories!<br/>Use different boosters to move towards your goal faster and overcome difficult levels!<br/>Fashionable dresses, unique footwear collections, exclusive hats or exquisite accessory designs - how YOUR business story will evolve is for you to decide!<br/>And don't forget to pet our cute kitty - because your mood depends on it! And not only yours, but also the mood of all visitors of your fashion empire!",
+    "developer": "Friedeggames",
+    "developer_address": "Ida-Viru maakond, Sillam\u00e4e linn, J. Gagarini tn 23-44, 40233",
+    "developer_email": "info@friedeggames.com",
+    "developer_id": "7671276898701304735",
+    "developer_url": "https://friedeggames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ETVKXMcnsXx5lrxYur075cBq8HtAo2MsMhbRoovXoLJUrUqsjOY_K0NP8kC8fjkXs_9y",
+    "installs": "1,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 65,
+    "score": "3.8",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/jP_IatOzzqTKyfTdKHgfF7Wwe_-iaFndhmifw9RQAWi6xHmutPm23zUccXTtagVYbTU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/He_Yj0r8yhEOPxQYU-uPcg-oY4JT4awRuJCCo7a3WWn9HRPny5Sa0sQ4AfeEIhyiZBo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xr5NbJ6hVHGc3FoCU-p-QHBoYtRbCt2_CNHGKJc473u0bCbkxWkeoMskX8AQFWFMDtOA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ugAo5s8OLsezpSnLAlafKkwh1ECBDHaf7-cKDJemeMTddcNKSbfVPdSkoijSKNEG_A=w720-h310-rw"
+    ],
+    "size": "58M",
+    "title": "Fashion Dash",
+    "updated": "May 13, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.friedeggames.fashion&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/MjLYNFHZzN0"
+}

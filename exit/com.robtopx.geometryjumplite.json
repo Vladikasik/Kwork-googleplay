@@ -1,0 +1,55 @@
+{
+    "app_id": "com.robtopx.geometryjumplite",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.2",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.\nSimple one touch game play that will keep you entertained for hours!\nCheck out the full version for new levels, soundtracks, achievements, online level editor and much much more!\nGame Features\n\u2022 Rhythm-based Action Platforming!\n\u2022 Unlock new icons and colors to customize your character!\n\u2022 Fly rockets, flip gravity and much more!\n\u2022 Use practice mode to sharpen your skills!\n\u2022 Challenge yourself with the near impossible!\nContact: support@robtopgames.com",
+    "description_html": "Jump and fly your way through danger in this rhythm-based action platformer!<br/><br/>Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.<br/><br/>Simple one touch game play that will keep you entertained for hours!<br/><br/>Check out the full version for new levels, soundtracks, achievements, online level editor and much much more!<br/><br/>Game Features<br/>\u2022 Rhythm-based Action Platforming!<br/>\u2022 Unlock new icons and colors to customize your character!<br/>\u2022 Fly rockets, flip gravity and much more!<br/>\u2022 Use practice mode to sharpen your skills!<br/>\u2022 Challenge yourself with the near impossible!<br/><br/>Contact: support@robtopgames.com",
+    "developer": "RobTop Games",
+    "developer_address": "Fresta kyrkv\u00e4g 10\n19454 Upplands V\u00e4sby\nSweden",
+    "developer_email": "support@robtopgames.com",
+    "developer_id": "RobTop+Games",
+    "developer_url": "http://www.robtopgames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
+    "installs": "100,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0 and up",
+    "reviews": 7047179,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/tr8F3wHLv-H_n0ZuXSmGbYRnfFp9cLbQ1ZMRE-m5vrW-YOM0aeCYnIfhBK6GyFh9pJk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-Q0_MvAfKS5EliTc0d5IEbD1jygxyY8IC82d2UwGMNimpe6D77VcwOaFe9c407Slw8I=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/iQNmj0V2spJ0hMH1ZxSJ8f_TiNhHvMTOF-x5pZDKP9zF2deZYhFMsifGIUKBM_N9LJI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/r-8__UNM6HvvkJ6YRKxsLFkqQWFE9lJGEdO6cowSPsdSWgkB9sp5TZUiAQ4V25CORV0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/uoAwgH03jCS1uFHUZIJFlm7y45P3N3OqyJxLhUjiEuuLpnL5meBZr2jJUVjKv5BNoA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/h-hqQ2Ubx4hiWU0hw31SG96KZyJ_30v7Xuy4eyEd6oyK6jXkOnntYM9Urv11Vcsxb9bz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HUCaqaC9yFw_wsD-XrthH0MSnoP6kHY0XExkVn2cOlWcRJmnHOgNPRfUta8a_46are8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gcGRgksY1K34M7Sz2DUsvALAVVaQiSgaHxFoIzIj4pS1ohGOEuR8FEM7ypKdNgs7hWI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9CJybxxEuVHhAcUiwBMR3v9GRQmTkbdnLEbOmC5heOmSxOcBgNey_MDz__gbmm4A8WE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AANh8jaMTekkOk-YkXKQLQp39GHpNfzOdD5kYNHvNLvztPYyGBTpujqc7h5oxlAhZCU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zZNK_wP6vndo4IXQwApZYpoOU8e7b0aWcqhTvKzdgGCnBdS3Ojh-myn7teGL5U3pGxU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AKHIFjh59DgS414EnQvJpKKO5-0EKock_xz8qlufBbxW7W-qibNN_8edIViLITxyvA=w720-h310-rw"
+    ],
+    "size": "58M",
+    "title": "Geometry Dash Lite",
+    "updated": "December 11, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/k90y6PIzIaE"
+}

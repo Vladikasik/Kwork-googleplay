@@ -1,0 +1,67 @@
+{
+    "app_id": "com.blackspoongames.cosmo",
+    "category": [
+        "GAME_ACTION"
+    ],
+    "content_rating": [
+        "Teen",
+        "Violence, Blood"
+    ],
+    "current_version": "1.0.8",
+    "description": "Take control of a spaceship and get to the portal first among other players!\nCustomize your ship, master in controls and improve your pilot skills. Fly as quickly and accurately as possible, and take first places in the world rankings with real players!\nYou will have to cope with gravity, black holes, time anomalies and other dangers!\nWhen you become a master, you can choose one of three leagues with different physics and ship controls!\nMore than 45 stages in 3 difficulty levels and hundreds of thousands of players from all over the world are waiting for you!",
+    "description_html": "Take control of a spaceship and get to the portal first among other players!<br/><br/>Customize your ship, master in controls and improve your pilot skills. Fly as quickly and accurately as possible, and take first places in the world rankings with real players!<br/><br/>You will have to cope with gravity, black holes, time anomalies and other dangers!<br/><br/>When you become a master, you can choose one of three leagues with different physics and ship controls!<br/><br/>More than 45 stages in 3 difficulty levels and hundreds of thousands of players from all over the world are waiting for you!",
+    "developer": "Black Spoon Games",
+    "developer_address": "614002 Russia, Perm, Box #1, Bazhin Mikhail Aleksandrovich",
+    "developer_email": "blackspoongames@gmail.com",
+    "developer_id": "9216028613711789824",
+    "developer_url": "https://blackspoongames.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$11.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/K3EtoTxkM5RzkBN2wG9eUIvCaM0KuQLGkhxw6USZdTswOd4_mxcVrTVGZyAdHn6_pMw",
+    "installs": "10,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 370,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/PIa4P6C8WB6OHE1izLBd8hJimQbxXeg1L8AA3WhnxeWx531Wjd3g_RkQCJ49CfNZXkI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gpElcZ5JqbrM6Igq7YL08jFuruIB8Yniwmodi01ZodHL4kvWdZsVRBNjxNYeh0A_HV8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VkkKjNIvNcsMPI4cO73CW4pxx-i0pca9iXH0GHhCmgz8SD6BXKDcEdKZk0YvIsIa4N59=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AqJHfJ05BMWYE3wXuEf3M2IFY_zGKwEXMw-LaiAvpXZIaywqdxIPDa3paJRYVMmdY7U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7N3WGcJagsv-YygdQixRU3ob-1KcAkVjosvxIayR6U3_qf3FriY6OZzM9tDgGcMcdw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mrnOgOwLjP2SpS7kOryQSL9ZwqlQuWDwAcjDhacm-LyxZXXIc2snc9tPQhxbCbfHUx8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2ojlZ6PX9bfOVIrk5Xfvl-1TZx3O1IRU3yGe_bgCN_Gj8DNXzgqg7G0_4_TV-Lzcz-Sr=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FPaDUomameCucCcJ_StHD54AOjx49SrKBGf22mgSm0bqMWne_1WDrmq6yJ-1B1KcLA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vNQ5J_d0yseRphZ-O_ueZKE2FCF4HT8r439fBkYkXR7jpqFHMiN_UMX20gnevK_022g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mrwIJSXMOoPBbS4h4TAcBpxNTpWHddb7cCqJ02IGXsNp8gTnQOv9UFeJSxIkkKBNZA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XNU_C5LRg1kuxvhuUsmJZNRppZSrtvaMQ6j1Kfn7u_RMEy9SW_RhcLv3FLCs9tAQus4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/W_LxWfmQzRTGBFhJdDX74sX7tAsWpLWiunS-1wIOAVgBhAryELJ2HQrJNy0Ic93mneU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/26azlp8tWNVcVxhwoZcKpAgQ94TlfgxrDssvRAU10CNhdEkVzcNEbEG0ZhChm7e8EK4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/h-6aXQ34tTDlKHBgsXZ1idHTLMC_4HtGH4P2OssZPI9m9TD9MdACGfe5_Kg3a6CUBQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YAmSOA9Apkbwr3_19F246L-p1MEceuc8erDyy4i3fB3Y30y0A2MAIQ4voCqoRcvnG3s=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VwYjYXbmylsjvTKyyD3yYpTA5P15mG4or6xXXM8NIgJAawq56Mv8BfCEYlzVw1PTRJU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/45zxVHYFDimr_bwbZVEWF_MiEjvRA5ypjzmRecVlPKbyjasPdUIs7uCbT_j2Ze6uDbrX=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ew4Uyqrw2Pch7tLlGjtRGEX9F2hOGERlhHLCbyYkDncmvIlaUHh9kY-2CNczcnFkXU0=w720-h310-rw"
+    ],
+    "size": "41M",
+    "title": "Cosmo Dash",
+    "updated": "July 28, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.blackspoongames.cosmo&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/73Vu59jdMQQ"
+}

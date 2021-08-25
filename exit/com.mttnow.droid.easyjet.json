@@ -1,0 +1,48 @@
+{
+    "app_id": "com.mttnow.droid.easyjet",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.57.0-rc.49",
+    "description": "BOOK FLIGHTS - Booking your easyJet flight couldn\u2019t be easier or faster and you can check out quickly using a saved payment card.\nMANAGE FLIGHT BOOKINGS - View your flight bookings all in one place. Change your flights, manage disruption plus add seats, bags, sports equipment and more.\nEASYJET HOLIDAY BOOKINGS - Add your easyJet holidays bookings to get your trip details quickly and view all the details you need such as accommodation, airport transfers and other important information. You can also view your holiday countdown to build the holiday excitement.\nCHECK-IN - Add your travel ID or passport, with passport scanning available using your phone camera to add your document details and check-in faster than ever before.\nMOBILE BOARDING PASS - Breeze through the airport with your mobile boarding pass and reduce paper waste. You can store up to eight boarding passes per flight, which will be available offline, so you'll not need a data connection. For even more convenience, you can also save your boarding pass to Google Pay. For more information check out: https://www.easyjet.com/en/mobile-app/mobile-boarding-passes.\nFLIGHT TRACKER - Track your plane's location in real-time. Plus, check the latest arrival and departure information with live updates direct from easyJet\u2019s Control Centre. You also see you plane\u2019s journey, live in the air, with the addition of the FlightRadar24 map.\nFLIGHT NOTIFICATIONS - We'll notify you of any important flight changes as soon as we know, remind you when it's time to check-in, tell you your boarding gate and inform you of your baggage reclaim belt.\nHOMESCREEN TRIP WIDGET - Wherever you\u2019re going, we'll be with you every step of your journey. Whether it\u2019s a reminder to check-in, check your baggage allowance or download your boarding pass, we\u2019ll let you know.\nTRIP ANCILLARIES AND PARTNERS - Manage your extras all in one place. Easily add excursions, insurance, car hire, and parking to make your trip seamless. Plus, save money by purchasing in-flight vouchers in advance or even pre-order onboard products from our Bistro and Boutique range.\nLOOK & BOOK - Seen a photo of your perfect holiday destination but don't know where it is? You can now search for a flight using just a photo! Simply upload a screenshot of your ideal destination and we'll tell you where it is and which flights will get you there!\nACCESSIBILITY - Our app works with your phone's screen reader functionality to audibly describe what is featured and happening on each screen, making your booking and trip management navigation easy and simple.",
+    "description_html": "BOOK FLIGHTS - Booking your easyJet flight couldn\u2019t be easier or faster and you can check out quickly using a saved payment card. <br/><br/>MANAGE FLIGHT BOOKINGS - View your flight bookings all in one place. Change your flights, manage disruption plus add seats, bags, sports equipment and more. <br/><br/>EASYJET HOLIDAY BOOKINGS - Add your easyJet holidays bookings to get your trip details quickly and view all the details you need such as accommodation, airport transfers and other important information. You can also view your holiday countdown to build the holiday excitement. <br/><br/>CHECK-IN - Add your travel ID or passport, with passport scanning available using your phone camera to add your document details and check-in faster than ever before.<br/><br/>MOBILE BOARDING PASS - Breeze through the airport with your mobile boarding pass and reduce paper waste. You can store up to eight boarding passes per flight, which will be available offline, so you'll not need a data connection. For even more convenience, you can also save your boarding pass to Google Pay. For more information check out: https://www.easyjet.com/en/mobile-app/mobile-boarding-passes. <br/><br/>FLIGHT TRACKER - Track your plane's location in real-time. Plus, check the latest arrival and departure information with live updates direct from easyJet\u2019s Control Centre. You also see you plane\u2019s journey, live in the air, with the addition of the FlightRadar24 map. <br/><br/>FLIGHT NOTIFICATIONS - We'll notify you of any important flight changes as soon as we know, remind you when it's time to check-in, tell you your boarding gate and inform you of your baggage reclaim belt. <br/><br/>HOMESCREEN TRIP WIDGET - Wherever you\u2019re going, we'll be with you every step of your journey. Whether it\u2019s a reminder to check-in, check your baggage allowance or download your boarding pass, we\u2019ll let you know. <br/><br/>TRIP ANCILLARIES AND PARTNERS - Manage your extras all in one place. Easily add excursions, insurance, car hire, and parking to make your trip seamless. Plus, save money by purchasing in-flight vouchers in advance or even pre-order onboard products from our Bistro and Boutique range. <br/><br/>LOOK &amp; BOOK - Seen a photo of your perfect holiday destination but don't know where it is? You can now search for a flight using just a photo! Simply upload a screenshot of your ideal destination and we'll tell you where it is and which flights will get you there! <br/><br/>ACCESSIBILITY - Our app works with your phone's screen reader functionality to audibly describe what is featured and happening on each screen, making your booking and trip management navigation easy and simple.",
+    "developer": "easyJet Airline Company Limited",
+    "developer_address": "Hangar 89\nLondon Luton Airport\nLuton\nBedfordshire\nLU2 9PF",
+    "developer_email": "app.feedback.android@easyJet.com",
+    "developer_id": "easyJet+Airline+Company+Limited",
+    "developer_url": "http://support.easyjet.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/Thn1XxCmoZ9VdmKBfAP5Hvi8EZ8D6_ffGSDaiJTohJulisRXGsfkO_7OH-_ivbSCbrA",
+    "installs": "10,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 172561,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/hLGyDr-L79ySgfx27TX5cgbAG21rQIR77NJ1nAl6bXVaUISsr0Qe0H80JEwuOe5TpqRF=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MD-le-Sc0zWlxcXuQ3E_bbw_mupIsVf5jQ55IH21tftQaFDT63c3_V0ObwEGBPXnSKU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4Vdg8HY5TbRhxOqR1d1wFSd8JgrVkLnoQt7MTbSDzxuptq6fGiECygsyEDSOL4_nePNM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YZRwyQ98W2GqE186WFtJrneBW728SWYGrgdRHgvZSIIRGLH2PZchwwJoU7K07JqOJBu3=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/n81xiE-cW4hvgjiwsOY1NCagBZ6T5dFsWCya7zIpR7ciYP2xRhqAHja1IOWQI7ABAfI=w720-h310-rw"
+    ],
+    "size": "55M",
+    "title": "easyJet: Travel App - Book & Manage Flights",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.mttnow.droid.easyjet&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

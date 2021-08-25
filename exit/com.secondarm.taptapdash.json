@@ -1,0 +1,72 @@
+{
+    "app_id": "com.secondarm.taptapdash",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.006",
+    "description": "* Insanely addictive game-play! Don't say we didn't warn you *\nTap to jump or change direction\nDon\u2019t fall off the path\nUnlock new characters\nOnly 1000 levels to beat. That shouldn't be too hard, right?\nBe sure to get your friends to play to see who can get the furthest.\nGood luck!",
+    "description_html": "* Insanely addictive game-play! Don't say we didn't warn you *<br/><br/>Tap to jump or change direction<br/>Don\u2019t fall off the path<br/>Unlock new characters<br/>Only 1000 levels to beat. That shouldn't be too hard, right?<br/><br/>Be sure to get your friends to play to see who can get the furthest.<br/><br/>Good luck!",
+    "developer": "JOX Development LLC",
+    "developer_address": "JOX Development LLC, P.O. Box 15, Kyiv, 02059, Ukraine",
+    "developer_email": "contact@joxdev.com",
+    "developer_id": "7569628894701346695",
+    "developer_url": "https://www.taptapdash.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$4.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/XgHTdJDAVhCxxUOG6v8L0zfJD1_Pf3BjVfXBjmh4qpKIc-jcjvx4LxKUhn2X689ivzI",
+    "installs": "50,000,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 1157544,
+    "score": "4.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Oz8OhxwPEZXbhdrnYo7n85mNHbn_mhqMIAyknwsCRd2H9Q8FymUck66TzZqHJDlIoA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8vrIpsGktAkuHkNmpAaD93OQu_af14V43iit8Es3hSIoZoVrdKQ1SUWqYG8C3a8DYg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/am2G7wZis3HKpIfUSJyKxuGKyr3eWJiHQzlya7yIIfcSQWnWlwicMm2gPNjCkFlNf-s=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5GsIyjXdZ4D__4M1nj6To8HT2_4zZSBWS-hVvkBsBqJA-_5Iq0FoaaEO3LxPP6GMVA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Hjav1xlp67Hlf0vaIzhTXLTd6lWe-W6nwWnFmhyOWUgLm07rQPYnNUIkcnwX_Pz9cnGh=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/f5CypnZR9M3EKbqzyNg1cSfKzZ5y-lKelO96MBBGr107U7pXA4RRJkGLx0JOVyQpazc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tIZy-er1Ydn9GNL026D86T87KOqo4RncOSrnqv-eaXqcQ5BD0hi98BzY5Vpn1Bbxzo7P=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/v-UqQV11qcCMEhVt9W_Rlz92pCsbEHHgE0wk_YCey1H3ZfzzeknL11v2Sg9l_p5Sb8A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jmJ3L2xdQr7a5iqYbfN0h6uvea2arzXjYx2sx03bt_gfOts3z904041iLGTxb_jeaQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nLLbxjAJy4q45vIuc0eUCWSOSgkweCEDIO2ntihyCOHoxRSJdrlFyJhs-0wrnzJkMg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SsARdP8NT0nUMfArYRTyTgIKrOpz5D01T8rirbWjg7ajpw0GkEjTrFKZ3mLJw7AaI9k=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AaYXdZ9_-OKRFSpnoeY2q_LwkpELrK6lQAcPUrLlN6wnVXf_QW_jdesU7LSQhFfH_RE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/hFOffbPhJjrux_RPFOzkYLkvzSyUe44dV-yXJQ1AkNQAa0nu2b2V9FY6mN-YX4wdyA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/z5BDb54wFJ83qIts64YjeY3dwHdZ7751xrIdsHBlw3qAHeD7MNz40Jjpn64FqT-6jMI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/n_IGX_SGAVyMiRS2mhGINtdDwVHEI--Hj4t9ztl9yt1qrxv7aFqgILk_KdPzVdrENNA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/r1NMEhPZv7Pwm8Xy8vbN_glw1e0SG3oSgyNJlN02fGsuZ4jsfd1PyYrpdgoXA9muJA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JBs6rfbme_7nbB_6OCUuR-NLHae34WkLadTevxN-Hj04Ouy7dt88TMsDSCfs41JOCNU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3umRUOIgqKzNZoNHYmqK8WEgk5A355SQ5SInoGTxTimGMq84qJSQqM3Tuqe4aUzZlg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/73NjzPPrnEMQAsj2LRi56_R1vgTNe-fQi11EXu2WKAAUPrvsJpuXxiznaNYV-3Bf4uM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CpYv9R8t1pfgKd_cIjffzafdGJv7pCzRsSAchBDCs4XyisADLegMODsJ-VQcEwUyIg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7KApcEzqlp9-8ByHV0Yse69AT7HXchgx2WcFXkSW4oHJo9aYl5rc5nAYVpLn9AkSUW4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Q4goD5Z_7AXWQJmgSSHXlfoCOtgpDcvN1rljwGjUasPRfuhms4ZXyYVwNgA-QwjIFkY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mv3V1J6BPBm9PHo0ad1GT-Y79S7tRRICBA0mpvOYopz1MO967lzyr7ESrEsypQvSG0Y=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ys80QxEwe5W5SxYVvmbVFUmtB2SUzfmu34vmreCA-Vw05GGM6cQmJLX_J7bltCxw_Q=w720-h310-rw"
+    ],
+    "size": "14M",
+    "title": "Tap Tap Dash",
+    "updated": "July 28, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.secondarm.taptapdash&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/-FGd8CCCsE8"
+}

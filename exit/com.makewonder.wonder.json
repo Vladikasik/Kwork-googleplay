@@ -1,0 +1,58 @@
+{
+    "app_id": "com.makewonder.wonder",
+    "category": [
+        "EDUCATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.16.1",
+    "description": "PLEASE NOTE: This app requires a Wonder Workshop robot - Dash or Dot - and a Bluetooth Smart/LE-enabled device to play.\nAll Android devices with Android 4.4.2 (KitKat) and above and Bluetooth Smart/LE can download this app, but we cannot guarantee that it will work on devices not in the list. To find out more, please visit us at: https://www.makewonder.com/compatibility. This app is FREE to play.\n-------------------------------------------\nWonder makes robotics as delightful as finger painting. With a picture-based language and guided challenges, Wonder is the first coding tool that lets kids ages 8 and up have fun with robotics all on their own.\nThis app comes packed with over 300 challenges that will teach you how to code with Wonder, and you\u2019ll be coding up a storm in no time. Travel through the African Grasslands, the Arctic Wilderness, and even Outer Space in your coding adventures to uncover new ideas for your robots. Turn Dot into a trumpet, a Pong arcade, or a desert race drifter. Dash is a real robot that comes with you on all your adventures! Transform Dash into a ferocious lion, dodge asteroids together in outer space, play a game of Marco Polo together, and much more.\nWhen you and your robot are ready, start creating your own inventions. Once you\u2019re done coding, put your phone or tablet away and your robot will remember your code. Wonder is the coding canvas that gives you the joy of creativity as you bring Dash and Dot to life. Roll up your sleeves, and push the boundaries of what is possible.\nFor ages 8 and up.\nHOW TO PLAY\n- Connect Dash or Dot to the Wonder app using Bluetooth Smart/LE\n- Update your robots! This app brings new sounds, personalities, and abilities to your robots. There\u2019s a lot for your robots to learn, so the update may take up to 20 minutes. Next time you turn your robot on, it will have a whole new personality!\n- Use the controller to make Dash & Dot light up, move, and make sounds.\n- Venture on the Scroll Quest to complete challenges that will guide you on how to play and give you fun ideas for your robots. Start with Dash or Dot - there is a set of challenges for every kind of bot.\n- Collect BQ points. As you play the challenges with Dash and Dot, your robots gain Bot IQ. The more BQ points your robot has, the smarter and more powerful your robot is!\n- Try the Free Play mode to create your own inventions for Dash and Dot.\n- Transform Dash and Dot. Once you\u2019re done coding, you can transfer your code to Dash or Dot. Next time you turn on your robot, it will run your code without being connected to a phone or tablet.\nIf you have any questions or suggestions, we would love to hear from you! Contact us at any time at https://help.makewonder.com.\nABOUT WONDER WORKSHOP\nWonder Workshop, an award-winning creator of educational toys and applications for children, was founded in 2012 by three parents on a mission to make learning to code meaningful and fun for children. Through open-ended play and learning experiences, we hope to instill a sense of wonder while helping kids develop their creative problem solving skills. We play test with children throughout our product and app development process to make sure our experiences are frustration free and fun.",
+    "description_html": "PLEASE NOTE: This app requires a Wonder Workshop robot - Dash or Dot - and a Bluetooth Smart/LE-enabled device to play. <br/><br/>All Android devices with Android 4.4.2 (KitKat) and above and Bluetooth Smart/LE can download this app, but we cannot guarantee that it will work on devices not in the list. To find out more, please visit us at: https://www.makewonder.com/compatibility. This app is FREE to play. <br/><br/>-------------------------------------------<br/><br/>Wonder makes robotics as delightful as finger painting. With a picture-based language and guided challenges, Wonder is the first coding tool that lets kids ages 8 and up have fun with robotics all on their own. <br/><br/>This app comes packed with over 300 challenges that will teach you how to code with Wonder, and you\u2019ll be coding up a storm in no time. Travel through the African Grasslands, the Arctic Wilderness, and even Outer Space in your coding adventures to uncover new ideas for your robots. Turn Dot into a trumpet, a Pong arcade, or a desert race drifter. Dash is a real robot that comes with you on all your adventures! Transform Dash into a ferocious lion, dodge asteroids together in outer space, play a game of Marco Polo together, and much more. <br/><br/>When you and your robot are ready, start creating your own inventions. Once you\u2019re done coding, put your phone or tablet away and your robot will remember your code. Wonder is the coding canvas that gives you the joy of creativity as you bring Dash and Dot to life. Roll up your sleeves, and push the boundaries of what is possible.<br/><br/>For ages 8 and up.<br/><br/>HOW TO PLAY<br/>- Connect Dash or Dot to the Wonder app using Bluetooth Smart/LE<br/>- Update your robots! This app brings new sounds, personalities, and abilities to your robots. There\u2019s a lot for your robots to learn, so the update may take up to 20 minutes. Next time you turn your robot on, it will have a whole new personality! <br/>- Use the controller to make Dash &amp; Dot light up, move, and make sounds.<br/>- Venture on the Scroll Quest to complete challenges that will guide you on how to play and give you fun ideas for your robots. Start with Dash or Dot - there is a set of challenges for every kind of bot.<br/>- Collect BQ points. As you play the challenges with Dash and Dot, your robots gain Bot IQ. The more BQ points your robot has, the smarter and more powerful your robot is! <br/>- Try the Free Play mode to create your own inventions for Dash and Dot. <br/>- Transform Dash and Dot. Once you\u2019re done coding, you can transfer your code to Dash or Dot. Next time you turn on your robot, it will run your code without being connected to a phone or tablet. <br/><br/>If you have any questions or suggestions, we would love to hear from you! Contact us at any time at https://help.makewonder.com. <br/><br/>ABOUT WONDER WORKSHOP<br/>Wonder Workshop, an award-winning creator of educational toys and applications for children, was founded in 2012 by three parents on a mission to make learning to code meaningful and fun for children. Through open-ended play and learning experiences, we hope to instill a sense of wonder while helping kids develop their creative problem solving skills. We play test with children throughout our product and app development process to make sure our experiences are frustration free and fun.",
+    "developer": "WONDER WORKSHOP, INC.",
+    "developer_address": "1500 Fashion Island Boulevard, #200\nSan Mateo, CA 94404",
+    "developer_email": "support@makewonder.com",
+    "developer_id": "WONDER+WORKSHOP,+INC.",
+    "developer_url": "https://www.makewonder.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/bgeD-aQfpRUp0fOlM8CqiqqOilsQwR-KHDHlKfBH4s0R-bjvoFNO4DHcSBGm5edfrLoS",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 618,
+    "score": "3.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/04RfPUGz5ilkmY1vCVwKaHnE-dXnClPnpl5LfZsb-APBTDto1d_w14iCz7RbmGvRGPk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/byjEud9iAaMTNQ4QIJR486uu8F1MQ7lixEDqKaXi1jgxZoqTjmO4B-EVylOaLHrD5GY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gr6cZdFPdYRj6abg5vEDXLxIKgVUzIDNO2kEuL5FueAus9EHLXgM8VK5X2AjaKe4AIRF=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UVdgpSxto_Zjw5A9PNxBo9KkKgsmSyeznQnCc22HclgfwP5sooGiSBsFbqkkPzfyaI8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CZhaHd_OFbJr_EsNqopG87LR0K2jGv3FzRcUER1u9VL66jO1bI-kDTJF5zs0JTQ3Vg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8rFYCM-EvcztLF8YzLTvu0NIqipfJ1klvFkSeA9X0KOIDfErHaW6JMlAJABqlH3pCQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NmxUUw2WQ4ntzqBvNN1P584EfDjoDO60eMyjgm3ZxzKtfVobfL3UQUJG54xe6jD4Xkw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OH5zhm_YM-v6hlLtOPle5WLUWGzu2MSN6ZIx9MCpg36-Nh5GJCzs8U7NpfZrgAEjriQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/imQcKkISdXip2hFvyno5uAZTHHPq-T6JjTRmQNj-h1uEIHD2BxnZWelxIveosHdjLZN4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/o8_EZht9J5RgSHFieDR0BNhiJav3iWDhyfLrb8spIlExbLJLDH3re9QA8awhZz_XoH0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GVz5hhdGfE0Bl87e7fD_JlBPTWZwlmabmcI03SKqinyZneRmaQDgqUhLSXAH-lkXkKQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/usgE1Yp9yJsTZlqlH-NvDMdL8TVclFg913FvWtH6JnbMpe929ntwW0N3MgxWLU5xlg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Uk2Sjs9d7mtSP0OOF0DmRtzkbdMVqQbuRFNTp8IXy_Qsvicy3szGi036fcDo0BxzQIQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fljFPGn3uGy_taTawWoa1foJoA-zBwrz-lkt07r_CSgcoLdakb_ifgbh8q10sWf6=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LUaUdpKaZmAV8d0X2NT8qVtgdN32hYYd1v6mAgSekx5OzT85X87_OOENe4JnqBhdxLI=w720-h310-rw"
+    ],
+    "size": "89M",
+    "title": "Wonder for Dash & Dot Robots",
+    "updated": "September 30, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.makewonder.wonder&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/9K2vv48iwHk"
+}

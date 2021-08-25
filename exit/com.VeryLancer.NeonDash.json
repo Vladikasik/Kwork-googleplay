@@ -1,0 +1,49 @@
+{
+    "app_id": "com.VeryLancer.NeonDash",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "0.9",
+    "description": "Dive into neon world to avoid obstacles, platforms and reach the last level for an epic boss battle! Additionally challenge yourself to get high score in Endless mode!",
+    "description_html": "Dive into neon world to avoid obstacles, platforms and reach the last level for an epic boss battle! Additionally challenge yourself to get high score in Endless mode!",
+    "developer": "VeryLancer",
+    "developer_address": null,
+    "developer_email": "verylancer2@gmail.com",
+    "developer_id": "VeryLancer",
+    "developer_url": null,
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/zYfJ4sysjsMJ16DWPtT5snLRhPTIiGYw1JY2XCpry64kCaVpeYTC0kyNVxy-3YBeXkSk",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 154,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/MQPZ4FmzGSeOc1iiV7mwW_75qp7yK4UapwqCZO6N-g_ykYvt0qS5WP-l5rZRZ0jYLw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/j5rj65GA-DuJpXuGca2GF9IIFEjEf-d7XxoUFwIHkCSO_a2DFbqtwOR3H6JEtrMPMbIa=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zNuQiG6ydvNnrB9AO9jUIUAZqCXRIEojGh0ICuwvZu0D3p-e5rU_3cdmTttrZdQq2bA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/snWrXKYNKpXrNNhyyZPthBupXh2tOhnv49WC9XePHdYN32R6Q6qXEGZO1POcwoHrNMM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/56F2I2V_sCyMzFGrjnI0vjHWQU5CbabUwNh04l9LRpqXoRTJP4bqFCEH3zGn_Ygwqoc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FabdhUobOljyUeIMs3qaifp7v1L07A66KwdqE4gyjirGd6q9nL2D-i2MqxlUrS2SZg=w720-h310-rw"
+    ],
+    "size": "43M",
+    "title": "Neon Dash",
+    "updated": "May 11, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.VeryLancer.NeonDash&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/UeL8MrbNqRg"
+}

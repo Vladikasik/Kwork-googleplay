@@ -1,0 +1,45 @@
+{
+    "app_id": "com.live.flightradar",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "6",
+    "description": "With flight radar you can track flights. Watch whole air traffic on your smartphone.",
+    "description_html": "With flight radar you can track flights. Watch whole air traffic on your smartphone.",
+    "developer": "OAX",
+    "developer_address": null,
+    "developer_email": "apps@oax.at",
+    "developer_id": "OAX",
+    "developer_url": "https://www.flightradarapp.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/fBocAf1zviEsdMChbcWGsXxKqNiyv47Rx52vwRsS6EntpMluYkuA8IXKTI2pvWrs9Eo",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0.3 and up",
+    "reviews": 609,
+    "score": "3.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/8JgPV_sYfty6g3IdB5TQEj2tuW3Y2YEDg_jxDEvhuClll59gPyt0leyYR2Y9p-3nfVE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SqGhY0qwLPtnMGjbSUrvl4zNV0r9YyOkq0dqPKPU7Qqz_n0Wk9eMUZjfzmZ7VeIDbIw=w720-h310-rw"
+    ],
+    "size": "4.2M",
+    "title": "Flight Radar & Tracker",
+    "updated": "April 26, 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.live.flightradar&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

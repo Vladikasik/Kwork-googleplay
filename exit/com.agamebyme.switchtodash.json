@@ -1,0 +1,58 @@
+{
+    "app_id": "com.agamebyme.switchtodash",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "0.9.27",
+    "description": "If you liked Geometry Dash and Geometry Dash World  you can't miss Switch To Dash!\nJoin an additive bizarre colored adventure: pass through lasers,  jump , fly, discover always new obstacles along the way!\nTap to left or right to jump and switch color at the same time! Follow the rhythm!\nPush your skills to the limit as you jump, switch color,\n,pass dangerous obstacles through a geometry world choosing the right color!\nTry to survive in this impossible game!\nImproves your coordination skills and reflexes.\nBeware: it will be not so easy!\n\u2022 Color-Rhythm-Action-Platforming!\n\u2022 Jump and switch color!\n\u2022 Unlock unique colors to customize your dash!\n\u2022 The world change color with you!\n\u2022 Something new in every level!\n\u2022 This is an addictive challenge game!",
+    "description_html": "If you liked Geometry Dash and Geometry Dash World  you can't miss Switch To Dash!<br/><br/>Join an additive bizarre colored adventure: pass through lasers,  jump , fly, discover always new obstacles along the way!<br/>Tap to left or right to jump and switch color at the same time! Follow the rhythm!<br/><br/>Push your skills to the limit as you jump, switch color,<br/> ,pass dangerous obstacles through a geometry world choosing the right color!<br/><br/><br/>Try to survive in this impossible game! <br/>Improves your coordination skills and reflexes.<br/><br/>Beware: it will be not so easy!<br/><br/>\u2022 Color-Rhythm-Action-Platforming!<br/>\u2022 Jump and switch color!<br/>\u2022 Unlock unique colors to customize your dash!<br/>\u2022 The world change color with you!<br/>\u2022 Something new in every level!<br/>\u2022 This is an addictive challenge game!",
+    "developer": "AGameByMe",
+    "developer_address": null,
+    "developer_email": "agamebyme@gmail.com",
+    "developer_id": "AGameByMe",
+    "developer_url": null,
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/hYOkVuLaYZiVc57-rIWyRCi0mFpkiRNYy3xqkZHtIKSwgZm9qrC_7igNt85F2UCc5vW_",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 695,
+    "score": "2.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/HYDpyMqMyvji6wP6GJtQPNxO8zxV7x0Ruxpr72gk9Zs6xr-g86AxTtKOHtc6KhoHvMc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9seySp4eHSWa965pP8PUYqXsRUgrNcwkI9P-dqpZUgfAZO7yWJGQbzf189Ebv9ahLwoz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/c6famF_upWO4x5XYiXRG4luUhHp3MAF-Rs9gwZpslTSCRa_toXElEntKvj2dk-nyTA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XtVzjhHIyzTNrZD1gTxMFjbUieW50Cn_fuvEnWqGyFJOltoNHCRTaQj9sbhGVp-2fR4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/U8DpCmkaq5TmJpt4ftS0YOn90q-QSkyExePw0EOl7p2dJ7lEl9NYnto8NvtE2rZl7Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/p9c4bVeVxViHyDvNV4AHKfSG4SSavClZ9s-_y2sBQXCAjXL9ZhVquvHDnY90qTJ0nA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/k3PfzOiMOSgFmlp17-KThFn7-u994kS8Avj7GxbKqDPNvtLG3ABQSZdeue6E1rP8Og=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NDqEEm-JOaFi8lQmGvVvaUnKrSsOvxWpSkEa-bgVeVsaHvodg1w4uqyhVdsfYfwkfeA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/k5LHNs8KOLPZlkm8TkXJXsPcesLU3g8Oillp_HG7PjLmekH65IXuAIH_o2WioxRSoQQO=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/moM1qQGyUaH1milMlCQpCmEG-RzPmadzu-brduC0zth6z90TJfepRZ_jwSJW4Jj278_0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aFvR4Jd-hqDGukQfQTJ0HHgNqmzaKdzQEDPfP2-FThOdjSyKHU31pwUapCXUQo8xglkl=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/f9l11idqB6qfc2YcipHzA7LIQ6alQ83hQOmYXo74T4qnqoeIsDokXGTKPS2V2j4KmD0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BoKF9WULSaus2NfvW807hyOiETcsa0FHojr9DI64ZDUKN0ubCtprZL6GMKxDpv5w7BQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mUA3oLJlb-z0nxJl9I5ecCXOboBNorL5yhKrtvqqfWhtToAKVafOGXbol8d4sPhh9F0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/q7g9_fMsjgGzl2Hi6n3KiujjegKhpsLzwb1COx1aUP4pBJBp486aeLS6b9R9KsXpUQ=w720-h310-rw"
+    ],
+    "size": "42M",
+    "title": "Switch To Dash",
+    "updated": "May 6, 2017",
+    "url": "https://play.google.com/store/apps/details?id=com.agamebyme.switchtodash&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/yoJGAyL6Tf0"
+}

@@ -1,0 +1,49 @@
+{
+    "app_id": "com.friedeggames.cafe",
+    "category": [
+        "GAME_ADVENTURE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.2",
+    "description": "Work your way up from a small caf\u00e9 in a shopping mall to a gourmet restaurant empire - a favorite place of entertainment for show business stars!\nIn our game you will be able to develop your restaurant business, as well as: manage your staff, fulfill your clients' wishes, renew your equipment, and surprise everybody with new dishes from all over the world!\nUse different boosters to move towards your goal faster and overcome difficult levels!\nFrench aesthetics, Italian classics, exclusive fusion or molecular cuisine - how YOUR business story will evolve is for you to decide!\nAnd don't forget to pet our cute kitty - because your mood depends on it! And not only yours, but all the visitors of your restaurant empire!",
+    "description_html": "Work your way up from a small caf\u00e9 in a shopping mall to a gourmet restaurant empire - a favorite place of entertainment for show business stars!<br/>In our game you will be able to develop your restaurant business, as well as: manage your staff, fulfill your clients' wishes, renew your equipment, and surprise everybody with new dishes from all over the world!<br/>Use different boosters to move towards your goal faster and overcome difficult levels!<br/>French aesthetics, Italian classics, exclusive fusion or molecular cuisine - how YOUR business story will evolve is for you to decide!<br/>And don't forget to pet our cute kitty - because your mood depends on it! And not only yours, but all the visitors of your restaurant empire!",
+    "developer": "Friedeggames",
+    "developer_address": "Ida-Viru maakond, Sillam\u00e4e linn, J. Gagarini tn 23-44, 40233",
+    "developer_email": "info@friedeggames.com",
+    "developer_id": "7671276898701304735",
+    "developer_url": "https://friedeggames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/3wQCJ7b7zw_2foCQVbtBJKF4eNl9nmAd7nRFXYlwfrMMboWPBhz484QY_dtZb_c0Mg",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 71,
+    "score": "3.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/o3lBAEEFWAJh8_98nO9LK0cfUGK7mxIaeLlatwTwgm83LP4e181N5rQfKLHVAWqT4Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nyIsQmmSQap0JX6kjWo1XD_cmqCM4pu1A49aLkevrGJp5Btz2T2T9HgmJ6gCEId9yLg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9l-3APAeG0vnjDr15ff4U_BbR2KcVSGpWaTn6BnEoeptmtTjvkYFuDRB3BcPI91ecw=w720-h310-rw"
+    ],
+    "size": "63M",
+    "title": "Cafe Dash",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.friedeggames.cafe&hl=en&gl=us&q=dash&c=apps",
+    "video": "https://www.youtube.com/embed/WJ7ELTwnVy8"
+}
