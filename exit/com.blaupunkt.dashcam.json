@@ -16,13 +16,7 @@
     "developer_url": "http://www.blaupunkt.com",
     "editors_choice": false,
     "free": true,
-    "histogram": {
-        "1": null,
-        "2": null,
-        "3": null,
-        "4": null,
-        "5": null
-    },
+    "histogram": {},
     "iap": false,
     "iap_range": null,
     "icon": "https://play-lh.googleusercontent.com/LSA0ixRTGivYyS4tr7zmhY8h-VIq7pfTkcD1kFVsD-5zxWh2wQ5_t-W3XFNnR7htVOBf",
@@ -31,8 +25,8 @@
     "price": "0",
     "recent_changes": null,
     "required_android_version": "5.0 and up",
-    "reviews": 29,
-    "score": "3.3",
+    "reviews": 0,
+    "score": null,
     "screenshots": [
         "https://play-lh.googleusercontent.com/MOXnqa1BL8_sWjr2cCL8AjQHk_8sKDZG2L5WMWJIYyNXAFlsn0HDJZb1u49kbyPvOHQ=w720-h310-rw",
         "https://play-lh.googleusercontent.com/AegG3XAe5TAVPlKxdRDVbwZwfGt4yebociwWE18t4miWmPkvmk5Udiy67T9v7quGWg=w720-h310-rw",
