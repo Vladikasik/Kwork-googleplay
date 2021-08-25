@@ -1,0 +1,43 @@
+{
+    "app_id": "com.minditsystems.PlaneWatch",
+    "category": [
+        "TOOLS"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "Plane Watch is a web & mobile app for plane spotting enthusiasts so you can simply see what all planes are flying around you at the moment. You don't necessarily need a flight number to be able to track where your family and friends' flight is right now.\nWhile they enjoy being in the 'airplane mode,' you can spot their plane on a Google map anytime!\nEnjoy the experience of seeing what the pilot sees when flying! Imagine yourself to be one. Best piece of news: all of this is absolutely free!!! So get your app today.\nApp features:\n1.\tSpot planes with your phone\n2.\tLocate the planes flying around you\n3.\tChoose  flight to view info about it\n4.\tTrack a specific flight on Google map\n5.\tPlane details include interesting info for you\n6.\tFly with your loved ones with cockpit view\n7.\tView information about airports\n* Free app to find planes around you & track them",
+    "description_html": "Plane Watch is a web &amp; mobile app for plane spotting enthusiasts so you can simply see what all planes are flying around you at the moment. You don't necessarily need a flight number to be able to track where your family and friends' flight is right now. <br/><br/>While they enjoy being in the 'airplane mode,' you can spot their plane on a Google map anytime!<br/><br/>Enjoy the experience of seeing what the pilot sees when flying! Imagine yourself to be one. Best piece of news: all of this is absolutely free!!! So get your app today.<br/><br/>App features:<br/>1.\tSpot planes with your phone<br/>2.\tLocate the planes flying around you <br/>3.\tChoose  flight to view info about it<br/>4.\tTrack a specific flight on Google map<br/>5.\tPlane details include interesting info for you<br/>6.\tFly with your loved ones with cockpit view<br/>7.\tView information about airports<br/><br/>* Free app to find planes around you &amp; track them",
+    "developer": "Mind IT Systems",
+    "developer_address": null,
+    "developer_email": "info@minditsystems.com",
+    "developer_id": "Mind+IT+Systems",
+    "developer_url": "http://planewatch.minditsystems.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {},
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/j1alc0u2myc5V0jDUaA9ZhfpdWXY52sFMEj0qT4G2_pXWsNxZyvrQQ3smdHHwbRaXRY",
+    "installs": "5,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 0,
+    "score": null,
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/WCsyhXFkjY2Xztj6yUzbGZkJaEmPVZvUKhouftNJmCXWYdWmfY9XQVenlGD5ildbBX0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ue7KMqEj53YpXtT5REWyiEyYA5Ln8HbhLToKlnuxvju5J4xsh5CMgqpHztQRgOkGxJwh=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bNHQHw-8_GPdVcC_aZKzvxzWIVFN0qKoAErty6ALOmUj0UEfNEuGQEfJ5U04u3KE87-o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Qxfeslkocho5roeYpB9C4bI55U9nUjvObwHljvCL7NfywbRJEuQdoZqhxq7tQPOpmnI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V_5qJdDZjS6sZpniculi78zClRmi6-tXRVB0dOhuBPpsS1omb2wQtp5X5DJy-aK2RA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/knKVyolPEdkTknjnUzir5q3MLelFVCvpyqC7nrrPccLHYjv6dQPOqJv2JG3wb75z1-0=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "Plane Watch",
+    "updated": "August 20, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.minditsystems.PlaneWatch&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

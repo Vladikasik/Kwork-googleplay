@@ -1,0 +1,47 @@
+{
+    "app_id": "com.conducivetech.android.traveler",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "FlightStats is a free real-time flight status and airport tracking application for Android.\nTake control of your day-of-travel by downloading FlightStats:\n- Quickly access worldwide flight status by flight number, airport or route\n- Watch flights as they move across the world on our gorgeous flight tracker\n- Share your flight right from the flight overview screen\n- Scan essential information like departure/arrival times, delay indexes, gates and weather\n- Share current airport conditions like delays and weather\n- Check the flight timeline to get in-depth descriptions of all activities about your flight\nFlightStats is a leader in global flight and airport information services. Our flight status, trip monitoring and flight alert solutions are trusted by millions of travelers every day.",
+    "description_html": "FlightStats is a free real-time flight status and airport tracking application for Android. <br/><br/>Take control of your day-of-travel by downloading FlightStats: <br/><br/>- Quickly access worldwide flight status by flight number, airport or route <br/><br/>- Watch flights as they move across the world on our gorgeous flight tracker <br/><br/>- Share your flight right from the flight overview screen<br/><br/>- Scan essential information like departure/arrival times, delay indexes, gates and weather<br/><br/>- Share current airport conditions like delays and weather<br/><br/>- Check the flight timeline to get in-depth descriptions of all activities about your flight <br/><br/>FlightStats is a leader in global flight and airport information services. Our flight status, trip monitoring and flight alert solutions are trusted by millions of travelers every day.",
+    "developer": "LNRS Data Services Limited",
+    "developer_address": "Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS",
+    "developer_email": "support@flightstats.com",
+    "developer_id": "LNRS+Data+Services+Limited",
+    "developer_url": "https://www.flightstats.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/3K42vZHU6KHPpKg4d_Z-zgU6ftw46JCYiKK-Ctx03YV-uD1CaxF6pPSa31IDQYeG8g",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 24647,
+    "score": "4.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/90S_1yyJqmbnrTMgl9bF1UndDc1iftbXcOeeQyejqrBCpto1JbN5wRTEZHwobWpcaXE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bEbEYRcUH2iZhe0LTDj79lpaoqHM8_Bmr8LRI5LfUZjzFAmZNGzQS8EzvFaixi2AMg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RG_qO7t9--I-NNYypCRLWifUHJxLhH4sO3BKktosDJ3cahcHJoX0qmLW7jCel9XDsg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FIWMjYOKtAMaO54PxV4xn0XoQM0p3w3yPmEoIoXTePUcxoFHqSrK28QUp6A3Ou8MN1-u=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "FlightStats",
+    "updated": "April 2, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.conducivetech.android.traveler&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

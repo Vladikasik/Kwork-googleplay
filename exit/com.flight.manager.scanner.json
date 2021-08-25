@@ -1,0 +1,50 @@
+{
+    "app_id": "com.flight.manager.scanner",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.0.3",
+    "description": "This app is a boarding pass wallet. It allows you to store all your boarding passes in one place and have them easily accessible when traveling. You can see it as a travel companion.\n1) Scan your boarding pass to import it.\n- You can provide a PDF file (usually what airlines will email you when you check-in online) or a JPEG or PNG file (screenshot) will also work.\n-\nNew:\nYou can also scan a physical pass that is issued at the airport for example, import your Boarding Pass in the app and go paperless!\n-\nNew:\nThe app now supports .pkpass files, you can \"share\" them in the app to import your boarding pass or simply click on it to open the pass with it.\n-\nNew:\nThe app has now a dark mode to reduce eyestrain and save battery\nIf you need to manually add a note or some fields in your boarding pass, you can manually do so and add anything to a boarding pass such as \"Boarding Group\" or \"Zone\" that are used a Boarding time.\nIf you import the pass from a passbook file (.pkpass) it will usually contain the boarding time, the gate and maybe the gate closure.\nThe app supports TSA PreCheck Boarding passes, displaying a TSA Pre Icon in such case.\n2) You'll get notified when your flight is approaching.\n- If available, you'll get the departure terminal and gate so you kow where to head to when arriving at the airport.\n- A few hours before your flight departure, you'll get a sticky notification to get direct access to your flight QR-code.\n3) Click on the flight notification to see the boarding pass QR code clearly visible to be scanned when boarding.\n- The brightness of the screen is adjusted to facilitate the scanning of the QR code.\nThe app will work offline, all boarding passes are saved locally so no worries if you don't have network when heading to the airport.\nThe app will delete boarding passes that are more than 2 weeks old automatically.\n------------------------------\nGerman \ud83c\udde9\ud83c\uddea App and description translated by\nJoachim Meyn",
+    "description_html": "This app is a boarding pass wallet. It allows you to store all your boarding passes in one place and have them easily accessible when traveling. You can see it as a travel companion.<br/><br/>1) Scan your boarding pass to import it. <br/>- You can provide a PDF file (usually what airlines will email you when you check-in online) or a JPEG or PNG file (screenshot) will also work.<br/>- <b>New:</b> You can also scan a physical pass that is issued at the airport for example, import your Boarding Pass in the app and go paperless!<br/>- <b>New:</b> The app now supports .pkpass files, you can \"share\" them in the app to import your boarding pass or simply click on it to open the pass with it.<br/>- <b>New:</b> The app has now a dark mode to reduce eyestrain and save battery<br/><br/>If you need to manually add a note or some fields in your boarding pass, you can manually do so and add anything to a boarding pass such as \"Boarding Group\" or \"Zone\" that are used a Boarding time.<br/><br/>If you import the pass from a passbook file (.pkpass) it will usually contain the boarding time, the gate and maybe the gate closure.<br/><br/>The app supports TSA PreCheck Boarding passes, displaying a TSA Pre Icon in such case.<br/><br/>2) You'll get notified when your flight is approaching. <br/>- If available, you'll get the departure terminal and gate so you kow where to head to when arriving at the airport.<br/>- A few hours before your flight departure, you'll get a sticky notification to get direct access to your flight QR-code.<br/><br/>3) Click on the flight notification to see the boarding pass QR code clearly visible to be scanned when boarding.<br/>- The brightness of the screen is adjusted to facilitate the scanning of the QR code.<br/><br/>The app will work offline, all boarding passes are saved locally so no worries if you don't have network when heading to the airport.<br/><br/>The app will delete boarding passes that are more than 2 weeks old automatically.<br/><br/>------------------------------<br/>German \ud83c\udde9\ud83c\uddea App and description translated by <a href=\"https://www.google.com/url?q=https%3A%2F%2Fwww.upwork.com%2Ffl%2Fjoachimmeyn&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEq1aa4MHDzWBIOhi7ZM_5arNy3rg\">Joachim Meyn</a>",
+    "developer": "Nicolas Bridoux",
+    "developer_address": "131 Avenue de la Somme\n33700, M\u00e9rignac\nFrance",
+    "developer_email": "nicobr65@gmail.com",
+    "developer_id": "Nicolas+Bridoux",
+    "developer_url": "https://bridouille.github.io",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$3.49",
+        "$5.49"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/rFdhVrgK0CY6dUL9wKIRIv2BU-fXnO7lNMbdHTRUk02tXuU6N1JlVJLTs9HwAE6tZ4Q",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 159,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/f7_TRuFs88Bmyc1wQIJKcEmkvRFwpT1Q0WMbdmVOLEB_AKkxFieYol__NWQNrNv4WrU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZYCanDD_r5p1qgyOVWc0mHHwfpkFkYSULYRB9UHyLqOjQBGwsG-_E6s2kQMwsjx9hg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9p2aj8wDwXgjuCHv3KCBTqf6H6NESAcD9_EbjtKjP6FKcHknZr42Cox3T2shFmJ_CTE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7ZEYSZcYSyyuT85yL3W-Ejw66KJFdvwx3MT2ClzMu1yZXIMMLaNXnFSde8ImWx5opQ=w720-h310-rw"
+    ],
+    "size": "6.9M",
+    "title": "Boarding Pass Wallet : Flight Manager",
+    "updated": "August 7, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.flight.manager.scanner&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

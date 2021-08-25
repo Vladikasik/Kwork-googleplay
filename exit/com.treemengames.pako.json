@@ -1,0 +1,70 @@
+{
+    "app_id": "com.treemengames.pako",
+    "category": [
+        "GAME_RACING"
+    ],
+    "content_rating": [
+        "Everyone 10+",
+        "Fantasy Violence, Mild Blood"
+    ],
+    "current_version": "1.0.8",
+    "description": "PAKO is a car chase highscore hunt. Escape the cops and avoid obstacles as long as possible. Levels differ to each other and have bonus elements like zombies and tanks.\nGame mechanics are super simple, two button controls with fast restart. No learning time, no tutorial, no unnecessary settings to tweak when you just want to play a round. PAKO literally cuts to the chase.\nFEATURES\n- Swap between camera views in the Pause menu\n- Tons of vehicles with different handling !\n- Various locations\n- Use dummy character to enter hidden vehicles\n- Online highscore lists\n- Achievements\n- Adrenaline pumping soundtrack by DKSTR\n- Pakocalypse mode for experienced players: meteors, zombies, tanks and chaos in all levels + shooting mechanics to defend your car from close hits\n- FREE with ads: Video ads also give you game credits\n- Intel x86 mobile devices supported\nFOLLOW US\nhttp://facebook.com/pakoTMG\nhttp://twitter.com/treemengames",
+    "description_html": "PAKO is a car chase highscore hunt. Escape the cops and avoid obstacles as long as possible. Levels differ to each other and have bonus elements like zombies and tanks.<br/><br/>Game mechanics are super simple, two button controls with fast restart. No learning time, no tutorial, no unnecessary settings to tweak when you just want to play a round. PAKO literally cuts to the chase.<br/><br/>FEATURES<br/>- Swap between camera views in the Pause menu<br/>- Tons of vehicles with different handling !<br/>- Various locations<br/>- Use dummy character to enter hidden vehicles<br/>- Online highscore lists<br/>- Achievements <br/>- Adrenaline pumping soundtrack by DKSTR  <br/>- Pakocalypse mode for experienced players: meteors, zombies, tanks and chaos in all levels + shooting mechanics to defend your car from close hits<br/>- FREE with ads: Video ads also give you game credits<br/>- Intel x86 mobile devices supported<br/><br/>FOLLOW US<br/>http://facebook.com/pakoTMG <br/>http://twitter.com/treemengames",
+    "developer": "Tree Men Games",
+    "developer_address": "Kolmas Linja 21 D 65\n00530 HELSINKI\nFINLAND",
+    "developer_email": "support@treemengames.com",
+    "developer_id": "7261624469856326668",
+    "developer_url": "http://treemengames.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/WsCUbrymL__LazQG2SjWTzXMlBUjdEggCInE1oz31w3rDu5K7xye3AaFY_wY2Fl2IUY",
+    "installs": "5,000,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 237624,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Dh1o5utIg-0piHxXR7rCJtqFf0LKcM0vr1xN1IIsbGSGdfHhDLiZ75cgnSVHhESL0TI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bBxFGJTyvN7tnuPx23NmOgC6u1BmfD9qbwVS6v9dHVvgFoE44aegInll6yoHL9F7TyM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/s64LVlD9UTrI2VCqDd1N3RVGfSNYNglpRPR_V5btznuXGvZBLTchS1C8TfWD2eMMzXXL=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yAI9wkPUwkra-LR_lk4vrxcWaReMt1lrkCYq5dz8yIsMXUAYod8sIQBpCclWlEclig=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_q4oFsPs5I5J0jegJ6bpWO-gx0mGvkAjkkqH_ArBiSWoKIZ_PThwuLFSsHdQy5XQ6NE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WOpv8Gb6eb-jbOTtWjXw8is6Oq7b4SBYfkkK8vTLMDY9aQJt_91D1MVIVDSINGEMurw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yiCuD5nMF4kwbq_IXu5F_6Ym-XGE5H-sTZfFe02UrFrhGnbKjq2qX_pez2x2i_Tn5OBz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0e-XZjvriVuYuoKzilToT_fRYGKv7YTCaytxrYcdKZ5CrWgiTDtpJyMtLZuZbfynMKU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K4pULbm5DYr3fG0VafTKAKqhsBV02cWjW-TlTaWWRilDm0VZvdJ-piEWuiXxEBAv2-E2=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/X2yUSqNcMmglMlUCmLruzljDAo7sba0i3OLjYGGoORtdniI1_l_cJXSf0SJQedRB5pc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ozy8XQnZbvt2fnMzmRgrIEWWMxVyomjZ4Yow8P_RHu-AvWsbGIWwHB-JdDv8HmXlUXw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5uMYd61ptzxJeDOgifQJb08yKSnrDxHHiAGItIGjvEa5rB4aeGpWOPLAfKX5_xFPog=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/e3k94PbShYVV_en-VGqNpHDq5M438k2I9HGTR-1Nd5t20EkP8FhWal07lQdgAsfO1VM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wxXtcdRgp-6HCxIBuge8u1of2yLaAOyc65YTudllsgnC9fLz1Z2EZrryd7UmftgjhRhE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/moFB8c57dl00K-HZEODDXXUQoKALPJj90VU13xyFoNtjA4JJ9ornQsbA3L-TF-M751s=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OenQAWhQ4xI58JSW7YWPiordVm1pR_EN8zlN0zVZxYuksS7xy1q8gGaqGo9-pdbF3Qk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qFrYXWj-Codx5vy-hVK_3uuhRE5JaDUSJ3fLhQ4dyrkdl0uOJltJtRvZqSM3dQKBexDr=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OEdKTEXSIBbUp_ytR9EMD5VLol75jRs5Ou6GU46ydUybTv1ZRNLZnMfMrIRNLEyfZnM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/m2izOPajbvzw-ufz3zCsjSBznS1YNZMNPbcieoUed1e0kVilbzSX74luoD3BxhkWUT4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/spyAHxa4SQAj82HSp67MKwvYEPh21kGKkuagyeeCZdlY_cxJvTbTT_CiRXNxjkoD_kId=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Wrw9kTa46K5J9ocL5KpoSghaLhXlKasszNZVolVsGcuYJRqolWmHjGek3hvTMWmy_g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/e1v8FH8HQPlwfz1ktKGkUZW0ZdEEYdO5-ot5cqRLD-XoYVdYLZm_L8iYi8OmtqDn_DRG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-Pg6ALPFq7CQB5dzHWRP2nuk3QvNXM30UnFHafpNnX5iI-u83XMN15IRTPMP36AWNkg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/f0j5GBdw7W2SqadzGZL4tkuFBhyMTyo-WIbeciDqV40vOdvjN3RGUsz0gU5usVk5ZeQ=w720-h310-rw"
+    ],
+    "size": "43M",
+    "title": "PAKO - Car Chase Simulator",
+    "updated": "September 3, 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.treemengames.pako&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/0oMH_7bRp9A"
+}

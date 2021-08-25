@@ -1,0 +1,47 @@
+{
+    "app_id": "com.spirit.customerapp",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.2.1",
+    "description": "Our newly redesigned app has been enhanced to provide a more dynamic relevant experience where you can stay informed and use more self-serve capabilities. Its only the beginning, more to come!\nReady for More Go? With the Spirit Airlines app, easily manage all your trips in one place. Book your next getaway, check-in for your flight, get your boarding pass, and receive flight status updates when you actually need them. Travel faster and lighter than ever before with your new travel app companion.\nMy Trips\n- Get the information you need right at your fingertips with all your upcoming trips in one place. Quickly see your flight status, gate/terminal, seat assignment, and much more!\n- Get notified when it\u2019s time to check-in so you\u2019re ready to go the next day\n- Access your boarding pass and move hassle-free through the airport\n- Need to make a change? Quickly update your seats, add bags or options to your trip\nBook Flights\n- Find and quickly book your next getaway with ease\nFlight Status\n- Stay up-to-date with the latest flight notifications informing you of any impacting changes\n- Easily check flight statuses so you know when your family and friends are arriving\nMy Account\n- Sign up for Free Spirit\u00ae to start earning points immediately and use for award travel\n- View your member number, tier status and track your point balance\n- See points required to achieve next tier status\n- Personalize your profile with your own avatar",
+    "description_html": "Our newly redesigned app has been enhanced to provide a more dynamic relevant experience where you can stay informed and use more self-serve capabilities. Its only the beginning, more to come! <br/><br/>Ready for More Go? With the Spirit Airlines app, easily manage all your trips in one place. Book your next getaway, check-in for your flight, get your boarding pass, and receive flight status updates when you actually need them. Travel faster and lighter than ever before with your new travel app companion. <br/><br/>My Trips<br/>- Get the information you need right at your fingertips with all your upcoming trips in one place. Quickly see your flight status, gate/terminal, seat assignment, and much more!  <br/>- Get notified when it\u2019s time to check-in so you\u2019re ready to go the next day <br/>- Access your boarding pass and move hassle-free through the airport<br/>- Need to make a change? Quickly update your seats, add bags or options to your trip<br/><br/>Book Flights<br/>- Find and quickly book your next getaway with ease <br/><br/>Flight Status<br/>- Stay up-to-date with the latest flight notifications informing you of any impacting changes<br/>- Easily check flight statuses so you know when your family and friends are arriving <br/><br/>My Account <br/>- Sign up for Free Spirit\u00ae to start earning points immediately and use for award travel<br/>- View your member number, tier status and track your point balance<br/>- See points required to achieve next tier status<br/>- Personalize your profile with your own avatar",
+    "developer": "Spirit Airlines Inc.",
+    "developer_address": null,
+    "developer_email": "mobilehelp@spirit.com",
+    "developer_id": "Spirit+Airlines+Inc.",
+    "developer_url": "http://www.spirit.com/app",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/EAoDg62PBmZAUp5O7BYuwkmKz7IvO9f6tPs2j623xTSnDbXwPUv1ByqRtfkUtGbjwQ",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "8.0 and up",
+    "reviews": 31972,
+    "score": "4.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/UYqEZ1LRdrosHvZSpai31mjHjignlmd7D6BmxNyRWuzUWd8Z9jL-KGBVbFLgZTk9Nl2i=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3BnfpsI6qxhamFHHT7d-8xpGfVWnC93zzio2_I3Ok44dBZtWRE9n6B8Xk3wRx0rLn3t7=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VTSr-LAQVY2-hJkNJ26UFnKkbkziAGL6SOMrmgAcjtMCR5piVRPLyxNdZbtmJcXKSso=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lvrhateDHxlmbbIcgJym_rjQLm9wwWqZYzZsMEZc9s3OmZ2xtdG13C_EiLx_JYBFDQ=w720-h310-rw"
+    ],
+    "size": "73M",
+    "title": "Spirit Airlines",
+    "updated": "July 30, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.spirit.customerapp&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

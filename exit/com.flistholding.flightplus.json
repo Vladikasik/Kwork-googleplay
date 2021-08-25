@@ -1,0 +1,54 @@
+{
+    "app_id": "com.flistholding.flightplus",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.6.2",
+    "description": "All available airlines and flights for any airport, all over the world.\nGet in-depth information about; arrivals, departures, terminal & gates, delays, and much more.\nCheck easily when it's time to go pick up a friend. The Flight Tracker is the most convenient flight app you will find on Google Play. Travel safe & enjoy your flight!\nWHY YOU'LL LOVE THE FLIGHT TRACKER\n\u2022 Track any flight in the world\n\u2022 Detailed Departure and Arrival information\n\u2022 Flight Delay info\n\u2022 Real-time Terminal and Gate updates\n\u2022 Add your boarding pass\n\u2022 Plan your flights on Trips\n\u2022 Check local weather at your destination\n\u2022 Add notes with your flight details\n\u2022 Easy share your flight info\n\u2022 Automatically synchronizes with your TripIt account\n\u2022 Sync with your calendar\n\u2022 Interesting Aircraft facts\nALERTS BY PUSH NOTIFICATION\n\u2022 Scheduled/Actual Departure or Arrival Time changes\n\u2022 Gate and Terminal changes\n\u2022 Live Flight Status updates\n\u2022 Schedule Departure/Arrival reminders\nBOARDING PASS\nKeep all your travel information in one place. Check-in with your airline and use the QR code to scan your boarding pass to The Flight Tracker.\nUse your mobile boarding pass easily at the gate. The Flight Tracker is the only app you need while traveling!\nFLIGHT NOTES\nPrepare any flight ahead by adding flight notes with your flight details. Fly for business purposes or just to see the world? Share your flight information easier through a diversity of social media networks. (e-mail, text message, Facebook, Twitter, and WhatsApp).\n\u25e5\u25e3______ GET FULL ACCESS TO PREMIUM FEATURES  ______\u25e2\u25e4\nUpgrade to a Premium Membership and receive the following ongoing value:\nAd-Free\nPractical Widgets\nSeat Maps\nAIRPORTS / AIRLINES\n\u2022 Find any airport and airline worldwide\n\u2022 Flight Board of all departures/arrivals per airport\n\u2022 Terminal Maps for major airports\n\u2022 Detailed airline info\nDon\u2019t See Your City or Airport? Don\u2019t Worry. We Are Adding More Regularly.\nGo to feedback@impalastudios.com and Send Your Request!\nMAPS\n\u2022 Zoomable Maps with live flight track info\n\u2022 Offline viewing features enabled for use in airplanes\n\u2022 WE LOVE FEEDBACK \u2022\nAs always, we appreciate your feedback.\nPlease keep sharing your experience to feedback@impalastudios.com\nDo you love our app? Please rate and review us on Google Play!\nThe Flight Tracker (c) 2014 Impala Studios.",
+    "description_html": "All available airlines and flights for any airport, all over the world. <br/>Get in-depth information about; arrivals, departures, terminal &amp; gates, delays, and much more.<br/>Check easily when it's time to go pick up a friend. The Flight Tracker is the most convenient flight app you will find on Google Play. Travel safe &amp; enjoy your flight!<br/><br/>WHY YOU'LL LOVE THE FLIGHT TRACKER<br/>\u2022 Track any flight in the world <br/>\u2022 Detailed Departure and Arrival information <br/>\u2022 Flight Delay info<br/>\u2022 Real-time Terminal and Gate updates<br/>\u2022 Add your boarding pass<br/>\u2022 Plan your flights on Trips<br/>\u2022 Check local weather at your destination<br/>\u2022 Add notes with your flight details<br/>\u2022 Easy share your flight info<br/>\u2022 Automatically synchronizes with your TripIt account <br/>\u2022 Sync with your calendar<br/>\u2022 Interesting Aircraft facts <br/><br/>ALERTS BY PUSH NOTIFICATION<br/>\u2022 Scheduled/Actual Departure or Arrival Time changes <br/>\u2022 Gate and Terminal changes <br/>\u2022 Live Flight Status updates <br/>\u2022 Schedule Departure/Arrival reminders<br/><br/>BOARDING PASS<br/>Keep all your travel information in one place. Check-in with your airline and use the QR code to scan your boarding pass to The Flight Tracker.<br/>Use your mobile boarding pass easily at the gate. The Flight Tracker is the only app you need while traveling!<br/><br/>FLIGHT NOTES<br/>Prepare any flight ahead by adding flight notes with your flight details. Fly for business purposes or just to see the world? Share your flight information easier through a diversity of social media networks. (e-mail, text message, Facebook, Twitter, and WhatsApp).<br/><br/>\u25e5\u25e3______ GET FULL ACCESS TO PREMIUM FEATURES  ______\u25e2\u25e4 <br/>Upgrade to a Premium Membership and receive the following ongoing value:<br/>Ad-Free<br/>Practical Widgets<br/>Seat Maps<br/><br/>AIRPORTS / AIRLINES<br/>\u2022 Find any airport and airline worldwide <br/>\u2022 Flight Board of all departures/arrivals per airport <br/>\u2022 Terminal Maps for major airports <br/>\u2022 Detailed airline info<br/><br/>Don\u2019t See Your City or Airport? Don\u2019t Worry. We Are Adding More Regularly.<br/>Go to feedback@impalastudios.com and Send Your Request!<br/><br/>MAPS <br/>\u2022 Zoomable Maps with live flight track info<br/>\u2022 Offline viewing features enabled for use in airplanes <br/><br/>\u2022 WE LOVE FEEDBACK \u2022 <br/>As always, we appreciate your feedback.<br/>Please keep sharing your experience to feedback@impalastudios.com<br/>Do you love our app? Please rate and review us on Google Play!<br/><br/>The Flight Tracker (c) 2014 Impala Studios.",
+    "developer": "Impala Studios",
+    "developer_address": "Leidsevaart 16\n2013 HA Haarlem\nThe Netherlands",
+    "developer_email": "help@impalastudios.com",
+    "developer_id": "7774746132611575805",
+    "developer_url": "https://impalastudios.com/apps/the-flight-tracker-android",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$13.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/2CVweyLSYDYvC5VINV1xjgwfUGT0RpnUcTk0wkZGFfyZgFpHrwm2_9j-TkbErQRpG1o",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 25521,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ajIUrZlA-gAShwPiLF8tv0QDCVwlJOH7NzccLb1SQX5EEjyUSH0fPjBNbP6jCpZQsyGI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kbHYj0JGCqlJTFQbZC_r_cRgj4Cwn5zC-9VwbvYg8btNm6v_h2qvoLo4-mlMxNPdBYI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/R_p-cy_RHReO--6Rt6cMzSfyQV40lSOOG1gPEHTB7Az6AWyIZRD3KIPcPf3JnWLjdJrI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yCldwheHNfPT0M6HmGD1AlhcgQkCjlndpUVhPnvJTOTf5T1byzAgeuhAmTxobHghPDQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vxn6binjeK7_KVDLnGP2iJQZ9PPVmbsblwNEPtKzBO_tanzgRn6cJr5d98sU6wYKGKs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JIkSMTTt4jBeBcHpc2myDa6pnEQRtfUngw3WC_C7MtlXqVjap9qNpXv6dCxIbpA-gdY=w720-h310-rw"
+    ],
+    "size": "24M",
+    "title": "The Flight Tracker",
+    "updated": "July 6, 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.flistholding.flightplus&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/UiynuIUl1_k"
+}

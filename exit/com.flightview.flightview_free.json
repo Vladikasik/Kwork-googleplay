@@ -1,0 +1,70 @@
+{
+    "app_id": "com.flightview.flightview_free",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "Flight tracking app from the leaders in real-time flight information.  Track upcoming and in-air flights throughout the world, and receive status alerts via push notification.  Check gate assignments, delays and cancellations and use the attractive flight map to see a flight's progress. Forward your itinerary confirmation emails, and FlightView will automatically load them into your Trips.  See your Trips across mobile devices and at www.FlightView.com.  View a North American airport delay map with radar weather overlay.  Optimized for phone and tablets.  Wherever life takes you, count on FlightView to help you travel smarter!\nFlight Tracking Features:\n\u2022 Track flights on a map showing flight path and current radar weather\n\u2022 My Home page gives an easy view into your home airport\u2019s current status and your next trip\n\u2022 Flight Status Push Alerts for flights stored in My Trips\n\u2022 View terminal, gate and baggage claim information\n\u2022 See where the plane for your flight is coming from, and check its status via Aircraft's Previous Flight\n\u2022 Driving Directions to Airport integration with Google Maps\n\u2022 Easily find alternative flights by viewing flight schedules between cities\n\u2022 Search flights up to 350 days in the future and save them\nMy Trips Features:\n\u2022 (BETA) Forward your itinerary confirmation email to Trips@FlightView.com, and it will be automatically loaded into your My Trips on your device\n\u2022 Trips are synced between devices and with www.FlightView.com so you can quickly reference their statuses everywhere\n\u2022 Add notes to flights or trips, such as car rental and hotel reservation numbers, and keep all of your day-of-travel information in one place\n\u2022 While in-flight, review your saved itineraries in Airplane mode\nAirport Delay Information Features:\n\u2022 View a color-coded map of airport delays in the US & Canada with weather overlay to see how your travel plans could be affected\n\u2022 View list of airports suffering the Biggest Departure Delays right now\n\u2022 View FlightView's proprietary Airport Delay Index for 180 major airports in the US and Canada\n\u2022 View FAA Airport Closures & Delay Programs for major airports in the US\nSharing Features:\n\u2022 Share trip itineraries via email or share flights via email or SMS/text\n\u2022 Tweet your flight status\n\u2022 Post your Trip Itinerary or Flight Information on Facebook\n\u2022 Login to FlightView using Facebook login\nCalendar Integration?\n\u2022 If you need to post your Flights to your Calendar, then check out our FlightView application in the paid section of the App Store\nTired of Ads?\n\u2022 If you would like to avoid seeing ads, then check out our FlightView application in the paid section of the App Store - no ads there!",
+    "description_html": "Flight tracking app from the leaders in real-time flight information.  Track upcoming and in-air flights throughout the world, and receive status alerts via push notification.  Check gate assignments, delays and cancellations and use the attractive flight map to see a flight's progress. Forward your itinerary confirmation emails, and FlightView will automatically load them into your Trips.  See your Trips across mobile devices and at www.FlightView.com.  View a North American airport delay map with radar weather overlay.  Optimized for phone and tablets.  Wherever life takes you, count on FlightView to help you travel smarter!<br/><br/> Flight Tracking Features:<br/> \u2022 Track flights on a map showing flight path and current radar weather<br/> \u2022 My Home page gives an easy view into your home airport\u2019s current status and your next trip <br/> \u2022 Flight Status Push Alerts for flights stored in My Trips<br/> \u2022 View terminal, gate and baggage claim information<br/> \u2022 See where the plane for your flight is coming from, and check its status via Aircraft's Previous Flight <br/> \u2022 Driving Directions to Airport integration with Google Maps<br/> \u2022 Easily find alternative flights by viewing flight schedules between cities<br/> \u2022 Search flights up to 350 days in the future and save them<br/><br/>My Trips Features:<br/> \u2022 (BETA) Forward your itinerary confirmation email to Trips@FlightView.com, and it will be automatically loaded into your My Trips on your device <br/> \u2022 Trips are synced between devices and with www.FlightView.com so you can quickly reference their statuses everywhere <br/> \u2022 Add notes to flights or trips, such as car rental and hotel reservation numbers, and keep all of your day-of-travel information in one place<br/> \u2022 While in-flight, review your saved itineraries in Airplane mode<br/><br/>Airport Delay Information Features:<br/> \u2022 View a color-coded map of airport delays in the US &amp; Canada with weather overlay to see how your travel plans could be affected<br/> \u2022 View list of airports suffering the Biggest Departure Delays right now <br/> \u2022 View FlightView's proprietary Airport Delay Index for 180 major airports in the US and Canada<br/> \u2022 View FAA Airport Closures &amp; Delay Programs for major airports in the US<br/><br/>Sharing Features:<br/> \u2022 Share trip itineraries via email or share flights via email or SMS/text<br/> \u2022 Tweet your flight status<br/> \u2022 Post your Trip Itinerary or Flight Information on Facebook<br/> \u2022 Login to FlightView using Facebook login<br/><br/>Calendar Integration?<br/> \u2022 If you need to post your Flights to your Calendar, then check out our FlightView application in the paid section of the App Store<br/><br/>Tired of Ads?<br/> \u2022 If you would like to avoid seeing ads, then check out our FlightView application in the paid section of the App Store - no ads there!",
+    "developer": "OAG Aviation Worldwide Limited",
+    "developer_address": "55 Chapel St.\nNewton, MA 02458",
+    "developer_email": "androidappsupport@flightview.com",
+    "developer_id": "OAG+Aviation+Worldwide+Limited",
+    "developer_url": "https://www.flightview.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.99",
+        "$17.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/pxpXPp3_u_wIwLz5dUzaTsXDID3QPR4p8NdKE8dvNgwugCjIPyq5Hv2e4NeAukUCCg",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 10082,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/HPDVZopBorCHzczQFSKr45djQsKNCMCTVNEBFW-9qwqiDpWe01rbhGosoiuNeVo1Mw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZiL7ynx_5O3d3Ys4o4wHs8kVek6hLmlO9Bn1Eh8BJKS1aGt7tBDm3D0sjprF0NpnPJ3M=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oj_3c1TNUa2jTYci2A3mSB1HN2E8Bx60Pi6YpnsElYpwXjZskS8c6JwRN_PUqWZcW2w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-KeXf8shvriY5LwkoGvyZf4ZDcKxsiUX38C9-jkYdtftj5n32z1svwbKbrFVsX75-w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5DIsd3aY-RzSTV7enHpVTt1NWewSvcd5gtuUMeVdvkXx780ZuwpIVDJ3NVAuIacJ97U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ynLZIk1Y4HYjWgFYNWJxEuA5sOUzPUsmViMrN6JvCoy1345srkEa29m3RVu5f5803GcV=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3CgP6V5I-0MWYQOVCKLbv2nq20w7gffJdKWuZUI_Ik78M6r-mnT7J9J2AjZjZgC4Ng=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZYuDWdcp8wQE28bMZXglOwo6f9QG2OVphkqs75aQsoOGrDUhTwYPGZjig-Ocz4PF0MA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UnwvIIsv0JecTC67NRHlFKDqNuqq3oaL_kwJY9wxnxw974hjNUjYMou5hdPASDQLZ3U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K-Jg6RSntVZe5Bjnk3wtt--3RR5_R8SxDgFxvMnbNx2U9CAgqBCwe3VTuIOpzUXT_Oc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ru2cYj0pxJE8L8o6AKQXF2mLk90KmG21zViFfemxiSbJGtQb2-BXJoZqyHpY7ufkYCI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WWnE_Z6FrmZPaI9fS06zG1VrtdmvKjY_F5gm2b_I8cwT1nO9VN-wgNY4M26tj1YXGJs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mxIzz6JZYG8GuhmKGZijEgCZtvHeRDCKhzy0t65nCOR71Euq8V8nPmLWY5ygRdWMaqMG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dTOAuC5hQJArCAyQOTI4pzNA60Ah2w-xv4tIchYNv9Q65CO_apU4dI3S39km8VTYIDo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/E19h_Wnd8JK_SBwPRY-9tPE13wvZ4vyGV-HjNJZr5hdxQxs-mKipioB7-f6zu5G-2us=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lSxVtKfvYdRSbN1_WbZqLS-QRGP7VLvKflBUKI1zjorhInQmiEuN3GeuUwUUGQTpkuw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wgm6iU5Cqytpn6-PkS_zSpLW-nnScwg0xBmZPDmLHAnD-7M07igrNehVe6X9L68ONw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ioZJbKVEtHcRY---gTAGN_ciQc3FVjJeuVWJqpFiqbkW1Uhj0xKgt2XYfcDo9MvTcLj0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/U6an9wA0egk7C7MAxHkYhep6E8Lgvnw27VBMlmv4yvAds1zOy5BY-ZtffK20c3o-aQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/goKtSglzu_Gnp8Aa9rnr6ah7R_ZLJ5UHZOkLfJSXZAfxq-dNk5hVumAL_mKnfbspfPcq=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ga8cVDUOSgDuc5dmkMyd_WXviK7mPg1S6yRsaKLlhbfzOi7KU4W5RZ1Cy9ni2dPD6m4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0J65dIMgFezrhit7aeG_rEKKshudrnEVT1kDonWN6EB1U4BOxhN2li7DpcuU0MCiKg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Q4jaV7o9e9oMOKvZV3qR_S9QzewnChZr1TACf5RgHHUheQBF2Pu5zjOLW0QLCHxClXo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/chsaS8Ldza9PSaoHtO4qosgBHy4Q2flEO0G-swBNdW1tKeQ7jeB42AO-RhJhRKv0QOYY=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "FlightView: Free Flight Tracker \u2013 Plane Finder",
+    "updated": "July 13, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.flightview.flightview_free&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

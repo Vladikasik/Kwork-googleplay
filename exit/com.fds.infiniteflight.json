@@ -1,0 +1,72 @@
+{
+    "app_id": "com.fds.infiniteflight",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "Varies with device",
+    "description": "Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration.\nFeatures:\n\u2022 Dozens of aircraft in a diverse fleet of airliners, general aviation and military aircraft (subscribe to Infinite Flight Pro to unlock all aircraft)\n\u2022 Multiple regions featuring high definition satellite imagery, accurate topography and all major airports with precise runway and taxiway layouts\n\u2022 Growing list of 3D airports around the world\n\u2022 Real-world navigation data including airspaces, NAVAIDs, SIDs, STARs, and approaches, furnished by NavBlue (an Airbus Company)\n\u2022 Customizable time of day and weather conditions (real-time or custom)\n\u2022 Realistic atmospherics with the sun, moon, stars, clouds, and low-level fog\n\u2022 Autopilot (supports control of all flight parameters, NAV mode to follow your flight plan, and auto land on select aircraft)\n\u2022 Easy-to-use flight planning system with accurate fixes and Navigational Aids\n\u2022 Engine startup and shutdown\n\u2022 Instrument Landing System (ILS)\n\u2022 Advanced replay system\n\u2022 Weight and balance configuration\n\u2022 Aircraft cockpit and door animations, suspension animations, and wing flex, on select aircraft.\nSubscribe to Infinite Flight Pro for an all-access experience that allows you to fly anywhere in the world with live weather and our entire fleet of aircraft. Join thousands of other pilots and air traffic controllers for the most engaging online flight simulator experience available today!\nInfinite Flight Pro subscription benefits:\n\u2022 Join thousands of other pilots for a global multiplayer experience\n\u2022 Fly the world with millions of square miles of high definition scenery with access to over 25,000 airports (no region lock-in)\n\u2022 Enjoy all available aircraft\n\u2022 Act as an Air Traffic Controller (minimum experience grade required)\n\u2022 Fly through live weather and winds aloft\n\u2022 Subscription Options: 1 Month, 6 Months, and 12 Months\n\u2022 Payment will be charged to iTunes Account at confirmation of purchase\n\u2022 Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end\nof the current period\n\u2022 Account will be charged for renewal within 24-hours prior to the end of the current period, and\nidentify the cost of the renewal\n\u2022 Subscriptions may be managed by you and auto-renewal may be turned off by going to your user Account Settings after purchase\nNote:\nInternet connection (WiFi or Cellular) is required to use Infinite Flight.\nPrivacy Policy:\ninfiniteflight.com/legal/privacy\nTerms of Service:\ninfiniteflight.com/legal/terms",
+    "description_html": "Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration. <br/><br/>Features:<br/>\u2022 Dozens of aircraft in a diverse fleet of airliners, general aviation and military aircraft (subscribe to Infinite Flight Pro to unlock all aircraft)<br/>\u2022 Multiple regions featuring high definition satellite imagery, accurate topography and all major airports with precise runway and taxiway layouts<br/>\u2022 Growing list of 3D airports around the world<br/>\u2022 Real-world navigation data including airspaces, NAVAIDs, SIDs, STARs, and approaches, furnished by NavBlue (an Airbus Company)<br/>\u2022 Customizable time of day and weather conditions (real-time or custom)<br/>\u2022 Realistic atmospherics with the sun, moon, stars, clouds, and low-level fog<br/>\u2022 Autopilot (supports control of all flight parameters, NAV mode to follow your flight plan, and auto land on select aircraft)<br/>\u2022 Easy-to-use flight planning system with accurate fixes and Navigational Aids<br/>\u2022 Engine startup and shutdown<br/>\u2022 Instrument Landing System (ILS)<br/>\u2022 Advanced replay system<br/>\u2022 Weight and balance configuration<br/>\u2022 Aircraft cockpit and door animations, suspension animations, and wing flex, on select aircraft.<br/><br/>Subscribe to Infinite Flight Pro for an all-access experience that allows you to fly anywhere in the world with live weather and our entire fleet of aircraft. Join thousands of other pilots and air traffic controllers for the most engaging online flight simulator experience available today! <br/><br/>Infinite Flight Pro subscription benefits:<br/>\u2022 Join thousands of other pilots for a global multiplayer experience<br/>\u2022 Fly the world with millions of square miles of high definition scenery with access to over 25,000 airports (no region lock-in)<br/>\u2022 Enjoy all available aircraft <br/>\u2022 Act as an Air Traffic Controller (minimum experience grade required)<br/>\u2022 Fly through live weather and winds aloft <br/>\u2022 Subscription Options: 1 Month, 6 Months, and 12 Months<br/>\u2022 Payment will be charged to iTunes Account at confirmation of purchase<br/>\u2022 Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end<br/>of the current period<br/>\u2022 Account will be charged for renewal within 24-hours prior to the end of the current period, and<br/>identify the cost of the renewal<br/>\u2022 Subscriptions may be managed by you and auto-renewal may be turned off by going to your user Account Settings after purchase<br/><br/>Note: <br/>Internet connection (WiFi or Cellular) is required to use Infinite Flight.<br/><br/>Privacy Policy:<br/>infiniteflight.com/legal/privacy<br/><br/>Terms of Service:<br/>infiniteflight.com/legal/terms",
+    "developer": "Infinite Flight LLC",
+    "developer_address": "691 S. Milpitas Blvd., Suite 212\nMilpitas, CA 95035",
+    "developer_email": "hello@infiniteflight.com",
+    "developer_id": "Infinite+Flight+LLC",
+    "developer_url": "https://infiniteflight.com",
+    "editors_choice": false,
+    "free": false,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$4.99",
+        "$79.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lmlNffMN1Rp02wZ73jHFh21TKYGe_Oh-vGsjF5XcSGT5EBgVssghvITBUtw1G4Vfptg",
+    "installs": "500,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "$0.99",
+    "recent_changes": null,
+    "required_android_version": "Varies with device",
+    "reviews": 13828,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/rFgKBhGp7EeZtB6O62oYXoY_wZXyBoO33uysbtXCeLwYZRXvML4f9Zy0PsI0fz6I4P5B=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jslRlks9sH_eW2hFHaVwpHEgCea7shXiJanrSmTgvrjTSJVmeBo5tcG6Y3Ni5uCidw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kntbLefUs-GcOZgabDO2utDKTssBbowoGxHSg7FAAYV7lcsydOCls749l91i6nov2Pid=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/toDiYslJx5-kd2SDKTXjPF2YhNOUf1ovljlxuEkLDVZGyQYVUtHXUE3RcjlCoq2xJg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LGFLOdV3ZMahjATQvLxFgs59gHWxkyay9KQB07qVvxc8IxjkGZZg-KdDF7UD0x8Ohw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZEYqNI7DNIqwcY4SqdRtz6gk6UGen9S0bjOuZLopqtXrAfnxW_Lo2EJgaNszlXaGYQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mi1Y-TLCMSoyDjFPXVcyeCst9bZBcFJIxiqLB13LKHnAjpDL2_-Z6_y9Y8G7ZPpPs-6w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QxUrZIMg-WLVRh0DvNA5B12QvmHZkfYN13hJTzS3Cuoplt4kb_D5qf15hQQ6wPhiqpc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WhLzaV6bpf3BULzEGGMZIW-Mns0-dSYOXr9rC2XLrBYHbOS2bALp-j_6qhDQEao4xhM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Kree_P4eYqD0u2WZT8xFsFcdQ1oMUd9_rqLZdp399nfOFq25wfOlVsVTUrAFKj2QLhD8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NQp63gc2PvkDpyJRq561glZADSo14zRIm1DKd0012XV3UjWdKPqw5eCmSQ2X0PyTN8o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wfgWbGk7mqXWH88ikLsIaslus1mtKwHTy2Wo6EH4PMBaKW40iVHJfL7r9S6wTUS6R28=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aqgKL1VLneEh5I8rMQ7rbwNumS3jWA3ztWWYlS6V96-nrGl3EOeAoB4_JCU9U912K5XF=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tBUmmD4dVvYq109PUm47nPi23oMZOyqBwpxLfVWiRTXhpRZjRdiVPhW5VcJQAeYG-w0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/u03UH3Jq4H9hYT_FvMl36wLjuAsRnVl4Z02HG3Yd86LGuhflrjv6-cACNDCMmhdW3A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8qToLAWqxCJpzmG8jpZBksACC-XrfoGdvaC2nr1LfFMBXWj1Hr19BrZrcij4f3bDAA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NMkVS7HUMVbTk5x6YR_p5JUbPb5co359xY6p4zUizYeekplkZhQJp4wU0TS2QB-pX0Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YLvdjC0v7mHk1i_cS-bvSllNPIsLsqcE6QTnZsEz0nR9rdPb7ppzoOejCyYxjuvPSGiz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BQgmRuzMJPVLEMiEBOOymVdn1P3HXmuVo9eq4qbOUpkfjW3u_JMNHNNDKgyayLzqE-8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7LTWcah19jLm3zdBLRSkPO4Pu2Y720NSHSAqdpuGBnfbQJvEWo0fTe8FQ8PVtkK5j08=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tHsjuAi317vDkEiuGoOXWWkqxinjXl_guzawNCgzjovwMM1qdms0Hor0YkCu99AFHe0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/KSfUHASz3HBgBf52_T8R3RvK0L9uhb83IeE2RrvO_wqEk-ORdfDSkrcWSDkIW2J2bg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XljeFlC6n5myBOkeUjKH9CjN5nZvYwDtsYhrKcScDXJFilsM_guvsXTzwXcs4h-6FZg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9OTLyrxfZZuraQj62rrVArZo7437N-nZgXdQY-IzR59hRHYp3Vh9orO-WXoTePuyNA=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "Infinite Flight - Flight Simulator",
+    "updated": "July 26, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.fds.infiniteflight&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/2EpGvqrzj54"
+}

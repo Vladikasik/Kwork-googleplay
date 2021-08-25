@@ -1,0 +1,53 @@
+{
+    "app_id": "com.pinkfroot.planefinder",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "7.8.3",
+    "description": "Plane Finder shows live moving planes on a worldwide map. The map view is front and center giving an uninterrupted view of air traffic and features are quick to access.\nPlane Finder has been top rated and top ranking since 2009.\nSearch by flight number, place name, airport, airline and aircraft or browse the map.\n23 different plane markers are included and airline logos are displayed next to planes for easy identification.\nSimply tap a plane to see detailed flight and aircraft information including photographs or tap an airport to see live arrivals and departures boards.\nYou can even use Augmented Reality (AR) view to identify planes overhead using your device camera.\nPowerful and unlimited custom filters are free to use. You can create, save and name as many filters as you need for quick access to the planes you are interested in.\nAdd and browse bookmarks to saved locations around the globe to quickly navigate to areas or airports of interest.\nCustom alerts are unlimited and unlocked via an In App Purchase, so you can take a break from watching the air traffic and let the app notify you when a plane is in the air or nearby.\nPlane Finder has been featured by Gizmodo, CNN, GMA, BBC, Sunday Times, Mail on Sunday, CNET, Wired, GQ Magazine and many more. We have millions of happy users and Plane Finder is regularly updated with innovative new features. Our support team always listen to and reply to feedback.\nWe operate our own extensive flight tracking network which is expanding every day!\nImportant Note:\nPlane Finder works by picking up real time ADS\u2010B signals used by aircraft to transmit positional data to land based receivers. This technology is faster than traditional radar and is used for air traffic control and navigation. ADS\u2010B is not used by all airlines or aircraft, however this is changing and the number of aircraft tracked by ADS\u2010B is increasing all of the time. Traditional radar type data in near real time is also included for North America; this is subject to a short time delay.\nDisclaimer: The use of the information presented using Plane Finder is strictly limited to pursuing enthusiast activities (i.e. for entertainment purposes), which specifically exclude any activities that might endanger yourself or the lives of others.\nUnder no circumstances will the developer of this application be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.",
+    "description_html": "Plane Finder shows live moving planes on a worldwide map. The map view is front and center giving an uninterrupted view of air traffic and features are quick to access. <br/><br/>Plane Finder has been top rated and top ranking since 2009.<br/><br/>Search by flight number, place name, airport, airline and aircraft or browse the map. <br/><br/>23 different plane markers are included and airline logos are displayed next to planes for easy identification. <br/><br/>Simply tap a plane to see detailed flight and aircraft information including photographs or tap an airport to see live arrivals and departures boards. <br/><br/>You can even use Augmented Reality (AR) view to identify planes overhead using your device camera. <br/><br/>Powerful and unlimited custom filters are free to use. You can create, save and name as many filters as you need for quick access to the planes you are interested in. <br/><br/>Add and browse bookmarks to saved locations around the globe to quickly navigate to areas or airports of interest. <br/><br/>Custom alerts are unlimited and unlocked via an In App Purchase, so you can take a break from watching the air traffic and let the app notify you when a plane is in the air or nearby. <br/><br/>Plane Finder has been featured by Gizmodo, CNN, GMA, BBC, Sunday Times, Mail on Sunday, CNET, Wired, GQ Magazine and many more. We have millions of happy users and Plane Finder is regularly updated with innovative new features. Our support team always listen to and reply to feedback. <br/><br/>We operate our own extensive flight tracking network which is expanding every day!<br/><br/>Important Note: <br/>Plane Finder works by picking up real time ADS\u2010B signals used by aircraft to transmit positional data to land based receivers. This technology is faster than traditional radar and is used for air traffic control and navigation. ADS\u2010B is not used by all airlines or aircraft, however this is changing and the number of aircraft tracked by ADS\u2010B is increasing all of the time. Traditional radar type data in near real time is also included for North America; this is subject to a short time delay. <br/><br/><br/>Disclaimer: The use of the information presented using Plane Finder is strictly limited to pursuing enthusiast activities (i.e. for entertainment purposes), which specifically exclude any activities that might endanger yourself or the lives of others. <br/>Under no circumstances will the developer of this application be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.",
+    "developer": "pinkfroot limited",
+    "developer_address": "Stag Gates House\n63-64 The Avenue\nSouthampton\nSO17 1XS\nUK",
+    "developer_email": "support@planefinder.net",
+    "developer_id": "pinkfroot+limited",
+    "developer_url": "https://planefinder.net",
+    "editors_choice": false,
+    "free": false,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "Everyone"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/7fc3N3R4uKYrkyQE6H3w5JsC4W_EOnMm4fLCVCO0pg_WNJ6-V5N7V0YlRxzTY27MGQ4",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "$6.49",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 16823,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/KXSgFJmCuRYdkiZJU-POLa2eHIVriJrtE-K1Z272Hm1BOi_QAZABZs36KPg0_vOf6mw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qJ76kN16W3T9jbn2dU7E_6ZnIrt5OQKQ86YkOPs-oupbY4U7OzdkI4sXn_Ai-iL08P0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dYZa1T6ntK-163GZEg9N3BMSGKTXKRAW1T6s--FIXsO4z_Bay-hCX7g5Nlib7N4qFmQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HT0cCaBgX0F6cwxI8BKe4vQhwCVQwXsZx7ICYFZKh9OUcPydPs2qENlzNyUXzAmLa7fS=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XHSQcvCFJSOVL6UCO32emnmAEho92gKFf1rQWEnLWZS9bxuiLD8H80dnL12urRWErJI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ywcEnL5HPtNlv6fnRowMIZVg7RwrniAt_hlJAGOHWW7Z9ROMSnBNQX7bQV2NYGBG6mk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SUVIcKLTbtcXh9EUmRun_bXNqhXSGiSaeVsW6BoGk1gak4NGKWTYUDj0y_MSFGiitKfd=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CBkXuHeVjJoNyRFs3SbrYkmQclFUFHB4VPhvIWbWQ6gIpRjD5Jec36o3NLhlg03G3FZR=w720-h310-rw"
+    ],
+    "size": "6.2M",
+    "title": "Plane Finder - Flight Tracker",
+    "updated": "April 7, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.pinkfroot.planefinder&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

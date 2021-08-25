@@ -1,0 +1,51 @@
+{
+    "app_id": "com.truecar.mobile.android.consumer",
+    "category": [
+        "AUTO_AND_VEHICLES"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "15.1.4",
+    "description": "Buy smarter. Drive happier. With the TrueCar app, whether you\u2019re browsing, buying new or used, selling, or trading-in, you\u2019re in charge of the process from start to finish. Here\u2019s how.\nGet the Actual Price for the Vehicle You Want\nWith TrueCar, you get an upfront, personalized price offer from a TrueCar Certified Dealer on our app. We give you a comprehensive savings summary for the car you want that includes MSRP, incentives, and total off MSRP. You know what you'll pay before you head to the dealership.\nKnow More, Save More\nWe empower you with the knowledge to get a great deal. Based on actual recent transactions other buyers have made, the TrueCar Price Curve shows you the average price others paid for new vehicles in your area that are similar to the one you\u2019re interested in -- so you can identify a great price when you see one.\nChoose From Over a Million Used Cars\nGet access to our extensive selection of pre-owned vehicles for sale across the US. We show you price ratings based on similar used car listings in your area, so you know when you're getting a great deal. In addition, you get a free condition report summary for the used car you want, helping you feel confident about buying your next vehicle.\nGet a Trade-in Offer You Can Use Today\nIt\u2019s easy and fast to trade in with TrueCar. Answer a few questions to see your car's estimated market value instantly, and get a cash offer from a participating dealer in minutes. Cash out, or trade in for a new or used car.\nDownload our app today.\nCopyright \u00a92020 TrueCar, Inc. All rights reserved.",
+    "description_html": "Buy smarter. Drive happier. With the TrueCar app, whether you\u2019re browsing, buying new or used, selling, or trading-in, you\u2019re in charge of the process from start to finish. Here\u2019s how.  <br/><br/>Get the Actual Price for the Vehicle You Want<br/>With TrueCar, you get an upfront, personalized price offer from a TrueCar Certified Dealer on our app. We give you a comprehensive savings summary for the car you want that includes MSRP, incentives, and total off MSRP. You know what you'll pay before you head to the dealership. <br/> <br/>Know More, Save More<br/>We empower you with the knowledge to get a great deal. Based on actual recent transactions other buyers have made, the TrueCar Price Curve shows you the average price others paid for new vehicles in your area that are similar to the one you\u2019re interested in -- so you can identify a great price when you see one.<br/> <br/>Choose From Over a Million Used Cars<br/>Get access to our extensive selection of pre-owned vehicles for sale across the US. We show you price ratings based on similar used car listings in your area, so you know when you're getting a great deal. In addition, you get a free condition report summary for the used car you want, helping you feel confident about buying your next vehicle.<br/> <br/>Get a Trade-in Offer You Can Use Today<br/>It\u2019s easy and fast to trade in with TrueCar. Answer a few questions to see your car's estimated market value instantly, and get a cash offer from a participating dealer in minutes. Cash out, or trade in for a new or used car.<br/><br/>Download our app today.<br/><br/>Copyright \u00a92020 TrueCar, Inc. All rights reserved.",
+    "developer": "Truecar, Inc.",
+    "developer_address": null,
+    "developer_email": "appfeedback@truecar.com",
+    "developer_id": "Truecar,+Inc.",
+    "developer_url": "http://www.truecar.com/contact_us.html",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/dXsQeep3UTO8fdGCC6AJYWLKxbt6DFU2pKP4d-of6_5vJpb1_NcdslRbgTIyQoPBQg",
+    "installs": "1,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.1 and up",
+    "reviews": 11493,
+    "score": "4.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/bSziOmo_nAC1xT7_DbsUzdNl8fFxOYiElW4fkqJa-7KzzvH0jTVJPeSf0uMs4p6ceZU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RlpLKNtbgRMCYSglsqIkYg7OpPE4ovasc5NtDCv7Cfzpq3Kptink_NkGagWvxL7Q4Eg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/uFD_sHmZGuJjqQ7r-JgKM4m1sb3dF2b1cAnUzhogLTcKL6_aUfdm1wByLmKPa6zq2YV5=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WTpl7rcr3YeSd7cziBleN817jWFZ-C2X407BUjk-Ld3urY9YxGfs1oqZcAXjfAVF5Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GbLdxnlEy1S9p9_k_TjLMthaT68d2bPgv-3_7DUN0uZp43k3rYjBAVtNeBVrWYdO-QU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V9ascC5nnUWmjff7NBSpm7UbQS-xf9tWARcvf-z6K6ZDy10iz4C_-u-S7DbBLLgguWE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GUtdJuBXMTCqCHz1lYTGKawO9y2L7YpDmUX7025eHZ6zsiSq2ZWzr6swss7fbDeDxnE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Wx_EM30zPtJE57q55CSfnBvHvir_Jav_rxhIWALDdUAwiVGGaf2v1GG16-KipsUPbQ=w720-h310-rw"
+    ],
+    "size": "11M",
+    "title": "TrueCar: The Car Buying App - Find New & Used Cars",
+    "updated": "August 7, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.truecar.mobile.android.consumer&hl=en&gl=us&q=car%250A&c=apps",
+    "video": null
+}

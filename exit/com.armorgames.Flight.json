@@ -1,0 +1,63 @@
+{
+    "app_id": "com.armorgames.Flight",
+    "category": [
+        "GAME_ARCADE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.0",
+    "description": "Flight! is an addictive and captivating casual arcade game where your goal is to fling a paper airplane around the globe and make a wish come true. Catch bonuses to stay aloft longer and upgrade your plane with enhancements. Soar from one country to the next using intuitive controls as you upgrade your plane to fly even farther and follow the story. Launch yourself through a beautiful 2D world with simple yet fun arcade action you'll want to keep coming back to... and it fits in your pocket!\n-Simple yet addictive gameplay\n-Upgrades to enhance your paper plane\n-40 achievements to unlock\n-Charming game design and soothing soundtrack\n-Different countries to soar through, each with their own design\n-Complementary world travel included",
+    "description_html": "Flight! is an addictive and captivating casual arcade game where your goal is to fling a paper airplane around the globe and make a wish come true. Catch bonuses to stay aloft longer and upgrade your plane with enhancements. Soar from one country to the next using intuitive controls as you upgrade your plane to fly even farther and follow the story. Launch yourself through a beautiful 2D world with simple yet fun arcade action you'll want to keep coming back to... and it fits in your pocket!<br/><br/>-Simple yet addictive gameplay<br/>-Upgrades to enhance your paper plane<br/>-40 achievements to unlock<br/>-Charming game design and soothing soundtrack<br/>-Different countries to soar through, each with their own design<br/>-Complementary world travel included",
+    "developer": "Armor Games",
+    "developer_address": "16808 Armstrong Ave\nIrvine CA 92606",
+    "developer_email": "mobile@ArmorGames.com",
+    "developer_id": "6749058773626431687",
+    "developer_url": "https://armorgamesstudios.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$9.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yea1cSmml6B9SPDhV0f_-VzD7l4BQ5EfwVxKaOQe8rNNmhRSVQMq1tnzVeN9BndDvgs",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.1 and up",
+    "reviews": 3147,
+    "score": "3.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/E4S9r3t-E-8Fbr3uhZ4FF9bKjQXISqLfQ1urJ8umITAN1uM1Ow2EtSstC7d1lCArvg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ahh7acOjZusS3_czj6GLWa2-ool8RLOxFp26coOxo5c9bomUmSZM9GqwZXP7jQCLnQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/rWMIpcqLJMPa4hnf7bDZRmbyS5ahvPhV--vfPvwemhxkAejeSQMgLTWFobfoiE4OfQKR=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/w0-nE0hBMBtR7qRVQej1L0zZ7y_wEtkWH5goaH1sqI7iGvnd5my_gFrlUqWU10GaHjU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6iWIpD61i9MeBAsebiww2vPXD0hcrwIIC-SaHM6PZiz7KnHnrBJztlFFiA7uvXSBXNl7=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0XWH-m_ykFc2rp03THTENCH1cGs2K3vfSdBqxrE0a0U4ez91BpJs4Un3XbpywWf6Ig=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ga3j0hs2eW9TZJtBjVfDYEHvbdGznET7pnFNa_bLRs0-cbhHbzuaVj_Yfx7ULC-PrZSc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PVKzMyNwHn1D7iR2S7qNTPUKfUELzfE27Mqc14_45cCyzALV-I_QpL1TLIy4hSXnAxsY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K_hym4BNNafJNvfzLAC6MUVz0FvvyaxiUYf3YI_Tvg9koMd_Thl-wN2DvrnYyLSdox4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/y9mgQPzV-BeSr3A7A0fpf56yogH-xyI_fxCbBBiIAo0sFiKmH-ptsHUE93-NYseYLow=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6lvMqBSSbjiZB5_iJR5cAGR828ixi_5QBEAkTQK3mEbb4-jMr6VoNyW1ne6cNIKMrbvX=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/C0Xz-RAnhxorB0cswVfh-MM9u5KQLMKyDiTccoXLETeL1qKYRoG4vO-XIg8E2j-4HjQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_woryvCc5FezE7t9wsPAagGQiieiZamJw4gplmbT3-DDqE_0W7ocYX7MGWTTVqiZvIXF=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ms-Q7rD6eVA4tIFSqvMYH0cXzRhHja8bsWJvgvdx8fgYzGHn2QkPfYPc8ui8yXGUzRF_=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FDhv_F-P57O02p0wrS2SY9yDih4zChmTcYkI580nYct4yfjoAxg8GBEkZze37W96tAY=w720-h310-rw"
+    ],
+    "size": "62M",
+    "title": "Flight",
+    "updated": "November 15, 2017",
+    "url": "https://play.google.com/store/apps/details?id=com.armorgames.Flight&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/Yu6D_nGzHbo"
+}

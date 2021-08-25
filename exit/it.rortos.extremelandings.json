@@ -1,0 +1,68 @@
+{
+    "app_id": "it.rortos.extremelandings",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.7.6",
+    "description": "Take full control.\nTest your piloting skills and handle the most critical flight conditions known to man.\nCope with emergencies and incidents inspired by real life scenarios in a climactic adrenaline rush.\nStart each engine individually, navigate between the equipment dashboard panels and be ready to solve over 5,000 possible situations in order to reach the highest pilot ranking.\nThe simulator includes 36 missions to accomplish, 216 challenges to pass, cartography and worldwide navigation with over 500 accurate airports replicas as well as real time  weather conditions.\nFeatures:\n- 36 missions (6 included + 30 available for purchase)\n- 216 challenges 6 of which in global competitions (18 included + 198 available for purchase)\n- 20 HD airports (4 included + 16 available for purchase)\n- Fast landing mode with global competition and 5 fault levels.\n- Instrument Landing System, ILS\n- Speed autopilot, Route, Altitude and Vertical speed - Primary Flight Display\n- Navigation Display\n- Weather Radar for managing Microburst, Ice and wind\n- Advanced engine system with ignition, faults and fire safety\n- Fuel management with weight balancing, Jettison and real consumption\n- Landing gears management with manual unlocking system\n- Full control of the rudder, flaps, reversers and spoilers\n- APU management\n- Worldwide navigation with 548 airports and 1107 usable runways, real or customizable weather conditions (available for purchase)\n- Cartography with over 8000 waypoints (VOR, NDB, TACAN, DME, GPS, FIX)\n- Automatic Flight Planning Configuration\n- Cinema replay system\n- 3D virtual cockpit with integrated instrumentation\n- SRTM30 Plus real terrestrial elevation\n- MODIS VCF real coastline\n- OpenWeatherMap real-time weather conditions",
+    "description_html": "Take full control.<br/><br/>Test your piloting skills and handle the most critical flight conditions known to man.<br/><br/>Cope with emergencies and incidents inspired by real life scenarios in a climactic adrenaline rush.<br/>Start each engine individually, navigate between the equipment dashboard panels and be ready to solve over 5,000 possible situations in order to reach the highest pilot ranking.<br/><br/>The simulator includes 36 missions to accomplish, 216 challenges to pass, cartography and worldwide navigation with over 500 accurate airports replicas as well as real time  weather conditions.<br/><br/>Features:<br/><br/>- 36 missions (6 included + 30 available for purchase)<br/>- 216 challenges 6 of which in global competitions (18 included + 198 available for purchase)<br/>- 20 HD airports (4 included + 16 available for purchase)<br/>- Fast landing mode with global competition and 5 fault levels. <br/><br/>- Instrument Landing System, ILS<br/>- Speed autopilot, Route, Altitude and Vertical speed - Primary Flight Display<br/>- Navigation Display<br/>- Weather Radar for managing Microburst, Ice and wind<br/>- Advanced engine system with ignition, faults and fire safety<br/>- Fuel management with weight balancing, Jettison and real consumption<br/><br/>- Landing gears management with manual unlocking system<br/>- Full control of the rudder, flaps, reversers and spoilers<br/><br/>- APU management <br/><br/>- Worldwide navigation with 548 airports and 1107 usable runways, real or customizable weather conditions (available for purchase)<br/>- Cartography with over 8000 waypoints (VOR, NDB, TACAN, DME, GPS, FIX)<br/>- Automatic Flight Planning Configuration<br/>- Cinema replay system<br/>- 3D virtual cockpit with integrated instrumentation<br/>- SRTM30 Plus real terrestrial elevation <br/>- MODIS VCF real coastline <br/>- OpenWeatherMap real-time weather conditions",
+    "developer": "RORTOS",
+    "developer_address": "Via del Pontiere 11\n37122 Verona VR\nItaly",
+    "developer_email": "support@rortos.com",
+    "developer_id": "8013171132272394676",
+    "developer_url": "http://www.rortos.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$4.99",
+        "$28.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/4wkopBOUDdAvNt-skpWkuCjrxK7ah6uPhoN-eshRwimdveWv_CSBzWgVNRc2IElG5i4",
+    "installs": "10,000,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 49689,
+    "score": "4.1",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/GmUYeCElfJu4IOt-NO9kf9cu0CBZkBFMCr0PnJHfoBrrPx5wK80ECtkPk1Pebd4afw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Dj0yfzHHizHUGPJKqcbOUroLHfYdoV6jGQXIytKyTA1JS4NnhREOcwwO-WliBkIi0Jk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/teGAei69vgW8LiDq5rGKxhGoFhVp7WHkffLhUOP51KAvZFsfa5_b3POKACIMoFYUIg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/u-V_oqqNieLZiExgUb1ow4VXeO2INCGoZ4D8G97XPNxgfu7fhzmXHwJ5im__xlL75Ns=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/USo8Nn6vhBpn7AFI-8wvGEYwx2ZTLW4JiOGXqt79unWTlW23yn1KYr8cDgCYkeepQP8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dBiyY0Shx0GeF5EgE5_xllt2ElE3SXobdvPtrN12UukMQygPlZDKuRsJGBq-oinXAFc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HCO1YC_DgaicH19DM_TCS7yqn4alquRSk0dVfB0vKrLm3sy2qTX55Q2e0GhJIEVp19k=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gCh7HlUjRSoW2hsCm84A1D_xSYy-5FnewtKRPS1levVxr3JrEYw3bfFZMP9OkIFmqUg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3LPyqHpZSe6T7df8m3VnYJG2cqqWtF73et_tQm7CWPA72k0q0b_new0NLUcRA1bH0pc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lTYf1VZSWqe6sd1OKx-cCzoOQGICeR8Wwqojar3sbX-aExe-sCEdBbF8iOULZp3hVvM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/EeeMXfjUZq0_lI_-z4OP8dNfafNdidhVd8DobNmeL6H-Xzz7JrtF26y6_flCUmVmqGg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_0_UqxHphL3ZtoTMn94MK0Bw8jHK5UcvD1oZQ55QFvzy0Pm0pWegUwIr5xSP31MKUT61=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YYw2sfDQm-hkZAVkV8BKZZfNP-J0kWvvdT9sis4Jn83haS2-UL0k7BBZQxYk8l31FG0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ibLfXXdtOIHP6XGYakoETDuN8JQpZlDahLK9zU5GXfm9WYbfAfW1OftuJak1cruexA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZiUwSwnaMEpSKXXzy5CsPGE18c2G8qU9ddg9V85CQAqj9JpvhAspYmdhFTuQassVQQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/G2xI-R1B9az5VyBO8e8Kb5netaHShWFRbh0YG9CBnWW6-a47H4RozrB7zKeKP--GqA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lKH8VvzduCo5YvAS-khZcNScHeIvj7GqjdsAY-48ch2GHqIRIGLf1VGbvInARfuasw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1YvY9PnIVrrINWKXGR6113wSZa0x36n_MXmLt0-hw8SCopNa4v8WxGo8zeHsX_R5ORse=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-YAel6gBCPGJs8Rg5EPGHQPF7skt6WgPbmLPo9EO-r1QIe41oByuHVNTnLsC3C9u6fen=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/rUs7MT6qzncpIy8KYBgzAhgxlugJJC6BpEX32J8OKgwQL4nFWUX61KX9gxVHl6tG-b0=w720-h310-rw"
+    ],
+    "size": "49M",
+    "title": "Extreme Landings",
+    "updated": "February 25, 2021",
+    "url": "https://play.google.com/store/apps/details?id=it.rortos.extremelandings&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/Gpy_9u2J40o"
+}

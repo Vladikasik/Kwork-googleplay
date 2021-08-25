@@ -1,0 +1,64 @@
+{
+    "app_id": "com.puzzlegames.parking.unblock.puzzle",
+    "category": [
+        "GAME_PUZZLE"
+    ],
+    "content_rating": [
+        "Teen",
+        "Suggestive Themes"
+    ],
+    "current_version": "1.0.12",
+    "description": "\ud83d\ude97\nCar Escape\nis a kind of super addictive puzzle game. You should try to open up your mind and find a way to get out the \ud83d\ude97 red car from the board, other cars can be moved \u2195\ufe0f vertically or \u2194\ufe0f horizontally. The exit will always be changing, so you really need to focus your minds on every single puzzle.\n\ud83c\udf1f FEATURES\n\u2022 \ud83d\udc40 Challenging to Find the Best Solution\n- You can easily move all the cars on the board, but don't forget your goal is to escape the \ud83d\ude97 red car from the exit. It will be quite challenging to find the way, especially for harder levels.\n\u2022 \ud83e\udd47 Be the Master of Escape from a Novice\n- There are 5 stages for you to become the Master of \"Escape\" from a Novice. Even if you've never played this kind of \"unblock\" or \"escape\" puzzle, you can quickly handle it.\n\u2022 \ud83d\ude0b Hundreds of Levels for You\n- There are over hundreds of different levels which can lead you from the Novice to the Master stages. And more levels will be added in later versions.\n\u2022 \ud83d\udcb0 Free Coins for Every 10 Puzzles\n- When you pass every 10 levels, you can collect 10 extra coins as a reward. These coins will be helpful if you run out of coins by using \"Hints\".\n\u2022 \ud83c\udf81 Daily Rewards Increasing Everyday\n- Open the game and collect daily rewards every day. Besides the increasing coins, there will be a big reward package for your 7-days' activities.\n\ud83e\udd14 HOW TO PLAY\n\u2022 Horizontal cars can be moved from side to side\n\u2022 Vertical cars can be moved up and down\n\u2022 Move the red car to the exit\n\ud83d\udce7 CONTACT\nsupport@carescape.freshdesk.com",
+    "description_html": "\ud83d\ude97 <font color=\"blue\"><b>Car Escape</b></font> <font color=\"blue\">is a kind of super addictive puzzle game. You should try to open up your mind and find a way to get out the \ud83d\ude97 red car from the board, other cars can be moved \u2195\ufe0f vertically or \u2194\ufe0f horizontally. The exit will always be changing, so you really need to focus your minds on every single puzzle. </font><br/><br/><b>\ud83c\udf1f FEATURES</b><br/><br/><font color=\"blue\">\u2022 \ud83d\udc40 Challenging to Find the Best Solution</font><br/><br/>- You can easily move all the cars on the board, but don't forget your goal is to escape the \ud83d\ude97 red car from the exit. It will be quite challenging to find the way, especially for harder levels.<br/><br/><font color=\"blue\">\u2022 \ud83e\udd47 Be the Master of Escape from a Novice</font><br/><br/>- There are 5 stages for you to become the Master of \"Escape\" from a Novice. Even if you've never played this kind of \"unblock\" or \"escape\" puzzle, you can quickly handle it.<br/><br/><font color=\"blue\">\u2022 \ud83d\ude0b Hundreds of Levels for You</font> <br/><br/>- There are over hundreds of different levels which can lead you from the Novice to the Master stages. And more levels will be added in later versions.<br/><br/><font color=\"blue\">\u2022 \ud83d\udcb0 Free Coins for Every 10 Puzzles</font> <br/><br/>- When you pass every 10 levels, you can collect 10 extra coins as a reward. These coins will be helpful if you run out of coins by using \"Hints\".<br/><br/><font color=\"blue\">\u2022 \ud83c\udf81 Daily Rewards Increasing Everyday</font><br/><br/>- Open the game and collect daily rewards every day. Besides the increasing coins, there will be a big reward package for your 7-days' activities.<br/><br/><b>\ud83e\udd14 HOW TO PLAY</b><br/>\u2022 Horizontal cars can be moved from side to side<br/>\u2022 Vertical cars can be moved up and down<br/>\u2022 Move the red car to the exit<br/><br/><b>\ud83d\udce7 CONTACT</b><br/><a href=\"mailto:support@carescape.freshdesk.com\">support@carescape.freshdesk.com</a>",
+    "developer": "Puzzle Saga Studio",
+    "developer_address": "Hong Kong",
+    "developer_email": "support@carescape.freshdesk.com",
+    "developer_id": "7099963475049345214",
+    "developer_url": "https://ww.puzzlesagastudio.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$49.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/94t8BY8XFqXd9GzGddR9X9_EbC8666pN1eDDigDj-GkAGJYS8UsSzuESzQwueTXm1Ak",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.1 and up",
+    "reviews": 13024,
+    "score": "4.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ap2IptJalSkEepjy2be6njyDXQ3sadhtuahsf3zjalBXUV9g1jiT2xxfOIzaR2YBWIc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Q17mMHhXT6JnS0KuklFhLnOZyyKQxu5RSP2aAsPkxk62w2Jfm2OqsT34FiLNUHDWihs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6WxYQilE0LmC9fkj20p1i9e5P_R21NqEKy62YQ9mrvmroTMdm2naXakfSW5zIjZTzaM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/hlo5E-0_99vVybTbJmAlOLO91MyF2cEhsb3kr2MAj9bgNiEzM08WjzF1d33xWbeSDfrA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kvWO_8CMN6rfjsGkL-CPpMMCJmCFzDmtR0v1AvEtevGoMMUX_vCLN8O4xEf0uElWFQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/C1DVjdpF23DY_UdmWel-F4-Ki47mCJ9z9FyclbqqS4J801kFrdJMMW9SIfAMQ0KqE_o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PglmbH8wTjn2Omhu9nBViuTWAVhN675-7W4usLX7X91KTL0CZb2lM8ghmioVFFTXhwY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zvQy4mi0nFFTsre8K8mct9Pg-yTIyulqs4-JLAR-HST1_UfGD8LeRITX4ctEX7f_Pg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/njwV-IRQWntemXfuQlNhqtJ3a2xTRQJJi-o-L1TClZO2dEiCmOyKWBbCfhg-eHn1pbw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XeZ1IrbN6csa0ZL_eYOAYDXBHggjNKkuTV5Uy3exUY_keS7dG-r5ZqsyO_hzFrxgBA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/DnhxcNAPHtxcrJdht69fmBNGZ8LCHpllfXKoCmxH-Tq1u9fMHitBpMdMJ5Iw0bVoQgNa=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wQZkKZf9MSkyhS-O2xwC9V4rr_B690_C7bvapUUfpxt7a8nwWXiCcEsMNCCc65PS5uA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/62H2rbwYOOPImAZH1xFeBOlMYuIAtJyQNuV3PprdpaQ5SPmmUbMM5-7TWBPM01ooQ0k=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CXRY1VxK8_4chN8ESFN2POOFH2_IUwidTQ2BAPBsMXPILHR8qJVXnA1k9Rg6KUU-SKQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OXmEle9k00Qy7rb5Gs1Prw9OIGnWbSndxYKbgn99orRBtDuvgTSEH39hXrHvhM-L=w720-h310-rw"
+    ],
+    "size": "37M",
+    "title": "Car Escape",
+    "updated": "June 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.parking.unblock.puzzle&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/PMs26bUwST8"
+}

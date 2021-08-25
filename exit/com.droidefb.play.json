@@ -1,0 +1,61 @@
+{
+    "app_id": "com.droidefb.play",
+    "category": [
+        "MAPS_AND_NAVIGATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.6.9",
+    "description": "DroidEFB (single word, droid.e.f.b) is, you guessed it, an Electronic Flight Bag for Android! Developed by pilots and enhanced via user feedback, this flight planning app is designed to be simple and intuitive while featuring a suite of essential tools including aviation GPS with moving map. DroidEFB is like ForeFlight for Android! Full featured and reliable, DroidEFB is a must-have aviation app for general aviation and professional pilots:\nFAA Approved - Class 1 Electronic Flight Bag (EFB) - Reference AC91-78 and AIM Chapter 1\n*En-route GPS navigation via moving map\n*NOAA aviation weather and NEXRAD radar\n*Geo-referenced approach plates and taxi diagrams\n*ADS-B compatibility\n*Draw on charts and approach plates\n*Weight and balance\n*Translated TAF and METAR\n*Fuel price and FBO information\n*Flight plan filing\n*Points of Interest (POI) search\nSUBSCRIPTION OPTIONS:\n30-day free trial\n$6.99 per month, VFR\n$74.99 per year, VFR\n$149.99 per year, IFR with Geo-referenced approach plates\nAn Electronic Flight Bag (EFB) reduces cockpit workload and provides relevant information when you need it. DroidEFB overlays current position and flight plan onto an FAA Sectional, TAC, Low Altitude or High-Altitude chart. On the ground, current weather is displayed for long range planning; helping pilots visualize the impact current conditions will have on their flight.\nEasily amend airports, waypoints, victor/jet airways, STARs, DPs, GPS coordinates and DME. Advanced navigation log takes into account current winds aloft for precise planning.\nRoutes flown are stored as GPS breadcrumbs and can be uploaded and viewed in Google Earth. https://droidefb.com/tutorials/\nCharts and plates are viewable via our servers with an Internet connection and are downloadable for offline use. RouteMinder\u2122 automatically checks the planned route for Charts needing downloaded.\nDroidEFB can be used to receive and file official briefings! Register at www.1800wxbrief.com/Website/ and enable Avilution/DroidEFB in the list of service providers (Flight Planning & Briefing > Service Provider) to receive notifications.\nDroidEFB Features:\n-Point of Interest (POI) Search - find and save airports, street addresses, business names, coordinates\n-Approach plates and airport diagrams (Geo-referenced with Premium subscription)\n-Create, save, and sync user waypoints and Flight Plans\n-NEXRAD and ADS-B traffic (TIS-B) w/supported devices\n-Write or draw on charts and terminal procedures\n-Arrival (STAR) and Departure (DP) procedures\n-Sophisticated weight and balance\n-FBO Fuel Price (100LL; Jet A)\n-VSR (vertical speed required)\n-Special Use Airspace (SUA)\n-Store data on External SD\n-A/FD (chart supplement)\n-Pinch zoom and measure\n-Redundant data servers\n-Real-time GPS tracking\n-Grand Canyon Charts\n-Helicopter Charts\n-Track prediction\n-QuickWeather (free)\n-Auto Logbook\n-SAR patterns\n-Track Log\nWeather Overlay:\n-NEXRAD (Internet, MobileLink, ADS-B)\n-SIGMET / AIRMET (Internet, MobileLink)\n-METAR (Internet, MobileLink, ADS-B)\n-PIREP (Internet, MobileLink, ADS-B)\n-TAF (Internet, MobileLink, ADS-B)\n-Surface and winds aloft (Internet)\n-Current Icing Potential (Internet)\n-Satellite imagery (MobileLink)\n-Lightning strikes (MobileLink)\n-Freezing levels (MobileLink)\n-NOTAMs (Internet, ADS-B)\n-Area forecast (Internet)\n-TFRs (Internet)\nThird party devices and program support:\n-Baron MobileLink\n-iLevil with AHRS\n-Microsoft FSX\n-Dual XGPS\n-ZAON XRX\n-Pathfinder\n-SkyRadar\n-X-Plane\n-Stratux\n-Dynon\nFor pilots using phones and tablets running Android 5.1 or higher.\nOne subscription or free trial may be used on multiple devices such as a phone and tablet. Subscriptions authenticated using the Google account on your Android device. Free trial features a Standard subscription with no restrictions.\nRooted devices not \"officially\" supported.\nWe cannot respond to feedback or app issues left in Google Play reviews. For support, visit https://www.droidefb.com",
+    "description_html": "DroidEFB (single word, droid.e.f.b) is, you guessed it, an Electronic Flight Bag for Android! Developed by pilots and enhanced via user feedback, this flight planning app is designed to be simple and intuitive while featuring a suite of essential tools including aviation GPS with moving map. DroidEFB is like ForeFlight for Android! Full featured and reliable, DroidEFB is a must-have aviation app for general aviation and professional pilots:  <br/><br/>FAA Approved - Class 1 Electronic Flight Bag (EFB) - Reference AC91-78 and AIM Chapter 1<br/><br/>*En-route GPS navigation via moving map<br/>*NOAA aviation weather and NEXRAD radar<br/>*Geo-referenced approach plates and taxi diagrams<br/>*ADS-B compatibility<br/>*Draw on charts and approach plates<br/>*Weight and balance<br/>*Translated TAF and METAR<br/>*Fuel price and FBO information<br/>*Flight plan filing<br/>*Points of Interest (POI) search<br/><br/>SUBSCRIPTION OPTIONS:<br/>30-day free trial<br/>$6.99 per month, VFR<br/>$74.99 per year, VFR<br/>$149.99 per year, IFR with Geo-referenced approach plates<br/><br/>An Electronic Flight Bag (EFB) reduces cockpit workload and provides relevant information when you need it. DroidEFB overlays current position and flight plan onto an FAA Sectional, TAC, Low Altitude or High-Altitude chart. On the ground, current weather is displayed for long range planning; helping pilots visualize the impact current conditions will have on their flight.<br/><br/>Easily amend airports, waypoints, victor/jet airways, STARs, DPs, GPS coordinates and DME. Advanced navigation log takes into account current winds aloft for precise planning.<br/><br/>Routes flown are stored as GPS breadcrumbs and can be uploaded and viewed in Google Earth. https://droidefb.com/tutorials/<br/><br/>Charts and plates are viewable via our servers with an Internet connection and are downloadable for offline use. RouteMinder\u2122 automatically checks the planned route for Charts needing downloaded.<br/><br/>DroidEFB can be used to receive and file official briefings! Register at www.1800wxbrief.com/Website/ and enable Avilution/DroidEFB in the list of service providers (Flight Planning &amp; Briefing &gt; Service Provider) to receive notifications.<br/><br/>DroidEFB Features:<br/>-Point of Interest (POI) Search - find and save airports, street addresses, business names, coordinates<br/>-Approach plates and airport diagrams (Geo-referenced with Premium subscription)<br/>-Create, save, and sync user waypoints and Flight Plans<br/>-NEXRAD and ADS-B traffic (TIS-B) w/supported devices<br/>-Write or draw on charts and terminal procedures<br/>-Arrival (STAR) and Departure (DP) procedures<br/>-Sophisticated weight and balance<br/>-FBO Fuel Price (100LL; Jet A)<br/>-VSR (vertical speed required)<br/>-Special Use Airspace (SUA)<br/>-Store data on External SD<br/>-A/FD (chart supplement)<br/>-Pinch zoom and measure<br/>-Redundant data servers<br/>-Real-time GPS tracking<br/>-Grand Canyon Charts<br/>-Helicopter Charts<br/>-Track prediction<br/>-QuickWeather (free)<br/>-Auto Logbook<br/>-SAR patterns<br/>-Track Log<br/><br/>Weather Overlay:<br/>-NEXRAD (Internet, MobileLink, ADS-B)<br/>-SIGMET / AIRMET (Internet, MobileLink)<br/>-METAR (Internet, MobileLink, ADS-B)<br/>-PIREP (Internet, MobileLink, ADS-B)<br/>-TAF (Internet, MobileLink, ADS-B)<br/>-Surface and winds aloft (Internet)<br/>-Current Icing Potential (Internet)<br/>-Satellite imagery (MobileLink)<br/>-Lightning strikes (MobileLink)<br/>-Freezing levels (MobileLink)<br/>-NOTAMs (Internet, ADS-B)<br/>-Area forecast (Internet)<br/>-TFRs (Internet)<br/><br/>Third party devices and program support:<br/>-Baron MobileLink<br/>-iLevil with AHRS<br/>-Microsoft FSX<br/>-Dual XGPS<br/>-ZAON XRX<br/>-Pathfinder<br/>-SkyRadar<br/>-X-Plane<br/>-Stratux<br/>-Dynon<br/><br/>For pilots using phones and tablets running Android 5.1 or higher.<br/><br/>One subscription or free trial may be used on multiple devices such as a phone and tablet. Subscriptions authenticated using the Google account on your Android device. Free trial features a Standard subscription with no restrictions.<br/><br/>Rooted devices not \"officially\" supported.<br/><br/>We cannot respond to feedback or app issues left in Google Play reviews. For support, visit https://www.droidefb.com",
+    "developer": "DroidEFB, LLC - Aviation GPS",
+    "developer_address": "110 Copperrun Ct\nHarvest, AL.  35749-9303",
+    "developer_email": "support@droidefb.com",
+    "developer_id": "6987521519844344574",
+    "developer_url": "https://www.droidefb.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.00",
+        "$149.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/R4Kl-YOTh35f5m43dQIjnSGiPIWlH6VeYDoUMj2CbSktSw9vaiiMmJP02ByDtS5OEP4y",
+    "installs": "50,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.1 and up",
+    "reviews": 438,
+    "score": "4.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/HsTaBFyXEhN0at113Xq9u77vFtQoAL4J9MA_7_RkHXAqe9Zk7f8urobfkabDzubxLIs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8SbQtg1yPM91G856V7dp9Dme7i5YBqWy8oxnw_19H2XgRJhhjob_8ESHJGzXisoNPw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XgJL2C_VFvW_2HcLAbMscwai4r3e4QjwClH2B5PVYjBGALvzr8Iq3L-x43lXI9FLX1kr=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GF1bSTMJqt80rnAp01lHX_QI8VLaXc2iLhp6hSogd8zh6nSoTVdnLeP-52nX4DMJVA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3S1XyknpUWThw3QVio8iiVApnVwDhJ7XSU-6Ob815eL9NbWmq1UlY7Eb5m61-Cz05R0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yIDZOjJFKWOlI6Nzrq8oBqVmixVE7xpwniHPdfijPZSb4b1ao-USy50lT7F0EfJt-SQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jOl7reNaqqwdZpuc9gAr_7zZzAbkoL5CqLFmOFC-5DVR_ek15JIGo4F6bUGzq59HL2I=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/E9RVG-NJqD_cq1gFTLE3gD6NamAWwgvUcOganfJhUj1gh6hoGdwZhuIUWE8k3TbpMzY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/k5JgCINrI_h7MHhI73bVWUDqDrpLJaxPemQ3XT0Cmk3OrT62MpzcJwhRLttP3QYQarc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/b4wXJ9kLQgXxA0tW_p0Lw-_CbUu7GekzhW237xhPp7aVJRmWYsXr0ovqkR_k1SmN71tv=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3hAnzz4DeG1VLDLYmFnh864gv47NVOjhCl0LuXBMUvrYM-wExC-9B4nlE20Xgmr1OkA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xXBwtBGaV-RiZbJoKBWR0CDTYtL8GesyM6GxkfXaLETHfmzpY9iEJ33I8LxyfLWDdw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/TE-q5DViF7l_hH3eOkEiGlh51cUO5GTEH_WGGaljkCuHLArZCczvO0AYV38fkijfSBWX=w720-h310-rw"
+    ],
+    "size": "3.8M",
+    "title": "DroidEFB - Fly with Android (US Only, VFR and IFR)",
+    "updated": "August 23, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.droidefb.play&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/F4QQ0KXcslE"
+}

@@ -1,0 +1,51 @@
+{
+    "app_id": "com.delta.mobile.android",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "5.11",
+    "description": "Welcome to Fly Delta, Delta\u2019s award-winning Android app that makes travel easier than ever before.\nPlanning Your Trip\n\u2022 Shop and book domestic and international flights\n\u2022 Track and pay for upgrades using your SkyMiles\u00ae\n\u2022 Manage travel preferences and payment methods\n\u2022 Save a companion to your profile\n\u2022 Need Help? Chat with one of our agents via Live Chat messaging\nUse at the Airport\n\u2022 \u201dToday\u201d has everything you need for your day of travel\n\u2022 Check in to your flight and receive your digital boarding pass\n\u2022 \u201dNotifications\u201d stores your flight updates and gate change notifications\n\u2022 Use Airport Maps to navigate through the airport\n\u2022 View your place on the upgrade/standby list\n\u2022 Scan your passport during check-in\n\u2022 View, change or upgrade your seat\n\u2022 Reserve Preferred Seats in the bulkhead or aisle\n\u2022 Access boarding pass offline\n\u2022 Pay for and track your checked bags\n\u2022 Add Trip Extras like a Wi-Fi pass or Mileage Booster\n\u2022 Monitor flight status and read details about our fleet and partners\n\u2022 Rebook canceled flights or missed connections\nDuring & After Your Flight\n\u2022 Get real-time bag tracking alerts\n\u2022 Map your flight en route\n\u2022 Find Delta Sky Club\u00ae info\n\u2022 Store and use mobile drink vouchers\nWhen downloading the Fly Delta app, you agree that your personal data will be processed in accordance with Delta\u2019s Privacy Policy which can be accessed via the link below or on our website at delta.com.",
+    "description_html": "Welcome to Fly Delta, Delta\u2019s award-winning Android app that makes travel easier than ever before. <br/><br/>Planning Your Trip<br/>\u2022 Shop and book domestic and international flights<br/>\u2022 Track and pay for upgrades using your SkyMiles\u00ae<br/>\u2022 Manage travel preferences and payment methods<br/>\u2022 Save a companion to your profile<br/>\u2022 Need Help? Chat with one of our agents via Live Chat messaging<br/>Use at the Airport<br/>\u2022 \u201dToday\u201d has everything you need for your day of travel <br/>\u2022 Check in to your flight and receive your digital boarding pass<br/>\u2022 \u201dNotifications\u201d stores your flight updates and gate change notifications<br/>\u2022 Use Airport Maps to navigate through the airport<br/>\u2022 View your place on the upgrade/standby list<br/>\u2022 Scan your passport during check-in<br/>\u2022 View, change or upgrade your seat<br/>\u2022 Reserve Preferred Seats in the bulkhead or aisle<br/>\u2022 Access boarding pass offline<br/>\u2022 Pay for and track your checked bags<br/>\u2022 Add Trip Extras like a Wi-Fi pass or Mileage Booster<br/>\u2022 Monitor flight status and read details about our fleet and partners<br/>\u2022 Rebook canceled flights or missed connections<br/>During &amp; After Your Flight<br/>\u2022 Get real-time bag tracking alerts<br/>\u2022 Map your flight en route<br/>\u2022 Find Delta Sky Club\u00ae info <br/>\u2022 Store and use mobile drink vouchers<br/><br/><br/>When downloading the Fly Delta app, you agree that your personal data will be processed in accordance with Delta\u2019s Privacy Policy which can be accessed via the link below or on our website at delta.com.",
+    "developer": "Delta Air Lines, Inc.",
+    "developer_address": null,
+    "developer_email": "MobileApp@delta.com",
+    "developer_id": "Delta+Air+Lines,+Inc.",
+    "developer_url": "http://www.delta.com/app",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/QhkICgvXHugQCRG67ncdgJLcnAsmTCQ4q6m_RJ-0O2lVoz--DzqJP7OoBkDAvq5D8w",
+    "installs": "10,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "7.0 and up",
+    "reviews": 31235,
+    "score": "3.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/eYSaPHztbeniDlhkXVSS67xKB6V9tHRu4q-xtWm1dfuw4RgLc98FTIkOs4GA5Sr9jFk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UOevuIBvJ-hkO1KJChedToNsx5lIqvlNBNMM4iIgRlXUnU8XyXyDiY7RNEjhbzfMmWs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/y1yJaAwSk_-zPfVrdTCj0mQIW75ShPASYbbF7crUbYR-xCCmeb1JduHatwHy7d2rrgw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/kXtbofeikzL2kk5_w4Tq8NjYMGus4JfRI8C1_UnRTKDenHOnuN6NuDAhMr4k4Z7wjFW1=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GCb3GgKV_wVrRvdB1rqpXeF8EFMvf9yxtqoWIvuYSyLERWq1IMWP3qK80R2wPtri7fo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0kGWuGZevAwbwLGxmySpD-GPhAu6UIR1i8qPw2ni5mykMbGL7xnvw8a7WkncksqjBM1i=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Yw0n3ESmFuYKT2mbBJGGmg4Ynj3P1Mki61p88OeGsDTdjg-Deh7oQFsUoytRmakzvQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CeS317wzxqMi71cejvAXNIcP7FpmZDfV_O_K_NgFpW6lcaBLa9_FzZo-9pAjS9bzhEEt=w720-h310-rw"
+    ],
+    "size": "73M",
+    "title": "Fly Delta",
+    "updated": "August 3, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.delta.mobile.android&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

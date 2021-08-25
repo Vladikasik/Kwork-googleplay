@@ -1,0 +1,64 @@
+{
+    "app_id": "com.tapmen.madcars",
+    "category": [
+        "GAME_RACING"
+    ],
+    "content_rating": [
+        "Everyone",
+        "Mild Fantasy Violence"
+    ],
+    "current_version": "1.8",
+    "description": "This year the cars have all gone mad.\nSteer a bunch of cars on a highway without rules and try not to crash them, at least not all of them.\nFill the road with your hoard of cars and complete the fun levels. You'll be dodging rocks, pipes, holes in the road, trucks and many more, that will send chunks of your hoard of cars flying and explode.\nMad Cars features:\n\u25c9 Gameplay like no other\n\u25c9 Beautiful handmade 3d graphics\n\u25c9 Multiple environments to discover, including winter\n\u25c9 Various cars to unlock\n\u25c9 Plenty of handcrafted levels\n\u25c9 Funky soundtrack\n\u25c9 Optimization for all screens",
+    "description_html": "This year the cars have all gone mad.<br/>Steer a bunch of cars on a highway without rules and try not to crash them, at least not all of them.<br/>Fill the road with your hoard of cars and complete the fun levels. You'll be dodging rocks, pipes, holes in the road, trucks and many more, that will send chunks of your hoard of cars flying and explode.<br/><br/>Mad Cars features:<br/>\u25c9 Gameplay like no other<br/>\u25c9 Beautiful handmade 3d graphics<br/>\u25c9 Multiple environments to discover, including winter<br/>\u25c9 Various cars to unlock<br/>\u25c9 Plenty of handcrafted levels<br/>\u25c9 Funky soundtrack<br/>\u25c9 Optimization for all screens",
+    "developer": "TapMen",
+    "developer_address": "Bucuresti",
+    "developer_email": "radu12m@yahoo.com",
+    "developer_id": "TapMen",
+    "developer_url": "https://tapmen.wixsite.com/games",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$3.49"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/KyA_bKtC7ht5jpy1pgmDz4FOElBUVgnlx94lBw-3an7uFDLdeOoX-5K9PlAK9TL9bw",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.1 and up",
+    "reviews": 1255,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/jhLpAReOTHCr5QGrmpA8a5QTNykg9HoEO7jlPaxZO5iMjmfYtE_hb5VYcxcG9fFVGw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gmnYcWQO3D3hue-UvMVrqKvSR5vC99auvr8ifAIVHgL86PaKgCrd0UOjr923Ec6dGbBY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PmOWF2AQk48zdxz35PbGVoz1uveJ7Rzi5gtXHzNgLDXG6j49AEi1tOnNjDL_hcRgARbH=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/v6N5KaRG27ckT60UJ6m2lJHIos4LrcxGtuGdc1w-aWX6_4zMv3XKyfuKqALktiFrNCQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UMtiLUiXw1TQ549Jy_3jHWBsV-f2XVbiTFzzqyGMmqonOw4BIXbjTxz77LTbHf4cAz4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MCyK3RR1kj8QMvd3Vbr0BQkZWfSLh9H-vtZs86tcWCzxrfr7aVygQ7KtQ2QpFgsd8w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dFDkYzOdhHKZtsFt1b-Xudc8j9PAn-gpzT0UxGt6oiyuN0W_fILxFYvfSDpO2ou2Y4U=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4i5gRkLzVL70hX60ncUOIOr00WOf3Lxfj5W7-S-_4QAAX7yhg9Vf3Lv22fG-hgxkHGo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GDOLI9hfOiC0IckrUe9-Ytx2iw_uyhQdTSHOYJZCPRQKUW9JiAw4RebABpTBdhTdkqg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-mxnYYUvDu9zAAnN_TugzB1TcnayN0lYW6pE2IdPBYyVbhYU7HwaN4r0NC1VNKysbG8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wO1SYImTkkfj7k1GSg9I9NWr9VYFHbPl6ZCJ6qrOm95T19r_Nn4HKH39bz0YGHfn5_c=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9UEuFnwTxkRFGB-k1yyTFlzLAOu83p9n3ZSFjnLG899h7MgJah2NyDrRjXMf0SHsHg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CeZ445Zw9KyEIALQB_oIVd1F2PSlk8QWXQNs2T_zIuodZjQj67BWVUS2_VBJE5ZBGQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/W4y4AHzoP_dxgvk-Aw6E1pHzCptgUT3fKXnjHwFC1p5E6z5Fc3lK6lDGZ2QlN0oRZIY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7ntexyPgcu-IlZ4TLPog9amVovvtzeSyNRQCOEL80yfHEjvNeNRJghga1smBixW8o9VO=w720-h310-rw"
+    ],
+    "size": "32M",
+    "title": "Mad Cars",
+    "updated": "July 26, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.tapmen.madcars&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/aWxAvsFm2YM"
+}

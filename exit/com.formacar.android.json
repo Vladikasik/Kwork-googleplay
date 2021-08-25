@@ -1,0 +1,66 @@
+{
+    "app_id": "com.formacar.android",
+    "category": [
+        "ENTERTAINMENT"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.2.352",
+    "description": "Vehicle application - FormaCar. Custom cars and 3d tuning app, which includes a 3D Configurator, auto news and car\u2019s customization, catalog of 3dt kit spares for tuning car, wheels, spoilers.\nMake a ride in a made-by-you car. Customizing automobile portal -3D tuning, car builder and mechanic simulator and vehicle building games - FormaCar includes it all.\nYour own car model\nNow you can see any 3D car in any location thanks to the AR mode (Augmented reality). It\u2019s easy to build a car, customize it and take a ride around your district or even your house. 3dt app make you a real car maker with all car tuning customization opportunities. Doesn\u2019t matter whether you prefer sports custom cars or want to be a truck builder using our tuning tools you can make a real car factory. You customize your project cars: car engine, project wheels, coloring cars - any tuning tools. AR apps are perfect to build car or as a mechanic simulator. Turn the brutal off-road into the low rider or make a monster truck from a city car.\nNews and social media\nWhile customizing cars you can share it with others. Get an advice in coloring cars or share your experience in 3d tuning. The car mechanic simulator becomes a professional network. You are always up to date with the latest news about the world\u2019s most talked about vehicles and technology.\nSpares and accessorie\nYou can build a car in reality! Forma\u0421ar is a car creator where you can make 3d tuning project cars, choose the spare details and tools you need and start customizing your real car.\nIt\u2019s a very handy engineering platform.\nWe\u2019ve got a huge amount of cars available in our car creator. More than 1000 sports cars, trucks and different city cars. Any car engine, wheels or car body kit might be used to help you to create your dream car.\nAR mode only functions for ARcore-enabled devices, a full list can be found - https://developers.google.com/ar/discover/supported-devices\nWrite us your feedback and suggestions by mail: support@formacar.ru\nFormaCar- is an app about \u0441ar customization, 3d tuning, \u0441ar builder, various tuning tools, 3dt kit and more\u2026 Custom cars in your phone!",
+    "description_html": "Vehicle application - FormaCar. Custom cars and 3d tuning app, which includes a 3D Configurator, auto news and car\u2019s customization, catalog of 3dt kit spares for tuning car, wheels, spoilers.<br/>Make a ride in a made-by-you car. Customizing automobile portal -3D tuning, car builder and mechanic simulator and vehicle building games - FormaCar includes it all.<br/><br/><b>Your own car model</b><br/>Now you can see any 3D car in any location thanks to the AR mode (Augmented reality). It\u2019s easy to build a car, customize it and take a ride around your district or even your house. 3dt app make you a real car maker with all car tuning customization opportunities. Doesn\u2019t matter whether you prefer sports custom cars or want to be a truck builder using our tuning tools you can make a real car factory. You customize your project cars: car engine, project wheels, coloring cars - any tuning tools. AR apps are perfect to build car or as a mechanic simulator. Turn the brutal off-road into the low rider or make a monster truck from a city car.<br/><br/><b>News and social media</b><br/>While customizing cars you can share it with others. Get an advice in coloring cars or share your experience in 3d tuning. The car mechanic simulator becomes a professional network. You are always up to date with the latest news about the world\u2019s most talked about vehicles and technology.<br/><br/><b>Spares and accessorie</b><br/>You can build a car in reality! Forma\u0421ar is a car creator where you can make 3d tuning project cars, choose the spare details and tools you need and start customizing your real car.<br/><br/><br/><b>It\u2019s a very handy engineering platform.</b><br/>We\u2019ve got a huge amount of cars available in our car creator. More than 1000 sports cars, trucks and different city cars. Any car engine, wheels or car body kit might be used to help you to create your dream car.<br/><br/>AR mode only functions for ARcore-enabled devices, a full list can be found - https://developers.google.com/ar/discover/supported-devices<br/><br/>Write us your feedback and suggestions by mail: support@formacar.ru<br/><br/>FormaCar- is an app about \u0441ar customization, 3d tuning, \u0441ar builder, various tuning tools, 3dt kit and more\u2026 Custom cars in your phone!",
+    "developer": "FormaCar LLC",
+    "developer_address": "350061, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0433\u043e\u0440\u043e\u0434 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u0443\u043b\u0438\u0446\u0430 \u0438\u043c \u041c\u0430\u0447\u0443\u0433\u0438 \u0412.\u041d., \u0434\u043e\u043c 108, \u043e\u0444\u0438\u0441 310",
+    "developer_email": "support@formacar.ru",
+    "developer_id": "FormaCar+LLC",
+    "developer_url": "http://www.formacar.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$139.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Y5rzHgj58jGYUnqlIk7HdriDAcw2TqwtEgmXruA2-Gf-3bSkobCmaX4XVE_CTt7GAg",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "Users Interact, In-App Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 13407,
+    "score": "4.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/MnWkWrCmhfZXaEsQZQJD38-ueRefagbj71qby0Rm54Y7INnKM2ws9UBYVgRT2BSYEg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/DIAbigp73HTLgE-iqzkAcBr7KgVYOl-FBVgwh3CqhzPqCuG-lm3vTcIdGLPKNi7FP6o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pVA6CcxR_oTTRWp3LjDljg4skSVsiVT3hMeSNmAGZpHLGA81fi_TcOlRVibReZZNpgo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/L6zApU1cFCFs_WgYdGFRNACm_TOmdUU_Uu5NRq64Bncsm3Sm4g1oi-eTk4b5lKmMGEE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gS3iglbfW7O-e3o046aIh9mDk1zAmAAzWz8YYZ77-_FONOCGUenGWcm5aFyzPuCOni0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/r1Q23ENOHfVbXu-DYjmHque6ph4b6vWRrVZMiWjsaxDoTWgt77osnqa-aCYrba8-AIsk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PRvroAm5BgDkXDjh4ti2m5C3RyMDKu5JYmpDOdEQUBdvO8mohSKTMuqnhNYY4aA6o-8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XX_GD2nhmGp9RWPMyzD4oC8SwK9X4KopBjysAvVKaFFBWOLhL7ZsPbPiK5-emMvXU_Wi=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-YhS2FdfnpC_hCJ4rUEgZXGIrrU27qEM9e35lU6Gg5GtRBtBnuSNVyhTtdiml1xpUfQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GRlqnV4CTdkcw3le4l_vs4fi_oS2Ci81bDiLpO8L0DHbX0h2yr4ykFF5HjFei-oQWQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/drJTQq3tMM8VFdsA3NwrmsJ9nuUFfth97KfbTipHToyqlbm6dfmME49bYZrzxUI6New=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7eB9zCQqcPHt9JdHAfr2kZRzS03p3piUO0VvcWAnr4bJtqM6qGY9oIuu7VV1PMKDKA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SpV4Kr7emcCvTHS-fvpdSnlOuLzBkBZPeG4suvjZ6NdIy0gBq36FdgN8LgMCExf2Y0k=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6QLkIMcgu5Ed8hBEbbmQBRQtbGXCRXj0KmDjt-iTfhkrKMvLftEfQELe7JDb8t8HNq0n=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-ddO_N-rIu3r_27LQ6sj3tki584Kkaq4jBRWpJhEIzqdgbvr67Ib8B16bfHbJIDcXg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FQLpZbgegWamv0FCzlP54T95JlRXgJsxcygV3ea_euCQOTDarOuszoyOGEAaW-XN7w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Czb_CAmAFIYLo3gcYmL4lGqi3difctgBLvkOyetheKfLZBV3cmIW92uIPnxTusi8kiwg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/n71U-SyRyHru14ODsph1Zck98CHRs3VzRqayk7ujEgytKEQUIEQ0lnLBp4OiSOFrpQw=w720-h310-rw"
+    ],
+    "size": "96M",
+    "title": "FormaCar Custom 3D tuning. Customize & Build a car",
+    "updated": "April 29, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.formacar.android&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/pg7MZtDq170"
+}

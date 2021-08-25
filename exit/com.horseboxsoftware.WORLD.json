@@ -1,0 +1,61 @@
+{
+    "app_id": "com.horseboxsoftware.WORLD",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Mature 17+"
+    ],
+    "current_version": "7.0.03",
+    "description": "If you are travelling or if you are just picking up some friends or family from the airport, this app is designed to help you.\n- Flight arrivals and departures information for over 5000 airports.\n- Displays like an Airport Flightboard\n- Flight status information including flight delay information and expected arrival or departure times.\n- Handy flight tracker to see the location of your flights.\n- Search for your flights by flight number, airline, gate, terminal etc.\n- Check which terminal your flight is using.\n- Check your flight's gate information (where available)\n- Check your flight's baggage area information (where available)\n- Indoor airport maps (powered by Google Indoor maps where supported)\n- Ideal for taxi drivers, pilots, airport and airline staff\nDisclaimer\nUnder no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.",
+    "description_html": "If you are travelling or if you are just picking up some friends or family from the airport, this app is designed to help you.<br/><br/>- Flight arrivals and departures information for over 5000 airports.<br/>- Displays like an Airport Flightboard<br/>- Flight status information including flight delay information and expected arrival or departure times.<br/>- Handy flight tracker to see the location of your flights.<br/>- Search for your flights by flight number, airline, gate, terminal etc.<br/>- Check which terminal your flight is using.<br/>- Check your flight's gate information (where available)<br/>- Check your flight's baggage area information (where available)<br/>- Indoor airport maps (powered by Google Indoor maps where supported)<br/>- Ideal for taxi drivers, pilots, airport and airline staff<br/><br/><b>Disclaimer</b><br/>Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.",
+    "developer": "FlightInfoApps.com",
+    "developer_address": "John Mollaghan,\n24 Oak Mount,\nTower,\nCo Cork,\nIreland",
+    "developer_email": "flightinfoapps@gmail.com",
+    "developer_id": "5594977991986922040",
+    "developer_url": "https://www.momentsvideos.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/8VjyNJhazJ2Amk5bwvYYZXdrPlPXPHEsrNOl_cAKIex6_8J371MuKXxSeVd8O1zM-wES",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 2404,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/t7JKet7OM-xu67xyKdIYZvIT9ug9VbOd2bD0pD0T3PL5jOszxiSv9sxtG9nUPXRgDir8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AIpQXooDFRUcLjJhxukTv5wONe5BohigDoWUPa1F_Rv0sAVXhpyxqclT8k21MiBHiD8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/svRB3QH3yqBkM7CLARL22oV-RY5NOJgGwzbHz3BQPI6DUYiYKaiQEJdVc8E6OASV9g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/rZwBTXQleImv3sp-TmedTdQ6ibYwqoakD6X0u9gmf4Yap-yEHlZUToZr-XnVoN5YPV8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YK4mj8zIcXr6gqGbUIhtW8dnfi77qoksX3l34P8zosx2hXmw77hvOMpNPT-1PLF5lws=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YcPVIZ0eimAuGvulOx5OalNINZa-YPkiBP8_xHvVQH53O0Ti_belas-vyQW7iEhSEw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2qU_WxYuusIyiLrgG5WBXwTDdyGIBO_iCivxWzGPplvQc6aDAA2HzGYmUke3GcKqqA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aaV0EtZR0e2hP1H8UhhRHQfkV3y-b4ITR_KC1qFw7BWdJiKNPbQHXmYvJmHzNl-8eg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0_PBSDJ40WT_KLcWaQGDNrCdVrwwpRjsrPx0btVSymSYHJ1wWesb80u3bgOiab5SFA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GrWpHFTRdYoiFh1rxb5leekoRZ9hDYuSOIR_IQQhiYJstC8nJCbAIvyrVg7ucxzaD_E=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/j1RXPlHN8EyGjiV6wuPwv9uQTRJEZ0YJ3n62U-RKpfxO5UBbKtkIGhArLrDZ3CCku7iV=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CvIe7er_Zv3ud42SnBMoM4llZ4QpC7Q6FKqJi_Qqgh0Eacn0ZMqqyLbyq66lKFttQwI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/I2NgM6eUprg-0QR_ay6bvCbbRuqNjHD0IAj1qSHmWXZVGkrM4y8oDKHBjkCZeiu6tto=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Z6BQ2nxWRYWpKN7jveK04l7XDofgS8J8Vzrdvwo7blNtWOzFcDhsuEfnx7ECfFdjXFQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CO-zHLcMIsMQbYkGwn78RsdXEj_DcR_687jyqK-yVMrMLYQtm1upMC7gEhpA0kTTkQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1xk3SpECbfm2slGEjDbH4ejOgxfC06PUeB8yKf0xkf2oDGxG3eWclXyECIwV9uPioQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/cAZ2uvYElFxA10vofaGUDal8vRqdarB23etc4FyQjl1MM5R8SyZAWORYqfIjd_TNrA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wGbQ4AdnXRibdUTduVn0Ol33MI4P2YekrUf5XtSxH0uG6YKYDhhLDSxgB83hLGg9qA=w720-h310-rw"
+    ],
+    "size": "38M",
+    "title": "FlightInfo - Flight Information and Flight Tracker",
+    "updated": "July 5, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.horseboxsoftware.WORLD&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

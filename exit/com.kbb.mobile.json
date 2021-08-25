@@ -1,0 +1,49 @@
+{
+    "app_id": "com.kbb.mobile",
+    "category": [
+        "LIFESTYLE"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.2.0",
+    "description": "This app will provide you with information to help with researching a vehicle or disposing of the one you have.\nYou can find out what your current vehicle is worth, check prices for your next one, or find a dealer using maps and directions.\nThe app allows you to view pictures and videos, and it features a Twitter feed.\nFeatures\n\u2022 Search vehicle prices\n\u2022 Compare vehicles\n\u2022 Find a dealer\n\u2022 Access our Twitter feed\nTerms of Service: http://kbb.com/company/terms-of-service/\nMobile End User License Agreement: http://www.kbb.com/company/mobile-app-end-user-license-agreement/",
+    "description_html": "This app will provide you with information to help with researching a vehicle or disposing of the one you have. <br/><br/>You can find out what your current vehicle is worth, check prices for your next one, or find a dealer using maps and directions.  <br/><br/>The app allows you to view pictures and videos, and it features a Twitter feed.<br/><br/>Features<br/>\u2022 Search vehicle prices<br/>\u2022 Compare vehicles<br/>\u2022 Find a dealer<br/>\u2022 Access our Twitter feed<br/><br/>Terms of Service: http://kbb.com/company/terms-of-service/<br/>Mobile End User License Agreement: http://www.kbb.com/company/mobile-app-end-user-license-agreement/",
+    "developer": "Kelley Blue Book Co., Inc.",
+    "developer_address": null,
+    "developer_email": "mobilefeedback@kbb.com",
+    "developer_id": "Kelley+Blue+Book+Co.,+Inc.",
+    "developer_url": "http://www.kbb.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/OSseB6GahnzAyzStF-i-Gi8dgklBkyXMSfXKB3IZ2Fw6JgPrBA2vpyjyxHJBVzsCWA",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "Shares Info"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "7.0 and up",
+    "reviews": 17932,
+    "score": "1.9",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/4zmocaMZOZ_CsbuZNX8DNDeZlFkB0-IERiZoWVoF-6wTBQfUEneVmRVY-qT4cwrfDA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ECe9wI6fvddFGnWUMrCap2YO7ihVjMJzf-UFzVs14LxY8nSTBrFb4x_yKeFPa2XQSLc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4I54D-67KTjNLtThj5P6G-sG8uL4QsW1v6G3FWLVk9jLK8dC9c1f0YOPPegxPUIv-cB_=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3eayHUb3lPB10UakFXUEAHDhvMmOxxM4Nq8Xz9t5R6pmB6olITY0V42YWZLo9A1sOjM=w720-h310-rw"
+    ],
+    "size": "4.1M",
+    "title": "KBB.com - New & Used Car Prices",
+    "updated": "March 29, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.kbb.mobile&hl=en&gl=us&q=car%250A&c=apps",
+    "video": null
+}

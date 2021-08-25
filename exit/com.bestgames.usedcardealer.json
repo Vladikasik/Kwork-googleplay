@@ -1,0 +1,63 @@
+{
+    "app_id": "com.bestgames.usedcardealer",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.4.96",
+    "description": "Open your very own dealership and build a car empire.\nSatisfy customers\u2019 needs and make a profit to expand your business!\nFace business challenges and LEARN entrepreneurship.\nHow to play:\n\ud83d\ude97 Buy used cars on auctions or from used-car sellers.\n\ud83d\ude97 Talk to your customers about cars they want - find what they like.\n\ud83d\ude97 Select the best fitting car and start dealing!\n\ud83d\ude97 Get rich - earn respect - buy better cars and upgrade them - make your business grow!\nUsed Car Dealer provides a unique business management experience. Throughout the game, you will learn how to read clients' needs and barter effectively! The algorithm implemented within the game is based on real car market simulation and is ever-changing.\nSome of the game features:\n\ud83d\ude97 Wide range of cars available to buy\n\ud83d\ude97 Parking lot system\n\ud83d\ude97 Unique bartering algorithm\n\ud83d\ude97 Mini-game\n\ud83d\ude97 Evolving upgrade system (for now - repainting)",
+    "description_html": "Open your very own dealership and build a car empire.<br/>Satisfy customers\u2019 needs and make a profit to expand your business!<br/>Face business challenges and LEARN entrepreneurship.<br/><br/>How to play:<br/><br/>\ud83d\ude97 Buy used cars on auctions or from used-car sellers.<br/><br/>\ud83d\ude97 Talk to your customers about cars they want - find what they like.<br/><br/>\ud83d\ude97 Select the best fitting car and start dealing!<br/><br/>\ud83d\ude97 Get rich - earn respect - buy better cars and upgrade them - make your business grow!<br/><br/><br/><br/>Used Car Dealer provides a unique business management experience. Throughout the game, you will learn how to read clients' needs and barter effectively! The algorithm implemented within the game is based on real car market simulation and is ever-changing.<br/><br/>Some of the game features:<br/><br/>\ud83d\ude97 Wide range of cars available to buy<br/>\ud83d\ude97 Parking lot system<br/>\ud83d\ude97 Unique bartering algorithm<br/>\ud83d\ude97 Mini-game<br/>\ud83d\ude97 Evolving upgrade system (for now - repainting)",
+    "developer": "Bestgames.ai",
+    "developer_address": "RTB MARKETING & TECH SERVICES LIMITED\nKyriakou Matsi 18, 2nd Floor, Egkomi\nCY10387551Z\nNicosia 2048\nCyprus",
+    "developer_email": "contact@bestgames.ai",
+    "developer_id": "4709621910027049140",
+    "developer_url": "https://bestgames.ai",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/UA3oSIxuJe_u4SC7EoqEUobSjCU1S4r_BHUl0NZCbvHFnrwgtvRwJ7OKd7I2mYp0RQ",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 363,
+    "score": "2.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/EqnUjisSQ9OLfx6uGnvWl5cBL4tyrZ62ToCuh1OwBwUoB0gOzuqOPV5UgeVLU8-Bm3et=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/TCskMG6sHs17AgqwfEZnuMcJ65rTu0QfM-59V1M7nLoieCraxg_YreKSNdr57uB-Ng=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Up6ivd8H3jSIO4X5awqXiaINdc8a-BlXF6V01TKu20PSqarfXnCRp6z9PkRS04m1B6w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ULENR8T6K0Hk4zoSYDiwsg8UdlvbKN27ltOBJ85-CAUUatWMQPUACTLabXs4mXtw8pXH=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aZX9UyJWN80g-a4Esvn3wVxSXMmdQA4LGNwTnCFgqF2ygcI1zDbNdk_4yN5rq-dW4Gks=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qk-2ye7FnKPkUmkOaIqDtZGpWFBrHBC1x_wt_gFWd16F3izk8-rR0yCoOuFoOsxWWf8h=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lBrkyXHnp0XJ2I3v7xhNMYbhmbnsLhEuZnaKwHesF_A3r3WChdNKRkXRogP-BLEGfoC8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/wKC8SHlP7pXyo99QoffAImmjmhS15CAERLJC911wujejBrSFJ1qwN1eDBn5j6K4rMQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/W-sIzcKblomt2WEccvN9gzQE53ICrXDVdgDM7bH1LvknLIXFkEMf30SF3gptq3EAEg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/HfZ_OWsV4vMGNZdd4UODgeefoWORtp3Op63qfg_fVkvQw5Gv_UbJUTmLbYZFgHDy9lw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VlbYhKd7rIctG2YmSM0S9NRvnVHlTIz2cL55n_Z5EoT0CxF2-HonFBkXvu1S_6Kp65A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LM1-DwnL2OENpcfnsGHkbaTQ1zrMq7-F4V8EmUrh8Tlpxw0cTyeaaStVpkQCacUy2g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IH96oKUdS3tmNsRNU6hmtRceTvx320gHNRh2DqJRkp4qeXjVIeZmB_cjhl4r47UBHj4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xCwTdgz8zTBxCm2MbOlGs_BfsD84rbx-DA9ISOqWee2SWzO9wS8x6eB9yt7oz6LEuMk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JR2niqgbWdJMfzWtDtGYvJ4ilZuxd_-XtgDjpza6JiS7CNBqD04zjQStOlBUf5vmVg=w720-h310-rw"
+    ],
+    "size": "97M",
+    "title": "Used Car Dealer",
+    "updated": "August 25, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.bestgames.usedcardealer&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/1nh7LrAu04c"
+}

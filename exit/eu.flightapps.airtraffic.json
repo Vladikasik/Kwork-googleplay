@@ -1,0 +1,55 @@
+{
+    "app_id": "eu.flightapps.airtraffic",
+    "category": [
+        "MAPS_AND_NAVIGATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "14.0",
+    "description": "This flight tracker displays live planes on a map. Like a radar, with real-time position updates and many flight status details. All of the features are available for free, which is uncommon enough to be highlighted : no subscription nor option to unlock by payment.\nWhen selecting a plane you will have all the details :\n- airline and flight number,\n- flight origin and destination airports,\n- departure and arrival time,\n- aircraft type, including photos,\n- altitude, speed and heading,\n- 3D pilot view animation\nThe planes are displayed on the map with about ten different icons depending on the type of aircraft. Also including helicopters.\nYou can find plane for a given flight or with a given registration, using the very responsive search engine. Once selected you may add the flight to the list of favorites. This will enable you later to retrieve and swap from flight to flight in a very efficient way.\nWhen opening settings, you can choose type of maps and units.\nOne of the feature we are the most proud of is the real-time 3D view of the ground. A bird-eye view as if you were in the plane : enjoy the landing!\nPresent app is designed to display commercial flight. Military aircraft is out of scope.\nDo note that not all planes are available : from 90 to 95 % coverage.\nYou will appreciate the very responsiveness of this flight tracker app when panning and zooming around.\nPermissions : we are concerned by your privacy. You will only be requested to grant location permission if you want to use the 'around me' feature. You may deny. Clean app, no other tricky permission out there.",
+    "description_html": "This flight tracker displays live planes on a map. Like a radar, with real-time position updates and many flight status details. All of the features are available for free, which is uncommon enough to be highlighted : no subscription nor option to unlock by payment.<br/><br/>When selecting a plane you will have all the details :<br/>- airline and flight number,<br/>- flight origin and destination airports,<br/>- departure and arrival time,<br/>- aircraft type, including photos,<br/>- altitude, speed and heading,<br/>- 3D pilot view animation<br/><br/>The planes are displayed on the map with about ten different icons depending on the type of aircraft. Also including helicopters.<br/><br/>You can find plane for a given flight or with a given registration, using the very responsive search engine. Once selected you may add the flight to the list of favorites. This will enable you later to retrieve and swap from flight to flight in a very efficient way.<br/><br/>When opening settings, you can choose type of maps and units.<br/><br/>One of the feature we are the most proud of is the real-time 3D view of the ground. A bird-eye view as if you were in the plane : enjoy the landing!<br/><br/>Present app is designed to display commercial flight. Military aircraft is out of scope.<br/><br/>Do note that not all planes are available : from 90 to 95 % coverage.<br/><br/>You will appreciate the very responsiveness of this flight tracker app when panning and zooming around.<br/><br/>Permissions : we are concerned by your privacy. You will only be requested to grant location permission if you want to use the 'around me' feature. You may deny. Clean app, no other tricky permission out there.",
+    "developer": "Flight Apps",
+    "developer_address": null,
+    "developer_email": "support@flightapps.eu",
+    "developer_id": "Flight+Apps",
+    "developer_url": "http://flightapps.eu",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/OV5mLnyJpzbi8SzcO1Xs9Rej9M9Jwcz2uvihVagBq7aSpvsv_qgez4_rG1wvGHl8wQ",
+    "installs": "5,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": null,
+    "reviews": 70626,
+    "score": "4.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/q4upxCtBB_ezo-fV_89dHUSJE618WbtwqtRkTxEY1eUbryozZNlmlc35o6xsKKPERcw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MmmyR8hdAYdcanw-_xx2gcRp4ek9t3cNTHDJ307XyZh93eCI-Z-42n7-h2q_kCt3SaHZ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/q2AzXMB5Ai0lKpscEu7C6nIJ34l_oFiDCAS9AVw9D1waxpq221fPiLP7O_Bab6EuSsIb=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oVJdTVOngUcB3x5NkA0sdUNd-hmHU46UxZrYL38EZIMm6A2H9vNuWl5FNSTWC-J9BO1I=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZyLtc3dTQR7Kl5zlzCHGj8vDKxXYjQ8fISLG0utOCWT_JUa4HeUaEPhXiepcNVudOg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qboi3pnrinwE7_3021kzvYSH8jzGjZDct3dgwqddGvMnMF0WbI1iqiHDoV2wUeX3=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OsXIv3h3HKY6z6u0B5F3F5weBZG3XqbCLsIEk_vuVSx_GaoOTt-cN1cliIjZyG5_Xs0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pzFXs6KjaHWuEYZbXncIJ9wbXBr2rMyXLttzOfis4UiDrazOqo0H6Q5Vq0BusHN2sg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AZbGRqs690TKtW2gppKhiocNVOUeF0TX1WKgoGU9nkwSPgAydpOYK-TdAIlczd0r1xw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nz5SJTuEiyoQIw7wnq5mEDy9GuWUu_f9knyQ_CAv2RMXZQgRnqVs6jHvpHS9v3hapQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/m5nRi1e4ggl_fDiPp45j4oa9-T_RFVsjEnUTXBG7OpKepKN5HQh4-ZGoix4fBNCP=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XwE_Jv37tAkyuIbNGoo0OAsW5xX6XzZ5lT3SATrLcsyGFB_NxIX01kTwE1xGPDkz8_s=w720-h310-rw"
+    ],
+    "size": "6.3M",
+    "title": "Air Traffic - flight tracker",
+    "updated": "August 18, 2021",
+    "url": "https://play.google.com/store/apps/details?id=eu.flightapps.airtraffic&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

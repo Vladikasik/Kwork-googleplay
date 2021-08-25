@@ -1,0 +1,70 @@
+{
+    "app_id": "com.hyperkani.stuntcarextreme",
+    "category": [
+        "GAME_RACING"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "0.9972",
+    "description": "Stunt Car Extreme is the ultimate stunt and trial car game with both entertaining and awe-inspiring tracks.\nThe main tracks are designed for casual play, but the bonus tracks offer more extreme challenge! The bonus tracks have high risks but also high rewards. Levels include hard trials levels, easier speed levels, and casual and fun jump levels.\nCars are customisable based on your preferences, with cool paint jobs, engines, tires and more.\nStunt Car Extreme is a continuation of the Stunt Car Challenge car game series. Future updates will include also monster truck challenges and motorcycle challenges.",
+    "description_html": "Stunt Car Extreme is the ultimate stunt and trial car game with both entertaining and awe-inspiring tracks.<br/>The main tracks are designed for casual play, but the bonus tracks offer more extreme challenge! The bonus tracks have high risks but also high rewards. Levels include hard trials levels, easier speed levels, and casual and fun jump levels.<br/>Cars are customisable based on your preferences, with cool paint jobs, engines, tires and more.<br/><br/>Stunt Car Extreme is a continuation of the Stunt Car Challenge car game series. Future updates will include also monster truck challenges and motorcycle challenges.",
+    "developer": "Hyperkani",
+    "developer_address": "Visiokatu 6\n33720 Tampere\nFinland",
+    "developer_email": "support@hyperkani.com",
+    "developer_id": "7748205786842398960",
+    "developer_url": "https://www.hyperkani.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.99",
+        "$32.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/CY8cDSMhfjYW6-G69MflYtLJcMkUgo5AEggZln8tcl_CterCIbZEstEl0NmywNY-Vw",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 4782,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/2IPv4V1TLOzFLwNeQQMKuGda4sOfMrkMWe4BB-gy_fAXamSf6QXRgI57VVuO6Z0-vdQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/d17adlk5JUjRlPH8SKeAotvkbHLKr5mr6f9WIbWudcpazaC8bBLOYi7X4ouraj6FHIk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9CGiMS5VZSHEpUQj7qxCu1pkOWOHJ7eUGDWTedPDxselGqTF_VmTeYmONMaddwq6Kn8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XvO013IMpnbWte1IRsfsIu4oHCjUYRlS68KBhawnfgwa45bmFuIAPlriXiv2IF8y4ykb=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/hVmZj2l8cpWWv9I0zlxUtIA6cXA7YEeVKCLU7jXbf1kRyVBEz7g8qwTkatfpZ4hmrag=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/iHW-lrdAHj8RXOmxanqjjn6QaGO0H75JTj1siXUX3Ltuo7S1ovmAT9ldRwm1mSD3uBkQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MyIKMlCGo9845OJDQ4wiuX_jr1_5jCWLH-XqR8iMW2y1LV-J-DT1nj5NLHo3Vjade2c=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nujJWiwewYnMde46AfnriBTzhShrWHeSf5lbwRy__RP_rXRKYFWW_YH2qRVnskSfB-w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8T0ofI-R4F50W-v9BstnOLzVsFNu5mv-xI3K7unqj3qo9atU082StcETWofNRUpYOA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bSbIr7BAUF5Z83oet4RFAfUxJl4_W2v_pgzwlVL6lMCOkZyt58aNrogCgQwOLZe4Gg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ch9n0B-zHZmLMfmjtXQOb-ecfJdjlPkU2VoQpQOMDcqXvsP9hkybxH-_0-ZDUnaKHw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/B_zLYeKu4pKt-voYKEJ_NKU9IuAQMk5G2ld4W8quch4rEdHB_a-HQi89KU2n9XiN2T4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Ma6UqwxlJgskUl1cnqY_QdNnahNa3O8pqgq3DsK4YcQqJOOAnvCAynem0pgllJir3g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IGdKt7lUv6Q8XohVjWGq4CkWPKKqQZGlbfzm3IGXy3-XE5snz9c3n5vjlqTzfytnmpk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Kzi0y9442j5kOWmqOOmJzUONLiaSqEYgJE3gkHDw603aXj7BJt03jnjUMxiFkpay5GIu=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XokGVEKaUBxNDfH-nDYMGKBzHanETxckULlhiPn-ftsw6qJbRfcYJ1ZzDRSYC234NLw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/H7HXI-xmnLPbF-zUm8IKDiKXWWoZglUt54zSsM7isbMcJL2vxD3r-QAkzjsk_EH--bE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5oS7ln2KzBJ1uXmhbvO_QLDlstsFuRKjSXzFrKF9C_98lynOE-0R9EXrDiUF7ktUETs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XUpe9OLq89B9cP4he4ZjmmVRtwb-s7SzuBRRAnHOThLY3dO7iF-rGq_1JCHfYr-PAhqi=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/b2MOgiXdnT06uYnsYFfEHiOh-23ruY4Z8p6KUOP8CiULzeKW8jdrO6rZ40J_okFDL1T6=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1TDolIh6lcOdy-i93pEbt210TnbL-o860PKs9UT4P-ZFE016qDc2m7RBD2P1w97-JYZo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_dnCGxfuncIJI1YHpw977ukDAXlSo0Rx77EuDCgTsbK97QyCzJdiKHCz2U-VU--D9g=w720-h310-rw"
+    ],
+    "size": "124M",
+    "title": "Stunt Car Extreme",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.hyperkani.stuntcarextreme&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/0qb2Z3XMtP8"
+}

@@ -1,0 +1,66 @@
+{
+    "app_id": "com.tradegame.easyflight",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.1.2",
+    "description": "All stages are free from now! Enjoy the game.\nEnjoy a featured flight simulator on the palm of your hands. Easy Flight offers a realistic flight experiences by the most outstanding physics and aerodynamics. You can fly, landing and take-off on the selected 19 expansive terrains. We offer a free play mode and a mission mode. There are 50 missions including various situations in the mission mode. You can check your status on the world leaderboard. We offer a lot of rankings on every mission, every model in a mission, and overall.\nImprove your skills with our advanced scoring system, camera modes and replay system.\nAttention\n- If you want to play it fully, you should buy a mission pack.\n- The mission pack includes 50 missions and free flight with G550, CRJ700, and SSJ-100\n- If you want to control other aircrafts, you should buy the aircraft additionally.\n- Easy Flight can run properly on the device supporting OpenGL ES 3.0 only.\n- If you cannot see the terrain on the fly, please do not buy a mission pack.\nFeatures :\n- Realistic and convenient flight control with gyro sensor\n- Selected 19 expansive terrains including airport worldwide\n- Basic 3 jet plane models and additional 8 models\n- 50 missions including various situations including take-off and landing\n- Detailed scoring system in each mission\n- Free flight mode with climate control\n- Advanced replay system\n- Support several camera modes and camera rotation\n- Instruments mode and HUD mode\n- Intuitive and simple UI\n- Leaderboards on each mission and each aircraft model\nFeel free to contact us.\n- support@tradegamelab.com\n- https://www.facebook.com/TRADEGAMELAB\nEnjoy our other games.\nAirTycoon Online series - Airline management simulation game.",
+    "description_html": "All stages are free from now! Enjoy the game. <br/><br/>Enjoy a featured flight simulator on the palm of your hands. Easy Flight offers a realistic flight experiences by the most outstanding physics and aerodynamics. You can fly, landing and take-off on the selected 19 expansive terrains. We offer a free play mode and a mission mode. There are 50 missions including various situations in the mission mode. You can check your status on the world leaderboard. We offer a lot of rankings on every mission, every model in a mission, and overall. <br/>Improve your skills with our advanced scoring system, camera modes and replay system.<br/><br/>Attention<br/>- If you want to play it fully, you should buy a mission pack.<br/>- The mission pack includes 50 missions and free flight with G550, CRJ700, and SSJ-100<br/>- If you want to control other aircrafts, you should buy the aircraft additionally.<br/><br/>- Easy Flight can run properly on the device supporting OpenGL ES 3.0 only.<br/>- If you cannot see the terrain on the fly, please do not buy a mission pack. <br/><br/><br/>Features :<br/>- Realistic and convenient flight control with gyro sensor<br/>- Selected 19 expansive terrains including airport worldwide<br/>- Basic 3 jet plane models and additional 8 models<br/>- 50 missions including various situations including take-off and landing<br/>- Detailed scoring system in each mission <br/>- Free flight mode with climate control<br/>- Advanced replay system<br/>- Support several camera modes and camera rotation<br/>- Instruments mode and HUD mode<br/>- Intuitive and simple UI<br/>- Leaderboards on each mission and each aircraft model<br/><br/><br/>Feel free to contact us.<br/>- support@tradegamelab.com<br/>- https://www.facebook.com/TRADEGAMELAB<br/><br/><br/>Enjoy our other games.<br/>AirTycoon Online series - Airline management simulation game.",
+    "developer": "TRADEGAME Lab Inc.",
+    "developer_address": "(\uc8fc)\ud2b8\ub808\uc774\ub4dc\uac8c\uc784\ub7a9\n\uacbd\uae30\ub3c4 \uc131\ub0a8\uc2dc \ubd84\ub2f9\uad6c \uc815\uc790\ub85c 2, 2102\ud638\nTel)070-7521-9005\nFax)031-716-8012\nEmail)support@tradegamelab.com",
+    "developer_email": "support@tradegamelab.com",
+    "developer_id": "TRADEGAME+Lab+Inc.",
+    "developer_url": "https://www.facebook.com/TRADEGAMELAB",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.00",
+        "$3.00"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/IuoJqVjWXh02_X1opU0o7E5QDkoQeGNDjRjqy532evUe_Yvc0Ue2I9n8hoibbAgwqZA",
+    "installs": "500,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 184,
+    "score": "3.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/OGIuUfWcEaaMPMZpnM6tjjFuWXKFp5WGQocKK2eWSpalGGD8RN_FIx3yIF_hEvX9mUTS=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lgCtakt3hkKiTLEDeddwklACWJTmIXQk8_jDBvfbIYdMiYufuJRG82N7r5iHpJwoWrBG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aYTD_Y-vWDix3wFhpQZdDdgROg7Ok7qSwrRoX7WSnaU2Vqu1kMW_e3vaDfGPnUAt_Mg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IWJKdhuIrYT6N-JgXkC2KOpXKllaRLGUIWw1N_CJQj9Ftb0yTifz8osxurg7ynie57g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_B_U7xGujIpua_QJxzcgxyq9POv4pejXNgV0FTcN_mCMHe4DQGA_EO4cK4s8Z8g4b3CU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/iu8-CdcIvbQjzC4iW0lO4PU9CYUqjmhDv1OU6o3Qll3Q5p_6mS8GH2jaTDYixDVN4zXu=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_zTPeawYrpzTUL-nXyRhGWU8YFkF_SDMFfGj53SS1n3reFNXk_UhF8yg3Nks8n74f2A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9F-BErGuDdyBVIAwbMTCb1VvqOkqqpsdYfAlxzKzgtUrjW08ybV6m09dEwA2W0GtYcBE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BlIqX2ta66FFQ6prisi0s9IxFxeWw_D-s2Dqfao4fXNdidkn4WUeWGCs6SJk36pqI4xn=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/buChVwm16L34ym-SmQ4Z7ILx1vYJokC41sHc-_IwQjOZgRT8RTdEZQGeGAmwZRxuAw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/KWS0W06Grga0exELLhN4yWlMdcM6Ir1zCHc3R-2QAqbU0kmMIn8HlYW74wMK0YZM8Ac=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zM5H-1rn5gcd3JE0zkOsiLlSNm1eHLcN_OJu61vFJitBjX_zqrczPO0wiX84G3urP9M=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GHccwdB9I6dVlnwwKHyQ9rf3QcYsPYqwvuwmURLzybNSV3sivwsSqf5SyufBgqsr_Sc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VuHyJjmIqETn-oPJ5OJcwbN_AUP1H_V3awGDVXnFe9fa-TdanRUozvoZyJIOMtRdafU6=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fEsZ6PrmRf576Fe9E9txkIoe_Fz0PKhv_6RBobhF7-KKTpOB1BF2lUQnIRhZjJ8NDFQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CQkl7xDoZeSQ6ihZl6_KcmE-6_H6zwvX6x0q31HH6uZjfhYRCNFmExVrWllLvvFttJST=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/edaT2weUJRAWxoOQMy1PySpBJXfc540a-xoBOSWKxVkNzqiutC0EmQnP1axyTyma7DqQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/01DEC61rfgSKxli0FTmKDxUw0GMr5CUt2zIhVkGiASWCt3f-kP-AesazNtQXHJZQgEs=w720-h310-rw"
+    ],
+    "size": "18M",
+    "title": "Easy Flight - Flight Simulator",
+    "updated": "July 6, 2018",
+    "url": "https://play.google.com/store/apps/details?id=com.tradegame.easyflight&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

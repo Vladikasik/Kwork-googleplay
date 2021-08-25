@@ -1,0 +1,61 @@
+{
+    "app_id": "com.allflights.ticketscompareapp",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "7.8",
+    "description": "Compare\nEVERY Flight comparison site\nwith JUST 1 Click! Find cheap flight tickets for from every top airlines around the world. Search thousands of travel sites to help you find airline tickets & book a flight that suits you best.\nSearch 1000s of Airlines\nSearch and browse many plane tickets sites at once and quickly find and book your ideal flight today. We find and compare fares from more than 1000 airlines and travel sites, giving you the best rates.\nHotels & Rental Cars\nCompare everything from airfares to hotels and car rental hire. Compare and plan the best trip and get the absolute best price!\nSearch every major site from deal checker to travel supermarket and even net flights and google flights we literally search every site.",
+    "description_html": "Compare <b>EVERY Flight comparison site</b> with JUST 1 Click! Find cheap flight tickets for from every top airlines around the world. Search thousands of travel sites to help you find airline tickets &amp; book a flight that suits you best. <br/><br/><b>Search 1000s of Airlines</b><br/>Search and browse many plane tickets sites at once and quickly find and book your ideal flight today. We find and compare fares from more than 1000 airlines and travel sites, giving you the best rates.<br/><br/><b>Hotels &amp; Rental Cars</b><br/>Compare everything from airfares to hotels and car rental hire. Compare and plan the best trip and get the absolute best price! <br/><br/>Search every major site from deal checker to travel supermarket and even net flights and google flights we literally search every site.",
+    "developer": "TechMart",
+    "developer_address": null,
+    "developer_email": "aplusapps@inorbit.com",
+    "developer_id": "TechMart",
+    "developer_url": "http://bit.ly/2S1qBRg",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/1V7LCBaMidMAovqVxWfmdUF1qyxULdOP_lYO9WdYa1NT2rLbQAvSNolVXaYLASxeRQY",
+    "installs": "500,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0.3 and up",
+    "reviews": 12,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ADy2NV-EbIjABe2NaFeEFM8r-uPGFrgi1d38ifMkf_i9DzgWs_bb3eMCxqR6GlnN6w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FLgYr5cGvjWViW7zM-4Fiqtdzk7LI6OQaiTTT5Rvt0Mj30Kmnwv8Vl4gJ2AT0028cQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2XJYgEUILli6_x9yi1xXC17E59O1JZ7leG8Bjwwo6yD6RqjQX_g94iwXDwwGVSrhX4le=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/S8W5PtOBw1VIIPiqVW_J27OSg1Ny66wi3PvW4pfxEX-Q0E4E4SVCXlGyf85_39QwW2mO=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jEiUI8wmICAOasgwnD7YnfWXkX8hd-yYbK8jrD6qHqqnUHHIB99bRvuyQ6spVd_hpu0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/JZJEDCkwDiq8jw_Tn_cNZY6PRIjEeoZaMhGDmrPOmQvVLefKgGg3eiN-ZKoFKfG1yaA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1_gCML_y-Dn5hfH2Jrr2eV18C8UGmGMFKvCM781Bs2XznZWM3e0gRmBwxlpGzkiajCQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/g3JRAgZ-29K5U6XZt_LXlfTelP_haCEM7-YUgC2GaA1taZPnzfDW0u013Ty7ea1sbQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zubaP4q_2WdOoASFR-uELK9USiiDhsWPvaSWSXhmkoJ_kynBlx70JEyXJqrXQooOZ8A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/B-rPrfxDu_mzPa9PPJrUTG5RhpVg7LM79RrcJEy-JhoBojPN0merYPTHwks06M3stSU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/CkRDVM0cHgyf1M0AKz74y85k3rqaDAFai42q7lCjFjoyEVTGwTB2MaSj_BeJrtmk7qw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QsPvkESYLhaT0w7tzey5jkGqsSZFNxaI-TKBgR6HKuxUULmdmF4n6KS-Gu8eXbtSSQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/WcfmckLIqYIRLqft8XLUPsKBizXQ9hgy64I7DhZDnsZ7A-Xjg6Er9H5OZQ2NsnrIQw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gmGehnhUz2J15JVoxPTXFNFDdDOMKF11AqcI0h2feZpRXMOM64Wb2aTegpr1mDkap3Xe=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/A4z3BeQx6GQZccgYgt1d3j3I7IP79WNFanJKHxx7njPpUPfCinZJXwnUHlGr-nsXRX4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0UfosfuLRyxehMMDO-ToVnkrztY2GOfdcFSbZajeVtZolzYVaK_uqO96EwCxDs4sKTw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qsQ6I8cMsmtqJvsZk9KCLJFDmdn0ALNED4s101KnfLDZMoasI3NiFeWfTM2f-icnUA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yzQb3Wx7jIeMmibDz8fTxCoWqAbph2zz2Xc6T6PEZaA0NVQig_oQgqockdu9rPMam-s=w720-h310-rw"
+    ],
+    "size": "3.8M",
+    "title": "All Flight Tickets Booking app",
+    "updated": "March 31, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.allflights.ticketscompareapp&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

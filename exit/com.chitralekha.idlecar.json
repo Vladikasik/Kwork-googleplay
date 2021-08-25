@@ -1,0 +1,61 @@
+{
+    "app_id": "com.chitralekha.idlecar",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Teen"
+    ],
+    "current_version": "2.2.1",
+    "description": "Have you ever wondered what makes a car drive? Experience every detail of creating a car from the ground up with Idle Car. Learn how a car works and what is needed to get there! Fun and easy to pick up. You will build your first car in no time!\nUnlock a variety of cars and vehicles. From motorcycles to yachts to sports cars and more!\nGame Features:\n1.        Unlock Epic Content\nThink bigger than just your fancy self driving car. Have you ever gone to space? Want to build a spaceship? How about a submarine to go to the deepest parts of the ocean?\n2.        Grow your Garage\nShow off your collection to others by unlocking all the cars along the way. Can you build them all?\n3.        Supercharge your Efforts\nUnlock turbo boosts and special power ups to get your car across the finish line. Only the best builders can make their cars 100% complete.\n4.        Build while you Sleep\nEven when you aren\u2019t playing, enjoy seeing your car\u2019s progression! The closer you are to the finish, the more money you get to unlock special content. Watch your projects evolve right in front of your eyes.\nWhether you like cars, like learning how things work or just want to click and collect, Idle Car will take you there. This is the best and most relaxing building game there is. Never miss a dull moment with this easy to learn and easy to play game that is almost IMPOSSIBLE to master.\nVisit https://lionstudios.cc/contact-us/ if have any feedback, need help on beating a level or have any awesome ideas you would like to see in the game!\nFrom the Studio that brought you Happy Glass, Flip Trickster and Mr Bullet!\nFollow us to get news and updates on our other Award Winning titles;\nhttps://lionstudios.cc/\nFacebook.com/LionStudios.cc\nInstagram.com/LionStudioscc\nTwitter.com/LionStudiosCC\nYoutube.com/c/LionStudiosCC",
+    "description_html": "Have you ever wondered what makes a car drive? Experience every detail of creating a car from the ground up with Idle Car. Learn how a car works and what is needed to get there! Fun and easy to pick up. You will build your first car in no time!<br/><br/>Unlock a variety of cars and vehicles. From motorcycles to yachts to sports cars and more! <br/> <br/> Game Features:<br/><br/>1.        Unlock Epic Content<br/>Think bigger than just your fancy self driving car. Have you ever gone to space? Want to build a spaceship? How about a submarine to go to the deepest parts of the ocean?<br/><br/>2.        Grow your Garage<br/>Show off your collection to others by unlocking all the cars along the way. Can you build them all?<br/><br/>3.        Supercharge your Efforts<br/>Unlock turbo boosts and special power ups to get your car across the finish line. Only the best builders can make their cars 100% complete.<br/><br/>4.        Build while you Sleep<br/>Even when you aren\u2019t playing, enjoy seeing your car\u2019s progression! The closer you are to the finish, the more money you get to unlock special content. Watch your projects evolve right in front of your eyes.<br/><br/> <br/>Whether you like cars, like learning how things work or just want to click and collect, Idle Car will take you there. This is the best and most relaxing building game there is. Never miss a dull moment with this easy to learn and easy to play game that is almost IMPOSSIBLE to master.<br/><br/>Visit https://lionstudios.cc/contact-us/ if have any feedback, need help on beating a level or have any awesome ideas you would like to see in the game!<br/><br/>From the Studio that brought you Happy Glass, Flip Trickster and Mr Bullet!<br/><br/>Follow us to get news and updates on our other Award Winning titles;<br/>https://lionstudios.cc/<br/>Facebook.com/LionStudios.cc<br/>Instagram.com/LionStudioscc<br/>Twitter.com/LionStudiosCC<br/>Youtube.com/c/LionStudiosCC",
+    "developer": "Lion Studios",
+    "developer_address": "1100 Page Mill Road\nPalo Alto, CA 94304",
+    "developer_email": "chitralekhaps@lionstudios.cc",
+    "developer_id": "6990178528646658622",
+    "developer_url": "https://lionstudios.cc",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$99.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/DsUnGTGhQ7K3Ax1qwzP4Uic1iaIRbRo-5X0Dt4cXph4VEt10Qs4xDAK_78lVf-bQznTa",
+    "installs": "5,000,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 29872,
+    "score": "3.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/3jw4SW0n6KmLx-p3CFMPZMvjB3Cpwyze33X8GgUgoLLQQTu5vBYWvblG-PSm8w7W7w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pr7BlPx-gJcS31rFoFR87Hz6Z8xPPLdmWQ1kiFxO9B3-61gaZahb7ectv10th1Ig7CA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/rGbaT6CovaciBPJyjloOf6E95OLnxpzo5oDbBtKrpNGAaQC9TvEDnrCcICJtgzOEYsoz=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/B7XJbnAHFbXDbPXCkjS2Y0eaKaxz6XKbonL4exyZOY_nxpx4KrjfvSSePie1PoveoQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NfqkFhXAJFz6T4bAXGTIM4y26V1fqA5iSkunwpfZYAYmJHKYcfL6gRrzCGNEppPTa8g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/31jRtXGyd0GRx6ASnIe7YLtDAEs-3AP7mqaHT1ccQzKhqObOOi0FMPH5GO-35Meh4w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PyAogi5BencsbXMnTEmqgg3EmzJvxJXMfYYsbKNumbbNuvipLFHjZ9-JZScUqBcI9ZI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/icK-W79tyOzN4LURrquj0-tY6OQsjMjLzipqiarniRA4QN1ppgzilvht6dl6B1N_8-M=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/djxyIu5W-pfXu1EYEWaESSljqzL1vTAAY6bNROyaMlqJrC575Mmf6QHX7q2_AB55QB4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xgEEaaPDBvDLcKX0tG5w9E_iqym_E6dhlC-9-3ckirY7iEn9U5bLi9jhNt01HvF-4kU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/BYewkVLyma-vp5rEdFfFctlqfrrIMgYbLisy1CJ7Iu9YfScF3b6iblKNkgK9hdNo_w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/FfLLH_DzplYLbvM0YRdYZeDQOcKeDeVY_KFh381060Ki_CWAT6aavTEb4BtE9ZFrMg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qpapJKXLYVAHr7YHhXktyxuyG3Lhp_kRfAIG0fr6rCOWOVlElYtSR5dv96qM9h5iEA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/muH6zA9uWIB5Bk7VFqAdP_UAgflTkFYs1RcFFhaJCnrwfoPCJKuEZXBlbgSlAgkk694k=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5FYRZJ01tB8EVPtc-hNtckxCjlpDETepKucJ5X90vX9v80m9rhDv3laSx30-kjEQNg=w720-h310-rw"
+    ],
+    "size": "152M",
+    "title": "Idle Car",
+    "updated": "May 4, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.chitralekha.idlecar&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/xhXWyjZcetw"
+}

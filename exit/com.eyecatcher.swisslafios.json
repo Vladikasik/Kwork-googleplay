@@ -1,0 +1,47 @@
+{
+    "app_id": "com.eyecatcher.swisslafios",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2019.11.13_v33",
+    "description": "The SWISS flight simulation app guarantees maximum gameplay: have a seat in the cockpit of our flagship plane, the Boeing 777-300ER, or act as captain of the brand new Bombardier C Series. Thanks to the replay function, you can easily play back your landing from various different perspectives. Experience Zurich Airport and its surroundings in a remarkably realistic way. Choose from three difficulty levels and compete with friends. Earn points after every successful landing and unlock exciting additional features.\nHow does it work?\nEnter your pilot name.\nAt the top left, you can change your profile, access help and see your point score.\nSelect the level.\nChoose the course followed by your SWISS plane.\nAfter you start, follow the red arrow. It will lead you the right way along the course.\nTo change direction, turn your smartphone to the left or right.\nFrom level 2, wind gusts will impact the flight route. Pay careful attention and steer against them if necessary.\nFrom level 3, you will need to start checking your flight elevations. Tilt your smartphone forward or backwards to control elevation levels.\nAfter successful landing, you can replay and watch your flight simulation.\nNow, take-off and have fun!",
+    "description_html": "The SWISS flight simulation app guarantees maximum gameplay: have a seat in the cockpit of our flagship plane, the Boeing 777-300ER, or act as captain of the brand new Bombardier C Series. Thanks to the replay function, you can easily play back your landing from various different perspectives. Experience Zurich Airport and its surroundings in a remarkably realistic way. Choose from three difficulty levels and compete with friends. Earn points after every successful landing and unlock exciting additional features.<br/> <br/>How does it work?<br/>Enter your pilot name.<br/>At the top left, you can change your profile, access help and see your point score. <br/>Select the level.<br/>Choose the course followed by your SWISS plane.<br/>After you start, follow the red arrow. It will lead you the right way along the course. <br/>To change direction, turn your smartphone to the left or right.<br/>From level 2, wind gusts will impact the flight route. Pay careful attention and steer against them if necessary.<br/>From level 3, you will need to start checking your flight elevations. Tilt your smartphone forward or backwards to control elevation levels.<br/>After successful landing, you can replay and watch your flight simulation.<br/> <br/>Now, take-off and have fun!",
+    "developer": "Swiss International Air Lines Ltd.",
+    "developer_address": null,
+    "developer_email": "lxflightsimulator@myswissexperience.ch",
+    "developer_id": "Swiss+International+Air+Lines+Ltd.",
+    "developer_url": "http://www.swiss.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/QLe7EYP2eR8jn6kT7PubNYVJWfFpLMGKgHCX-qfSBSx2jB1xKSu1exnZYJHaIR5wX4JR",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 112,
+    "score": "3.8",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Dx0Mf5ZE-UUYIUNuhnoT2ITe1IpNa8GGLzEHr3RJyQoi4p1xJBNkTWVF9IouDUtXuxQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/-4nCNrz9sbHz75Qz_Fc2qxgQKtp-UvdSdPs_SkY2DWhLyCsAy3fGVH6gvNKCtZyUyUE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nND4ItqMS0R4xytRWaq3O4eDoRIExtJPqmHxVnQhq9sD_XUCk_06dhUPMVZONTvuxRqu=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XE_KMrPUAtovgEEEkKuUQft4zoWkviWSle_MloygRDq0FNKcKro3vqyb8RmU8fssjKg=w720-h310-rw"
+    ],
+    "size": "19M",
+    "title": "LX Flight Simulator",
+    "updated": "November 13, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.eyecatcher.swisslafios&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

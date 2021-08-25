@@ -1,0 +1,47 @@
+{
+    "app_id": "com.wadoft.flightplanner",
+    "category": [
+        "TOOLS"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.8",
+    "description": "Hi captain, now you don't need to be confused about determining the flight route from your simulator, Flight Planner is app flight planning for X-Plane, FSX, PMDG, FS9, Infinite Flight and many other flight simulators, now there are Flight Planner with features:\n\u2708 Free\n\u2708 UI Friendly\n\u2708 Airports around the world\n\u2708 Advanced Setting ( Use NATs , Use PACOTS tracks, Use low airways 0 ft - 18,000 ft, Use high airways 18,000 ft - 45,000 ft )\n\u2708 Display Distance\n\u2708 Display Waypoints\n\u2708 Display Altitude\n\u2708 Complete route details\nFeel the flight that has been planned carefully with Flight Planner app\nEnter departure and destination ICAO codes to compute a new flight plan in Flight Planner. This route generator attempts to find an optimal route through global airways and intersections. When crossing the Atlantic or the Pacific, the current oceanic tracks can optionally also be considered. Generation can take up to 2 minutes, so please be patient in Flight Planner.\nDisclaimer\nUnder no circumstances should any of the plans or data listed on this site be used for real-world aviation or as a substitute for proper flight planning. We have no verification of the existence of routes or waypoints and even plans based upon real routes may be out of date. As such, we cannot be held responsible for the consequences of their use outside of flight simulation.\nIf you have anything you want us to include in the future for Flight Planner app, let us know by mailing us.",
+    "description_html": "Hi captain, now you don't need to be confused about determining the flight route from your simulator, Flight Planner is app flight planning for X-Plane, FSX, PMDG, FS9, Infinite Flight and many other flight simulators, now there are Flight Planner with features:<br/><br/>\u2708 Free<br/>\u2708 UI Friendly<br/>\u2708 Airports around the world<br/>\u2708 Advanced Setting ( Use NATs , Use PACOTS tracks, Use low airways 0 ft - 18,000 ft, Use high airways 18,000 ft - 45,000 ft )<br/>\u2708 Display Distance<br/>\u2708 Display Waypoints<br/>\u2708 Display Altitude<br/>\u2708 Complete route details<br/><br/>Feel the flight that has been planned carefully with Flight Planner app<br/><br/>Enter departure and destination ICAO codes to compute a new flight plan in Flight Planner. This route generator attempts to find an optimal route through global airways and intersections. When crossing the Atlantic or the Pacific, the current oceanic tracks can optionally also be considered. Generation can take up to 2 minutes, so please be patient in Flight Planner.<br/><br/>Disclaimer <br/><br/>Under no circumstances should any of the plans or data listed on this site be used for real-world aviation or as a substitute for proper flight planning. We have no verification of the existence of routes or waypoints and even plans based upon real routes may be out of date. As such, we cannot be held responsible for the consequences of their use outside of flight simulation. <br/><br/>If you have anything you want us to include in the future for Flight Planner app, let us know by mailing us.",
+    "developer": "Jozzae",
+    "developer_address": "JL. PUSPANJOLO BARAT V NO.10\nSEMARANG\n50141",
+    "developer_email": "info@wadoft.com",
+    "developer_id": "4998523204789664127",
+    "developer_url": "https://wadoft.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/JFKpvr3u3fqSw_j4_xpU5AhLwiwzHqgDKa4mM2ukoHRIsodSnajQsWAO22Zm0sa-fQ",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.4 and up",
+    "reviews": 32,
+    "score": "3.2",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/DVgp9jsTDdZkmmGXXeC4b_JEVHFD_PGJgXk7fV6bQsaKNA0jgIr3gfoqIdQCNqZyjg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/EvfMe5fn-xoGXjVsH3q0AZti_m5Yau7DbLtrIsnOYuBPHCDYYfO4CPKYMqTQyuVkxVo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3pyFcqNg0eNZt27p2GbUBtqnmrVYpkEU6Zb4aouy1Qekg4U9uygt8Unup_gTRLRue-c=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Wb2z9RHlmrQOLvAGzm5jBKUjvXqEflB2x9wZzzidGFL9HeBKlyEOpuUWPTu8Qs4vHg=w720-h310-rw"
+    ],
+    "size": "7.4M",
+    "title": "Flight Planner - Flight Planning For Flight Sim",
+    "updated": "March 17, 2019",
+    "url": "https://play.google.com/store/apps/details?id=com.wadoft.flightplanner&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

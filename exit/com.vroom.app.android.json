@@ -1,0 +1,50 @@
+{
+    "app_id": "com.vroom.app.android",
+    "category": [
+        "AUTO_AND_VEHICLES"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "vroom-andr-v2.15.0",
+    "description": "You\u2019ve found us: the new way to buy a car! Use the Vroom app to find your next great car, and have it delivered to you - all without taking a trip to the dealership.\nHow, exactly? Here\u2019s how it works with Vroom:\nHIGH-QUALITY CARS\nBrowse thousands of late-model, low-mileage cars and trucks on the Vroom app, with new cars and trucks added every week.\nEASY FINANCING\nWe partner with a dozen major partner banks to get you a competitive rate that\u2019s right for you. You can also pay with cash or finance with your own bank.\nDELIVERY\nDelivering, now and always. Buy a car entirely online and have it safely delivered, contact-free\nVROOM LIMITED WARRANTY\n\u2022 All vehicles enjoy a 7-day or 250-mile return period, so that you can make sure it\u2019s the right car for you\n\u2022 Each car has an accident-free Carfax history report\n\u2022 Every car comes with a free limited warranty\nHAVE A QUESTION?\nVroom\u2019s customer support is here to assist you.\n\u2022 Call us at: 855-524-1300\nor\n\u2022 Visit us at: https://www.vroom.com\nDownload the Vroom app today and discover the new way to buy a car.",
+    "description_html": "You\u2019ve found us: the new way to buy a car! Use the Vroom app to find your next great car, and have it delivered to you - all without taking a trip to the dealership.<br/> <br/>How, exactly? Here\u2019s how it works with Vroom:<br/> <br/>HIGH-QUALITY CARS<br/>Browse thousands of late-model, low-mileage cars and trucks on the Vroom app, with new cars and trucks added every week.<br/> <br/>EASY FINANCING<br/>We partner with a dozen major partner banks to get you a competitive rate that\u2019s right for you. You can also pay with cash or finance with your own bank.<br/> <br/>DELIVERY<br/>Delivering, now and always. Buy a car entirely online and have it safely delivered, contact-free<br/> <br/>VROOM LIMITED WARRANTY<br/>\u2022 All vehicles enjoy a 7-day or 250-mile return period, so that you can make sure it\u2019s the right car for you<br/>\u2022 Each car has an accident-free Carfax history report<br/>\u2022 Every car comes with a free limited warranty<br/> <br/>HAVE A QUESTION?<br/>Vroom\u2019s customer support is here to assist you.<br/>\u2022 Call us at: 855-524-1300<br/>                or<br/>\u2022 Visit us at: https://www.vroom.com <br/> <br/>Download the Vroom app today and discover the new way to buy a car.",
+    "developer": "Vroom, Inc.",
+    "developer_address": null,
+    "developer_email": "app-android@vroom.com",
+    "developer_id": "Vroom,+Inc.",
+    "developer_url": "https://www.vroom.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/3U63uAp_JdEGjPk5XSOOtEbJq0FHhxogarhAUUsYKY38WocwLEZARp9coJcyW5npjOc",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 497,
+    "score": "4.3",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/Eo9n9fGrDvNa6siUrht0T75SS5wJS6nHKizUg1-akjaH6AQHlC84DghEZjKE4SWHZwtD=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/K3YhnBjRG7NOdfe5uvLQgN1-Ymm1Gmx7IMifgAXUXFM33M6fZvVXjx17-88-j07b7aUM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MMBNSqo3O_xHrH8ZyCBmoyBNSA9w3Q2zoAHwBqX2R250IR3HqC6Rt82MYgtT4vEmAO_b=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/hhvbo_5chRKj_LqNWEiIHsKMTaS-JdkXTGZSVbyEU8z4e2tOoof8NmGQmDHloRYtaFJq=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8pD4dMyArTVElAaHOJdild7vZYehswTQ5UFoew9WIs4AKkFivcktObwYQwpKpAZnf5lB=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/x-csyBKcTaPpy7gqxb-xH4rQmxSzn5XBfYEzUfWpINb67cJ-tm3siJlHrz2kQtvsTA4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ep6tAOh0z04tJuiYlU5YqIYUAH0blvtsiAySaaviesYAXMgnlDpYgM0VaTbuuRA5kWi6=w720-h310-rw"
+    ],
+    "size": "16M",
+    "title": "Vroom - Great cars. Delivered to you. Get in.",
+    "updated": "August 17, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.vroom.app.android&hl=en&gl=us&q=car%250A&c=apps",
+    "video": null
+}

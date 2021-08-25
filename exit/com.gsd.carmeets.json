@@ -1,0 +1,56 @@
+{
+    "app_id": "com.gsd.carmeets",
+    "category": [
+        "AUTO_AND_VEHICLES"
+    ],
+    "content_rating": [
+        "Teen"
+    ],
+    "current_version": "4.6.8",
+    "description": "The Ultimate App for Car Enthusiasts\nCarMeets is the the ultimate automotive social marketplace for connecting you with events, news, clubs, for-sale vehicles and parts, and discounts on your favorite products and services. CarMeets has you covered whether you\u2019re going to a meet or hard at work in the garage.\nGarage\n- Add your cars to the garage and discover amazing builds from others\nShare photos, add mods, ask questions or list items for sale.\nMarketplace\n- Find the next car to purchase, get exclusive deals for parts, merchandises and services.\nCheck out using our exclusive coupon code and save on your next purchase.\nEvents\n- Discover thousands of events around the world.\nAttend or host or your own! When\u2019s the next car show in your city?\nVehicle QR Sticker\n- Meet people in real life and grow your followings\nThe only vehicle sticker on the market that links directly to your car profile and social networks\nClubs\n- Join clubs to connect with like-minded individuals!\nShare photos, posts or host events in both public and invite-only Clubs.\nDrive\n- Drive in realtime with your friends, and find others to cruise along with!\nCoordinate with others and never get lost again\nFeed\n- Post a video, poll, discussion, blog to share your passion\nand stay up to date on news & activities\nNew features & updates actively in development!\nPrivacy Policy: https://www.carmeets.app/legal/privacypolicy\nLicense Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "description_html": "<b>The Ultimate App for Car Enthusiasts</b><br/><br/>CarMeets is the the ultimate automotive social marketplace for connecting you with events, news, clubs, for-sale vehicles and parts, and discounts on your favorite products and services. CarMeets has you covered whether you\u2019re going to a meet or hard at work in the garage.<br/><br/><b>Garage</b><br/>- Add your cars to the garage and discover amazing builds from others<br/>Share photos, add mods, ask questions or list items for sale.<br/><br/><b>Marketplace</b><br/>- Find the next car to purchase, get exclusive deals for parts, merchandises and services.<br/>Check out using our exclusive coupon code and save on your next purchase.<br/><br/><b>Events</b><br/>- Discover thousands of events around the world.<br/>Attend or host or your own! When\u2019s the next car show in your city?<br/><br/><b>Vehicle QR Sticker</b><br/>- Meet people in real life and grow your followings<br/>The only vehicle sticker on the market that links directly to your car profile and social networks<br/><br/><b>Clubs</b><br/>- Join clubs to connect with like-minded individuals!<br/>Share photos, posts or host events in both public and invite-only Clubs.<br/><br/><b>Drive</b><br/>- Drive in realtime with your friends, and find others to cruise along with!<br/>Coordinate with others and never get lost again<br/><br/><b>Feed</b><br/>- Post a video, poll, discussion, blog to share your passion<br/>and stay up to date on news &amp; activities<br/><br/><i>New features &amp; updates actively in development!</i><br/><br/><b>Privacy Policy: https://www.carmeets.app/legal/privacypolicy </b><br/><b>License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/</b>",
+    "developer": "CarMeets, Inc.",
+    "developer_address": "7635 118th Ave SE, Newcastle, WA 98056",
+    "developer_email": "support@carmeets.app",
+    "developer_id": "CarMeets,+Inc.",
+    "developer_url": "http://www.carmeets.app",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$399.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lTdvhBBtximK7eG8bZCwt-xAvnxLyhozDRGbQ6aH1UCneRim-aXjW_eTH2zg1pvXp5MB",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "Users Interact, In-App Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 1053,
+    "score": "3.0",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/RtItVGXgNA0AdxCyl7zdydoVggtxseaF2nsG8fv8qsYY-jYOOB7WacqcXOuc2GeF2ZoT=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3bG3FqX7t8JAylOWufQ9bYalTFpwSFayv5kyxKRvtpB6XoZu7-MJA6WDgW071rdauyk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3EMAheQLwPpmQb2p5tqWuKH6DzI1wWv9wRXtUWPynsNFVw8sNs89uTDoIr_ebhdL0w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/vySj238xtfRJIz7F3KNQBjaJ_lbNfr4_w5ruY19mKeJSjoZghTDaAGLGIyycAQcRiQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/S9FK74fVFrtO_B1RkRQdRpq2u7oNx4XvvwlsB-nqpi-fug8f5fYhn6-lLzGb4qnk0W4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3KLeVC8-nxae08ldz5PrpKX_AUyDnv5Th3CDXbGY7rOlF2xse5lFCbrVeHT62Qek_MU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/3RehSQpX9pWW6goe-aczdRHUOrZNeTIWB5RJoiCWHxHythx7ozqoWbrEKcyNTlJfNJA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QnrcA6WvMTKS_-EIJLYsYWxsxsU-gcGKsOG5NtZDsBbub3lMzKs3llWffgYxbRW3-A=w720-h310-rw"
+    ],
+    "size": "50M",
+    "title": "CarMeets - The Ultimate Car Enthusiast App",
+    "updated": "August 6, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.gsd.carmeets&hl=en&gl=us&q=car%250A&c=apps",
+    "video": null
+}

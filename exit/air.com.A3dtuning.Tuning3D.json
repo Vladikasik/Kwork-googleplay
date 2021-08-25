@@ -1,0 +1,63 @@
+{
+    "app_id": "air.com.A3dtuning.Tuning3D",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "3.6.957",
+    "description": "Unique 3D car configurator!\nMore than 1000 cars in photorealistic quality!\n1. Huge selection of cars, exterior design and tuning options;\n2. Brand new car models, as well most popular cars of the 20th and 21st century;\n3. Unique collection of wheels, front and rear bumpers, grills, headlamps and tail lamps, spoilers, fenders, mirrors, as well as a variety of air intakes and much more;\n4. Available features include exterior color change, suspension level customization, car paintings and many more;\n5. Application is integrated with 3DTuning.com, so your unique car garage is always at your disposal, while constant and frequent site updates are immediately available on your mobile devices.\nCreate and share your garage of unique cars with individual tuning projects!",
+    "description_html": "Unique 3D car configurator!<br/>More than 1000 cars in photorealistic quality!<br/><br/>1. Huge selection of cars, exterior design and tuning options;<br/>2. Brand new car models, as well most popular cars of the 20th and 21st century;<br/>3. Unique collection of wheels, front and rear bumpers, grills, headlamps and tail lamps, spoilers, fenders, mirrors, as well as a variety of air intakes and much more;<br/>4. Available features include exterior color change, suspension level customization, car paintings and many more;<br/>5. Application is integrated with 3DTuning.com, so your unique car garage is always at your disposal, while constant and frequent site updates are immediately available on your mobile devices.<br/><br/>Create and share your garage of unique cars with individual tuning projects!",
+    "developer": "3DTuning",
+    "developer_address": "Yerevan, Armenia",
+    "developer_email": "info@3dtuning.com",
+    "developer_id": "4645076029735094716",
+    "developer_url": "http://3dtuning.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$21.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/1uyB05CJ14Us2vhQZYDBqrb3kdezFa9TdibLnPFmnKTg04lgGwNcAz3Jw3WemQ3Diw",
+    "installs": "10,000,000+",
+    "interactive_elements": [
+        "Users Interact, Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0 and up",
+    "reviews": 233490,
+    "score": "4.1",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/R5xzUJm22DDMCdsucsxAVe-4bCDWbXzVxYX55FbBXWbZUkQS3pjyyGUIEhsfad78it6B=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tqzRzJt4VxG3ppWdT4opz2fm2LaFb_qaPC9K3NWjLPg7BI2OKgHKJK44OU5YEF0Gfbk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tyNjLskjZP2wiV2Qs8Qh8f04AL3BQ_zKA0i9cjTt82a-GcNemF7zdZlR3h8OOV2H38s=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1LzbTxTxlYQdyPDEjiCpmpavqjMEsS24E0RpW1igl_9ddedmcDoL9CPOSUfdZKHkMd8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/adUcPJD9u2W_M2nuLD0wDe92Fs98gFvInfSaCVuNw0tGpzNzMdJnDpfFGDNhY7VnAwA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nI37NUY8U7iS1YY6fajwW-tT-cZViU3_maflV7DZ--FQ1O5E5r06OdtLKE3ktUR-8IWU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/x_RbsxVyE8n0ug5Uv-E457Z-rRkhehzuhftRzzHAngR5qj6HqpQuFi6rd2dnK6TeNNo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YJrqcArdgmlbB4GPm44Nn9AP_x-3fyXB4xu9BQq6AiF2BMp194cqBdGEB-WogUPPNv0=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/tnynBI5EmFDJCHkVy3yUBWYGmL65Wxd-QV5LD1C4F9SFeBWa-8cWoxV3UixV_eXoeOU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pL8a89eA2E7yb-UOUUf_V6NE1_6hXTEyqp7lyke9K7Ne_1mUKhFLLLJxuWhngTVXOsTB=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V_z3FBJ0GxyikbY_pgHRBvYXyiTMTM9UZyXyG8c-iR2eT4ePNHO1nXSQeegKCQu0u5Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/n-4Z5kztePXYlROPqyk5hTNveXGG0wLOKYIYiDf80DpAVHUgeNMs938UA3UpLFWiSf-p=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LJ2EjndnU1JqorGvkQvELhJjtfNObLsTf4TMgj_zE1KqrD5A-vMYig31a3Nj71umy4Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/9uo4m5CAOWVMGw_p8YVoIwCg7CEDTbdn2Hlzs3HRILoXl1a3kV2WUqQpxZl_bOQwec6m=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5BjtR5egfGNe7pVLaIHL1NKtQqCHsLkL_sB6c8T9UN1JK4gJEjXuV5TkP1r0-Zybw-g=w720-h310-rw"
+    ],
+    "size": "Varies with device",
+    "title": "3DTuning",
+    "updated": "August 20, 2021",
+    "url": "https://play.google.com/store/apps/details?id=air.com.A3dtuning.Tuning3D&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/sKvVcZVA4Ws"
+}

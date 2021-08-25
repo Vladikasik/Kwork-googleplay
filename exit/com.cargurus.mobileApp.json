@@ -1,0 +1,50 @@
+{
+    "app_id": "com.cargurus.mobileApp",
+    "category": [
+        "SHOPPING"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.19",
+    "description": "Looking for a used or new car? Find it on CarGurus. We take the guesswork out of car shopping by running the numbers on tons of cars, providing you with all the important details, and serving everything up in an easy-to-understand format. See if a car is overpriced or a great deal, access key negotiation info, and find financing*\u2014all on the app. Want to sell your car? We can help with that, too.\nDATA-DRIVEN DEAL RATINGS:\nOur deal-rating algorithm digs deeper, analyzing thousands of details like price, accident history, dealer reviews, and dealer location to give cars a deal rating from great to overpriced. Our algorithm is so rigorous that it only rates 30% of cars a good or great deal. That means when you see a great deal on CarGurus, you can be sure it\u2019s a great deal.\nVALUABLE INSIGHTS:\nGet free access to key info like accident history, days on lot, number of owners, and price changes\u2014all in one place. No digging necessary.\nGET PRICE DROP ALERTS, NEW DEALS & CAR RECOMMENDATIONS:\nWe\u2019ll let you know any time there\u2019s a price drop on a car you\u2019ve saved. You\u2019ll also receive new deals and car recommendations based on your search.\nFINANCE IN ADVANCE*:\nFind financing ahead of time so you can shop with your real monthly payment and have real rates in hand when talking to the dealer. There\u2019s no impact on your credit score, and it only takes minutes.*\nSELL YOUR CAR:\nSell your car yourself in our private marketplace. With access to vetted buyers and smart tools, you can get the offer you deserve.\n*Finance in Advance is a product of CarGurus, Inc. Subject to final agreement between you & dealership. Financing not completed on site. Completing a credit application at a dealership may result in one or more inquiries posted to your credit file. Subject to agreement on terms and conditions with the participating lender.",
+    "description_html": "Looking for a used or new car? Find it on CarGurus. We take the guesswork out of car shopping by running the numbers on tons of cars, providing you with all the important details, and serving everything up in an easy-to-understand format. See if a car is overpriced or a great deal, access key negotiation info, and find financing*\u2014all on the app. Want to sell your car? We can help with that, too. <br/><br/>DATA-DRIVEN DEAL RATINGS:<br/>Our deal-rating algorithm digs deeper, analyzing thousands of details like price, accident history, dealer reviews, and dealer location to give cars a deal rating from great to overpriced. Our algorithm is so rigorous that it only rates 30% of cars a good or great deal. That means when you see a great deal on CarGurus, you can be sure it\u2019s a great deal.<br/><br/>VALUABLE INSIGHTS:<br/>Get free access to key info like accident history, days on lot, number of owners, and price changes\u2014all in one place. No digging necessary.<br/><br/>GET PRICE DROP ALERTS, NEW DEALS &amp; CAR RECOMMENDATIONS: <br/>We\u2019ll let you know any time there\u2019s a price drop on a car you\u2019ve saved. You\u2019ll also receive new deals and car recommendations based on your search. <br/><br/>FINANCE IN ADVANCE*: <br/>Find financing ahead of time so you can shop with your real monthly payment and have real rates in hand when talking to the dealer. There\u2019s no impact on your credit score, and it only takes minutes.*<br/><br/>SELL YOUR CAR:<br/>Sell your car yourself in our private marketplace. With access to vetted buyers and smart tools, you can get the offer you deserve. <br/><br/>*Finance in Advance is a product of CarGurus, Inc. Subject to final agreement between you &amp; dealership. Financing not completed on site. Completing a credit application at a dealership may result in one or more inquiries posted to your credit file. Subject to agreement on terms and conditions with the participating lender.",
+    "developer": "CarGurus, Inc",
+    "developer_address": "2 Canal Park, 4th Floor\nCambridge, MA 02141",
+    "developer_email": "android_developer@cargurus.com",
+    "developer_id": "CarGurus,+Inc",
+    "developer_url": "http://www.cargurus.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/a7v7-prBpwu0VyQy7qkc-VArU_WTUd6mOMOFtijebuSmitzjvzzB_yI-lA5AnQeUlEEG",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "Users Interact, Shares Info"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 19566,
+    "score": "4.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/bGElXJ8CETLf0xy6obrrMO8oEJ0AKBO88H5aDHus_wkrWkKhWwbFjq3XPeFmxPAIfA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/yM4oyJDiGsyD4_RTbgCW4ECOOCYokjQmKXYCF4321CoFOnKtfyOOcx0c1ql2c2rSVaks=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/X5ZYGMSLMKHKnoE6HcJRsT0mzvCULORx3QOmJ8SVl3zSGHgZfIFJsNbL109tNuqWQ3Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dzWRAtjFWrpT3VA90F8kYJ5r_M7LVAxZLmFucrMJ_SqiW-WrTiRIiiWiu_6esos4hg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Rov4PwMfuv97PdjxEHuDEB-rKjpuv-LKFyhoICJpDUYgwz_SVNZou1Uw0AINXYYQvg=w720-h310-rw"
+    ],
+    "size": "48M",
+    "title": "CarGurus: Used & New Cars",
+    "updated": "August 17, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.cargurus.mobileApp&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/o8hqkIg6_zI"
+}

@@ -1,0 +1,56 @@
+{
+    "app_id": "com.enthusiasticcoder.adsbflightmonitor",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "32.6",
+    "description": "For the geeky aviation enthusiast to track and view planes flying in the local area as well as around the world using a radar style similar to the radar screens that Heathrow air traffic controllers use in the real world.\nThis App is a 'viewer' to any Virtual Radar Server you point at on the internet serving live flight data and it defaults initially to www.adsbexchange.com. It can be changed using the [Server] menu.\nYou can also filter plane data so that you will see only planes that fit a given filter criteria using the various flight parameters and variables available here: http://www.virtualradarserver.co.uk/Documentation/Formats/AircraftList.aspx\nBuilt-in ADSB receiver/Dump1090 server listener functionality so with the correct hardware connected to your mobile device you can receive live plane data in your area directly from the air.\nReal time GPS feature which allows users to leverage their GPS receiver on their device to provide real time speed, direction and altitude of their present movements.\nProximity Alert feature depending on distance and height away from aircraft to your current GPS position provides a visual and audible warning \"traffic\".\n3D View mode with over 1000 airliners and military planes including the Beluga, Chinook, Harrier and Apache models not to mention many liveries of balloons, gliders, small planes and helicopters.\n3D with VR - using an Android device that has the correct sensors (namely gyro, gravity and compass) you will be able to move your phone around in a full 360 degree circle in the real world and see where planes are positioned around you.\nhttps://twitter.com/ADSBFlightTrkr\nDisclaimer:\nTHIS SOFTWARE IS PROVIDED `AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANT ABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS AND/OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANYWAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nIn simple terms; use this software at your own risk.",
+    "description_html": "For the geeky aviation enthusiast to track and view planes flying in the local area as well as around the world using a radar style similar to the radar screens that Heathrow air traffic controllers use in the real world. <br/><br/>This App is a 'viewer' to any Virtual Radar Server you point at on the internet serving live flight data and it defaults initially to www.adsbexchange.com. It can be changed using the [Server] menu.<br/><br/>You can also filter plane data so that you will see only planes that fit a given filter criteria using the various flight parameters and variables available here: http://www.virtualradarserver.co.uk/Documentation/Formats/AircraftList.aspx<br/><br/>Built-in ADSB receiver/Dump1090 server listener functionality so with the correct hardware connected to your mobile device you can receive live plane data in your area directly from the air.<br/><br/>Real time GPS feature which allows users to leverage their GPS receiver on their device to provide real time speed, direction and altitude of their present movements.<br/><br/>Proximity Alert feature depending on distance and height away from aircraft to your current GPS position provides a visual and audible warning \"traffic\".<br/><br/>3D View mode with over 1000 airliners and military planes including the Beluga, Chinook, Harrier and Apache models not to mention many liveries of balloons, gliders, small planes and helicopters.<br/><br/>3D with VR - using an Android device that has the correct sensors (namely gyro, gravity and compass) you will be able to move your phone around in a full 360 degree circle in the real world and see where planes are positioned around you.<br/><br/>https://twitter.com/ADSBFlightTrkr<br/><br/>Disclaimer:<br/>THIS SOFTWARE IS PROVIDED `AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANT ABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS AND/OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANYWAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<br/><br/>In simple terms; use this software at your own risk.",
+    "developer": "CodingRealLife",
+    "developer_address": "London\nUK",
+    "developer_email": "adsbflighttracker@gmail.com",
+    "developer_id": "CodingRealLife",
+    "developer_url": "https://twitter.com/ADSBFlightTrkr",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$10.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8Hswb9vsyyrUtF3TeNvZrTkvV3Sc4WTqmoSP3Pd-fmtM7B32kW3AzRM6srBPTKFjSt4",
+    "installs": "100,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 2146,
+    "score": "3.5",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/gXUtcLvhNRj36xYOQIOVUN6P-n75ap91OXnnHjXVPXFtnO6Ot5V6RbWkwiPnCP3m7wRb=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/STVA1kbPaIUbvvcKq2GQxORH70nFB7fToxx5QEjykvwNobooHrz2WQ8h1RRMrRrEGiU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZWkwnLohvLHhI5rOlc08DkdIRgc38CC1_tRGAJ-JiCZ_OBn1dAM8EkfnwtFddV1YZ0o=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zWj3hQ0Bp9zKQfyrVXFazKEOWrh-PfLDIehyW72-0I5UQs9A2BB_MPQ0Sn6qBTBaNA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fUXmmZAUNP5PcIWw_-Pyt8Iwgb01SnLhlpygYoWJYxqX2JeJZaxyNWoRkIF4RAfxow=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MvY2BJ9AO_BPiaaFAIA9yMTdtmBRWmbtjxTvoR9kkaGsbcaQ1W_-qaAqECLQiDJLZA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pwIRvux2-Biqcr07gDO3DhMQ16qEUIre6JpsL2Y7S4h7ZAzFBNAl-6Be-kjQB-FqyA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7f9eB-5t3zPRxuAflVrbSaJhx2N3IzoJeWMnM2ZHp7TDN6mZiTQ7CjcNdIojXTZ7Odo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4zVywRVfCAtXvBk32-93yzpTwPCbOxER3G_Lqsam7GZ7aB0Kw6wqtbU6xxQvmoUwBGI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/lwdRxAS5SLFbDOT9pOSeWnVYorMulRMgXY2YdAeDXx3Yh1HeHcekS7qfLGYX6DB1p-On=w720-h310-rw"
+    ],
+    "size": "96M",
+    "title": "ADSB Flight Tracker",
+    "updated": "August 24, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.enthusiasticcoder.adsbflightmonitor&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/e6CCppZg-Sg"
+}

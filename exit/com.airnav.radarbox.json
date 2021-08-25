@@ -1,0 +1,56 @@
+{
+    "app_id": "com.airnav.radarbox",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "2.3.0",
+    "description": "Welcome aboard the live flight tracking and airport status app with alerts. It\u2019s one of the best flight radar with the most accurate coverage worldwide.\nDownload the app for free and know the exact current position of every plane in the sky in real-time!\nWhy is RadarBox the best and most accurate?\nMost airplanes today are equipped with ADS-B transponders (Automatic Dependent Surveillance-Broadcast radio transmitter-responders) that transmit their position - latitude, longitude, altitude - speed and the aircraft unique identifier. AirNav Systems designs, produces and distributes ADS-B radio receivers. We maintain a network of more than 9.000 receivers (and counting) all over the world. With a team of aviation technology experts working in the constant optimization of the platform signal processing capabilities AirNav RadarBox is the best and most accurate flight tracker available.\nFeatures:\n- Get individual live flight information and see an airplane photo of any aircraft that is in the sky.\n- Check flight details like aircraft make and model, route, altitude, position, speed and all the nitty-gritty. Even specific photos for each aircraft!\n- See the last 7 days of flight information and watch replays of past flights.\n- Know all arrival and departure flights of any airport and its status: if it's delayed, still in flight, in taxi and any status information provided by the airplane squawk code.\n- Know the current weather conditions and delays and other service stats of any airport.\n- Search flights through flight number, company, airport, altitude and speed.\n- Multi-source data: we get data from ADS-B, ASDI (US radar-based flight information), Oceanic, Satellite and Estimated and cross-reference several data points to give you the most accurate information.\n- You can listen in on 10 minutes of radio transmission chatter from control towers.\n- Multi-device platform: Android and Web/Desktop (https://www.radarbox.com/).\nPro Features\n- Ad-free experience. If you subscribe a premium plan you won't see or hear any ads.\n- Continuous real-time flight tracking. No map timeouts after ten minutes.\n- Listen in on 1 hour of radio transmission chatter from any control tower.\n- Full flight details. Get the full flight speed and altitude graph.\n- Get Terrain, Satellite and Hybrid map layers.\n- See the last 30 days of information and watch replays of past flights.\n- Get priority support.\nPilot Features\nSame feature set as Spotter plan, plus:\n- Listen to radio transmission chatter from any control tower. Unlimited.\n- Get Terrain, Satellite, Hybrid and SkyVector map layers.\n- Add a weather layer to the map to know current weather conditions everywhere.\n- Add a map layer with Air Traffic Control Boundaries.\n- See the last 90 days of information and watch replays of past flights.\n- Remove distracting information in Fullscreen Mode.\n- Advanced filtering. See only what you want.\n- Download raw data (limited to 10 downloads per month).\nBusiness\nSame feature set as Pilot plan, plus:\n- See 365 days of information and watch replays of past flights.\n- Add flights to a list and track your fleet.\n- Airport view: know all flights arriving or departing from an airport as well as other status information about each airport such as weather and visibility conditions.\n- Download raw data (limited to 100 downloads per month).\nHave a safe flight, you are cleared for take-off!\nMake a blip in our radar or throw us your paper airplane:\nEmail: support@radarbox24.com\nFacebook: fb.com/radarbox24\nTwitter: @radarbox24\"",
+    "description_html": "<b>Welcome aboard the live flight tracking and airport status app with alerts. It\u2019s one of the best flight radar with the most accurate coverage worldwide. </b> Download the app for free and know the exact current position of every plane in the sky in real-time! <br/><br/>Why is RadarBox the best and most accurate?<br/><br/>Most airplanes today are equipped with ADS-B transponders (Automatic Dependent Surveillance-Broadcast radio transmitter-responders) that transmit their position - latitude, longitude, altitude - speed and the aircraft unique identifier. AirNav Systems designs, produces and distributes ADS-B radio receivers. We maintain a network of more than 9.000 receivers (and counting) all over the world. With a team of aviation technology experts working in the constant optimization of the platform signal processing capabilities AirNav RadarBox is the best and most accurate flight tracker available.<br/><br/><b>Features:</b><br/><br/>- Get individual live flight information and see an airplane photo of any aircraft that is in the sky.<br/>- Check flight details like aircraft make and model, route, altitude, position, speed and all the nitty-gritty. Even specific photos for each aircraft!<br/>- See the last 7 days of flight information and watch replays of past flights.<br/>- Know all arrival and departure flights of any airport and its status: if it's delayed, still in flight, in taxi and any status information provided by the airplane squawk code.<br/>- Know the current weather conditions and delays and other service stats of any airport.<br/>- Search flights through flight number, company, airport, altitude and speed.<br/>- Multi-source data: we get data from ADS-B, ASDI (US radar-based flight information), Oceanic, Satellite and Estimated and cross-reference several data points to give you the most accurate information.<br/>- You can listen in on 10 minutes of radio transmission chatter from control towers.<br/>- Multi-device platform: Android and Web/Desktop (https://www.radarbox.com/). <br/><br/><br/><b>Pro Features </b><br/><br/>- Ad-free experience. If you subscribe a premium plan you won't see or hear any ads.<br/>- Continuous real-time flight tracking. No map timeouts after ten minutes.<br/>- Listen in on 1 hour of radio transmission chatter from any control tower.<br/>- Full flight details. Get the full flight speed and altitude graph.<br/>- Get Terrain, Satellite and Hybrid map layers.<br/>- See the last 30 days of information and watch replays of past flights.<br/>- Get priority support.<br/><br/><br/><b>Pilot Features </b><br/>Same feature set as Spotter plan, plus:<br/>- Listen to radio transmission chatter from any control tower. Unlimited.<br/>- Get Terrain, Satellite, Hybrid and SkyVector map layers.<br/>- Add a weather layer to the map to know current weather conditions everywhere.<br/>- Add a map layer with Air Traffic Control Boundaries.<br/>- See the last 90 days of information and watch replays of past flights.<br/>- Remove distracting information in Fullscreen Mode.<br/>- Advanced filtering. See only what you want.<br/>- Download raw data (limited to 10 downloads per month).<br/><br/><b> Business</b><br/><br/>Same feature set as Pilot plan, plus:<br/>- See 365 days of information and watch replays of past flights.<br/>- Add flights to a list and track your fleet.<br/>- Airport view: know all flights arriving or departing from an airport as well as other status information about each airport such as weather and visibility conditions.<br/>- Download raw data (limited to 100 downloads per month).<br/><br/>Have a safe flight, you are cleared for take-off!<br/><br/><br/>Make a blip in our radar or throw us your paper airplane:<br/>Email: support@radarbox24.com<br/>Facebook: fb.com/radarbox24<br/>Twitter: @radarbox24\"",
+    "developer": "AirNav Systems LLC",
+    "developer_address": "AirNav Systems LLC,\n1228 East 7th Avenue\nTampa, FL 33605\nUSA",
+    "developer_email": "support@radarbox24.com",
+    "developer_id": "AirNav+Systems+LLC",
+    "developer_url": "https://www.radarbox.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$2.49",
+        "$399.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/GAut5JqAjSG5XOI8OsahLmXV0R5yIER5WywobZ2ECxJyc3-DumFOgwkht2YDLkSzkAM",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "In-App Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.2 and up",
+    "reviews": 215,
+    "score": "4.6",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/UPO6G76fV6qDTFdi5eDfMy5LG8XEkOnyfY2FnWOiWWljWgJHGkKcJxTGZfR-xjn9v1g=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/zLmu6iSmG4wRU3qR75TYeDeUrwXmCCANwOpz7SBCJ3c30snxCkNF-ba_Bpff2SyVc5Qs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/msk9tV8YSYQvm9hYVrSFvV1q2eOQmFc4HvD0t8QMwBC54uZQWVdGz9mJJF9QqlxEDYA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1s4SC3i-2Gc7ZuniNF_nZKQ7uet6iv9b7aFvTm3YGKCIbvYtSCUTQJu7Se1TgEIwA0c=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/dmHEULG48COTjQaMrBXchA2SJTp1wYbbHpREBbVbujejNam1ThEgGpaFMV14e-nLW2A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/_GuquTQhsUdE1MSZYBf-nV1zUI9ZKIXk7jTTQOTOK_5hSj-wSNjbj775ERdQbp-srIwW=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LG07P1HyG9Lt5UuaaCX6-T5aqebVq7iwXNfVm1VVygxuWdFyYkpFAb39wIHO6IWe=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/i5ojKO5R16Hk7ijflLQeIFnV6sczNFiS95MkcmaUU3Jqrbd2h8DRICIjhtCffaC09ak=w720-h310-rw"
+    ],
+    "size": "20M",
+    "title": "RadarBox \u00b7 Live Flight Tracker & Airport Status",
+    "updated": "June 17, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.airnav.radarbox&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/vB9zod1aJZI"
+}

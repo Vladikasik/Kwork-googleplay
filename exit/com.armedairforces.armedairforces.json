@@ -1,0 +1,72 @@
+{
+    "app_id": "com.armedairforces.armedairforces",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone 10+",
+        "Mild Violence"
+    ],
+    "current_version": "1.054",
+    "description": "Armed Air Force realistic flight simulator offers all-embracing combat flight simulation experience on mobile devices. Finally you can play PC quality combat game anywhere and anytime you wish. Enjoy dogfight or generate air to ground mission in seconds.\n!!! PLEASE MEET THE MINIMAL REQUIREMENTS TO AVOID APP CRASHES !!!\n- devices with at least 3GB RAM (4GB RAM and more recommended)\n- high performance modern devices with 64-bit architecture recommended\nArmed Air Force jet fighter combat flight simulator contains many details that have not been in a mobile game before!\nExplore huge scenery with detailed cities and infrastructure in modern jet fighter aircraft or ww2 legendary fighter.\nStart a quick Dogfight to test your air combat skill or generate some ground targets to make a quick bombing mission. Or just take-off and enjoy free flight.\nBecome a military fighter pilot and take an advantage of the unique opportunity to control modern jet fighter like F-22 Raptor, F-16C, A-10C, F-35 Lightning II, Mirage 2000C, AV-8B Harrier II, Super Tucano or legendary BF-109 Messerchmitt.\nFEATURES:\n\u2022 Simple mission generator for quick fight (enemy aircrafts, vehicles, buildings)\n\u2022 Dogfight mode\n\u2022 Record your flight mode (you can record your flight and use it later as AI plane for formation flights)\n\u2022 Every aircraft features detailed 3D cockpit with working instruments, HUD or mfd displays.\n\u2022 Every aircraft carries real armament.\n\u2022 Every aircraft has it's own physics, aerofoil and limits.\n\u2022 Choose time of the day.\n\u2022 VTOL flight modes for F-35 Lightning II and AV-8B Harrier II\n\u2022 High-end graphics targeted for newest devices (also optimized for older devices)\n\u2022 HOT or COLD start (from taxi)\n\u2022 continued development bringing updates with new content\n----------------------------------------------\nPlease check Armed Air Forces facebook page for latest news and requests: facebook.com/armedairforce\n----------------------------------------------\nFeel free to contact me about your feedback, requests, issues, anything..\nDon't forget to try also helicopter game AIR CAVALRY - COMBAT HELICOPTER SIMULATOR",
+    "description_html": "Armed Air Force realistic flight simulator offers all-embracing combat flight simulation experience on mobile devices. Finally you can play PC quality combat game anywhere and anytime you wish. Enjoy dogfight or generate air to ground mission in seconds.<br/><br/>!!! PLEASE MEET THE MINIMAL REQUIREMENTS TO AVOID APP CRASHES !!!<br/>- devices with at least 3GB RAM (4GB RAM and more recommended)<br/>- high performance modern devices with 64-bit architecture recommended<br/><br/>Armed Air Force jet fighter combat flight simulator contains many details that have not been in a mobile game before! <br/><br/>Explore huge scenery with detailed cities and infrastructure in modern jet fighter aircraft or ww2 legendary fighter. <br/>Start a quick Dogfight to test your air combat skill or generate some ground targets to make a quick bombing mission. Or just take-off and enjoy free flight.<br/><br/>Become a military fighter pilot and take an advantage of the unique opportunity to control modern jet fighter like F-22 Raptor, F-16C, A-10C, F-35 Lightning II, Mirage 2000C, AV-8B Harrier II, Super Tucano or legendary BF-109 Messerchmitt. <br/><br/>FEATURES:<br/>\u2022 Simple mission generator for quick fight (enemy aircrafts, vehicles, buildings)<br/>\u2022 Dogfight mode<br/>\u2022 Record your flight mode (you can record your flight and use it later as AI plane for formation flights)<br/>\u2022 Every aircraft features detailed 3D cockpit with working instruments, HUD or mfd displays. <br/>\u2022 Every aircraft carries real armament.<br/>\u2022 Every aircraft has it's own physics, aerofoil and limits.<br/>\u2022 Choose time of the day.<br/>\u2022 VTOL flight modes for F-35 Lightning II and AV-8B Harrier II<br/>\u2022 High-end graphics targeted for newest devices (also optimized for older devices)<br/>\u2022 HOT or COLD start (from taxi)<br/><br/>\u2022 continued development bringing updates with new content<br/><br/>----------------------------------------------<br/>Please check Armed Air Forces facebook page for latest news and requests: facebook.com/armedairforce<br/>----------------------------------------------<br/>Feel free to contact me about your feedback, requests, issues, anything..<br/><br/>Don't forget to try also helicopter game AIR CAVALRY - COMBAT HELICOPTER SIMULATOR",
+    "developer": "Flight Sim Studio",
+    "developer_address": "Dlouha  1108 Czech Republic",
+    "developer_email": "realmobilesimulation@gmail.com",
+    "developer_id": "Flight+Sim+Studio",
+    "developer_url": "http://www.realmobilesimulation.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "In-Game Purchases"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_FhnFwRtrvKQOIvI6Jhp4Z9NbeUGwC6SpY_hmf9a-cwFzqiIiShIU77zIgJa0_E-XA",
+    "installs": "50,000+",
+    "interactive_elements": [
+        "In-Game Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "8.0 and up",
+    "reviews": 77,
+    "score": "3.8",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/xKbKXB7ak_ZFCX0a9i99zYdo4_eTAHumYaHmPvquhrwS-NA770QRjeT-ncP0PcmhMtiW=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qi2Ie3FBCerEbJ2j0Rg8VolHbEaA3Auxqovnm9R3Y1dl4IT4jG1FP13Yz3ePv1GKDUo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5M0S_ajuKY8ytNb56Ysxr9DOxP3bha9AZ9Sybzjcpu2sww5SbGMm3YBcAln2UJzdkpY2=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/PNTkKkPQOc1mMmf-Y093A0cXhIMO7Xq64vKW0q5iTvY-g3TIawsjuXj5VAKlLBrrHg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jhqZb6BlS1LdjKHPWI-sQpzNH4pidSiTokWIt8xiagTsFaBxP9QGxXY_ombY8NXOrQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/YS6IuT-qQ_ONXMq-pby_xUjDPwAOppGC8Et4V0KAb5KCpLZ_QpbBChintClzR7_P-GMr=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mj-HvqHAOaLbRG7SEOfmLZ6FaYqO-Cz4gxsQXJ9YuVkRobadKCM5qrixrY8Rr1O1O0E=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Lg0_U807NCPRuVa59agQpexdTscyHhHWhXK_lTJJPdbyvlkRjcJTZyyP_xTTd21s-w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ok1QvxR85dr3LEa3AOFS3cfxMtvlRHC8HhOB3mgpifjX6TCtm9P0tj0EBNpEF9a6iac=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/i2u1-vIwKybIGkgvfUYaos0gL-CoX3pLDJF6DIj7vhBAZwE-T5JPm3VdG6zvZuo_cw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/VARaM7sLh9wvXvmc5RDuoJdhgkgds5tsQnSiTWqld7vDkMq8-aj8aDZi075yEkBRHbg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/q66BdftuOMfRNI46E_tMf96mWQ5ECy-fAtGOyjUcbfk3cY5QTIGhnE2Xxfd-WX4Ngw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ISahumnp4b94gSJ3SdSPcJrZkUjoewuHAKAL-rX6ao01VSRfk4juVSFteShLUGyyGc-Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xF08epwAqx00UfQ3gE4VzoYW27jtIoAC-agX5PVb3MhBucY7d-XkSfQ8O0Div9WfjWM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/bptWrAYJvp8YrU_hnTIuo0KFVxMp2t4DaGEP4Ym5Hdx02bJxqDuAPYj3-y6F3BnF2iLo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/GeE1MmjGzHsMe3hdVXroJTNeps-uIqbK7rnutZFAnrz0oSbGMLDxQvcjFj8H68b2oz4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8Rm0hT4qrRZi4YZ0PN3jmXSkyQIpMyy3h9BiQvLyr_toHVq74xUsgSiFWVL0kzkFzRUb=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/mNLf-KItxwkZwUhP3vzp0iA4anL-ipK7MMZiy6Lu_Or6j9CtWNkIZv7TGCADkXjH-At7=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/OcdEqYfvQIDQDpIax4hcSKuA_VSzV6hTzXAtxbSmIdTxaM7hlsBSDaoDXUjMWTnU_wU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5_WK0BceuU42a-sewCUIm5W0xNjPUm6PDT7s5S8m_A8dbQ6nlw84PmFkdXlsW5YLnRWL=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/QPzMOC9u9skUdkFDocHx3ZA6X0ZD7fgQYSBa79X8Q2IBg5l8JIBuTIQvH6C0B_H8jcdl=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2QkFTOlbTprmrZVmGIOjsvj1k45cBEWOyjtE6Nt96OnFUhEY4zkeXCaHbCna9Pke5XY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/E9Te2gOrvboUvLlWndFdYyqn0f_Dp9nWJPSm1MPp6o8OIk4AsdnDLNGCYFvWZvKVVdXG=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/jhbnL_tHwYvNBEjlWh6GQImXTTpLuvsiuYdtVH49xw_-PA0F2x5bi8-nIn6NL7X75mg=w720-h310-rw"
+    ],
+    "size": "37M",
+    "title": "Armed Air Forces - Jet Fighter Flight Simulator",
+    "updated": "April 18, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.armedairforces.armedairforces&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": "https://www.youtube.com/embed/5pY07b9v1Nw"
+}

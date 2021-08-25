@@ -1,0 +1,58 @@
+{
+    "app_id": "deals.cheapflights.booking",
+    "category": [
+        "TRAVEL_AND_LOCAL"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.0.1",
+    "description": "Want to go for a trip for another country? Hundreds of tickets of more than 120 companies is waiting for you now!\nOur air tickets booking app can help to find a good flight in few minutes. All what we want is to help you with booking a cheap flight.\nWhy should I choose this app?\n\u2022 This app will easily choose the best. and cheapest ticket for a plane.\n\u2022 Single or return - doesn't matter.\n\u2022 Plane tickets of the most popular air companies.\n\u2022 Actual flight deals.\n\u2022You can track prices online.\n\u2022 All tickets in your smartphone.\n\u2022 Lots of searching filters will help you to find a ticket which will be the best for you.\n\u2022 It saves your money!\nAnother advantage is that you can compare all suggestions and choose the cheapest ticket. You can find a time and date which will be more comfortable for you\nThis app has a really practical interface. It's fast and easy in using\nHow to use?\n1. Choose a searching method.\n2. Choose a place of departure and destination.\n3. Choose a time of departure and arrival.\n4. Choose the price category.\n5. Use filters.\nAnd then just search and choose the flight you like more!\nAll information about the flight in your hand, that's the main idea of this app\nWe wish you a good trip and thanks for choosing this app!",
+    "description_html": "Want to go for a trip for another country? Hundreds of tickets of more than 120 companies is waiting for you now!<br/>Our air tickets booking app can help to find a good flight in few minutes. All what we want is to help you with booking a cheap flight.<br/>Why should I choose this app?<br/>\u2022 This app will easily choose the best. and cheapest ticket for a plane.<br/>\u2022 Single or return - doesn't matter.<br/>\u2022 Plane tickets of the most popular air companies.<br/>\u2022 Actual flight deals.<br/>\u2022You can track prices online.<br/>\u2022 All tickets in your smartphone.<br/>\u2022 Lots of searching filters will help you to find a ticket which will be the best for you.<br/>\u2022 It saves your money!<br/>Another advantage is that you can compare all suggestions and choose the cheapest ticket. You can find a time and date which will be more comfortable for you<br/>This app has a really practical interface. It's fast and easy in using<br/>How to use?<br/>1. Choose a searching method.<br/>2. Choose a place of departure and destination.<br/>3. Choose a time of departure and arrival.<br/>4. Choose the price category.<br/>5. Use filters.<br/>And then just search and choose the flight you like more!<br/>All information about the flight in your hand, that's the main idea of this app<br/>We wish you a good trip and thanks for choosing this app!",
+    "developer": "Cheap Flights Booking Company Ltd.",
+    "developer_address": null,
+    "developer_email": "ar.aleksan.ian@gmail.com",
+    "developer_id": "Cheap+Flights+Booking+Company+Ltd.",
+    "developer_url": "https://traveel.ru/PrivacyPolicyCheapFlightsApp.html",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/EsEutvHtDrzmifTgSP8TLfJu9taBXt5lmPJIKREBF5_EbKXkly3v5-GejsYor4UJy9o",
+    "installs": "10,000+",
+    "interactive_elements": null,
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 13,
+    "score": "3.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/5W176vp_SNO-9nrsdvPU_qfr4J2J_KgVMMCtVP2jtl-1Y-K1FlpmBpoRJhKFXbKthwFH=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/edMnm4FX30EmLcU71JUsd11CWHTAE1zEAjXuoZRoRNqiLbGfONmbuNX1J6C2JjuS=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UYwWPx2Hqdh4HYNFZUzbH9EYKHl8quE1_HX3ve2q0DKuYzVl3xzWibzAkxcLfJrftKM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gumG7hNM_Ek7-pLp5c1MYs60qttUsdbAy3UaMTMgMZe-OoO56HM1I_TJ7JRvwNI3zQA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SwL5pg1CJId3byf5i36iwbFl0jLPdqMhVrhoG9CTU8RaVFE9HF3B9cKixyx3IeAhRhw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/fK7AXlBZUAwE612awzV66ZU95pbW2nGZ6jY7pPjc-HsqXLhyRP733Sp0y-2S8t1KSo4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2dTXgFQmy7WiPNZ4hHdCHRwS2uPEa_2YO7mX7l6GdnoNYKIrSgjotjEYSYI9gnKwSg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/qDi28SsUHwgB7ratsLJpDB_tjKca4hJ2kzR4_TReEwaJoZTRUlf0aHM49GOOBAxD8KI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SrIiQKzrn2_UhI-EiAAO8gjDMBdzZNuY7fJTE16f9t0kAv8XQOfe2O9x9YJ299G0UDAr=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/XigzbEkQ1xPjC37vCL0PzrONxPwMygqKOJQY9sXoY4-rT5D-3Kxyhh2zLVj8xdwwJzI=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/AAjMoIh6NaMK2S0EZBrSpQxoXzwnjVNWkWfeqgoj1oIUGVu9oYHR7levi-6yybWZxt-R=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/MheETAePK-AwHQbDg47tQMYqe-xy1obbfPK_b6g6vDaXRO8O7JeXT3QOmPIrlMVjlw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Z__Jds77_QJyh8SAxnaG265_JqBdTuo9MIeVskYl7M4XrcBh7cXi14e79Th-tvJg-A=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Xk9rjq9u1zsYnOW9p05nN9U2HeCAwteZeEoAqqjlEMi3RjFp1rZNjsJJg9nKDfFCih8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/aeKQM4z_ZxEmMfOQt4-h9jiKBJoh1PUA1cZ8CjXbBaphX0KX22K3GHu5NJKHbM3ifwA=w720-h310-rw"
+    ],
+    "size": "35M",
+    "title": "Cheap Tickets and Flights",
+    "updated": "April 15, 2021",
+    "url": "https://play.google.com/store/apps/details?id=deals.cheapflights.booking&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}

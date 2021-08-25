@@ -1,0 +1,49 @@
+{
+    "app_id": "com.cars.android",
+    "category": [
+        "AUTO_AND_VEHICLES"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "8.0.2.177",
+    "description": "Shopping for a new or used car or truck? Ready to meet your match? Download the free Cars.com app to find the perfect car for you today. Shop the best deals with access to millions of listings, over 10 million reviews, and tools to calculate payments on cars you like. Focused search filters help you zero in on the best new and used cars and trucks for sale near you.",
+    "description_html": "Shopping for a new or used car or truck? Ready to meet your match? Download the free Cars.com app to find the perfect car for you today. Shop the best deals with access to millions of listings, over 10 million reviews, and tools to calculate payments on cars you like. Focused search filters help you zero in on the best new and used cars and trucks for sale near you.",
+    "developer": "Cars.com",
+    "developer_address": null,
+    "developer_email": "feedback@cars.com",
+    "developer_id": "Cars.com",
+    "developer_url": "https://www.cars.com/",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": false,
+    "iap_range": null,
+    "icon": "https://play-lh.googleusercontent.com/McmeI3f0Y7ZiElHT9n5_UC0jmjnXZA0_OoNsMEvIdEke3M-AUgy2xqun2rhVPryUHA",
+    "installs": "5,000,000+",
+    "interactive_elements": [
+        "Users Interact"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "6.0 and up",
+    "reviews": 53589,
+    "score": "4.4",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/uafKgT9CXye_GjRIdpNMhdtIkNP0_8JiMYf4L5-C3kwmLoM-_fzuNae9K7sf-CgccgzJ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pnN2CWn3KidoEGEbM6ENoV88lqcx7uDSlKXhSDnzX3yon4IJwT58_bliry6BEW3r3KU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/5e9UBFte1sWUKSvaEJOcC7p6iTFv7cgpmiFUESOxdL-GWHbbrn7uAIJ_fj1pPAp4h1c=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/iVUNRC8ISyG5DXKnqUJ5iudtcZyqehW2V9w_naeylSUjtXRB8GpypuBtp7GkMTrSt4BS=w720-h310-rw"
+    ],
+    "size": "19M",
+    "title": "Cars.com \u2013 New & Used Vehicles",
+    "updated": "July 21, 2021",
+    "url": "https://play.google.com/store/apps/details?id=com.cars.android&hl=en&gl=us&q=car%250A&c=apps",
+    "video": null
+}

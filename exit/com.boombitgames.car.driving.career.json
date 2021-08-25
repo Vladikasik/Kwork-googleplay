@@ -1,0 +1,63 @@
+{
+    "app_id": "com.boombitgames.car.driving.career",
+    "category": [
+        "GAME_RACING"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.15",
+    "description": "Car Drivers Online is an open world multiplayer driving game that focuses on unique driving challenges and opportunities! Start your career, completing multiple varied missions in a huge city environment!\nFEATURES:\n\u25b6 MULTIPLE CARS IN VARIED CATEGORIES: Drive sedans, SUVs, sports cars & more\n\u25b6 HUGE OPEN MAP: Discover a realistic city!\n\u25b6 SEAMLESS MULTIPLAYER: Meet other players as you drive\n\u25b6 MULTIPLE CAREER PATHS: Become a race driver, a policeman and more coming soon!\nCar Drivers Online lets you explore a huge, busy city environment and shape your path through all steps to become a true pro driver! Driving around an open world you will discover missions and challenges to complete.\nProve your driving skill in varied challenges and race other players to show your dominance! Collect cool cars, upgrade and customize them with your earnings!\nThe game features an extensive multiplayer functionality. Meet other players and challenge them to races around the city!\nCar Drivers Online will be regularly updated with new content, cars, missions and more!",
+    "description_html": "Car Drivers Online is an open world multiplayer driving game that focuses on unique driving challenges and opportunities! Start your career, completing multiple varied missions in a huge city environment!<br/><br/>FEATURES:<br/>\u25b6 MULTIPLE CARS IN VARIED CATEGORIES: Drive sedans, SUVs, sports cars &amp; more<br/>\u25b6 HUGE OPEN MAP: Discover a realistic city!<br/>\u25b6 SEAMLESS MULTIPLAYER: Meet other players as you drive<br/>\u25b6 MULTIPLE CAREER PATHS: Become a race driver, a policeman and more coming soon!<br/><br/>Car Drivers Online lets you explore a huge, busy city environment and shape your path through all steps to become a true pro driver! Driving around an open world you will discover missions and challenges to complete.<br/><br/>Prove your driving skill in varied challenges and race other players to show your dominance! Collect cool cars, upgrade and customize them with your earnings!<br/><br/>The game features an extensive multiplayer functionality. Meet other players and challenge them to races around the city!<br/><br/>Car Drivers Online will be regularly updated with new content, cars, missions and more!",
+    "developer": "Play With Games",
+    "developer_address": "15 Spinnaker Quay\nMount Batten\nPlymouth\nDevon\nPL9 9SA\nUnited Kingdom",
+    "developer_email": "info@playwithgames.com",
+    "developer_id": "Play+With+Games",
+    "developer_url": "http://playwithgames.com",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$0.99",
+        "$39.99"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/NqggYvXYSf3Dye35OrmF3nIyYr1w5lgKEPGUHjpNW4lqIO-qP7jpg_PMxxTGA-4oOYqu",
+    "installs": "1,000,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "5.0 and up",
+    "reviews": 5676,
+    "score": "3.8",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/z92PwRhCni0bRIFfUm_a4vVNf6Kf7jDiKLT67RGPjSlJJfv69Eb1iW7YGKf3QVq4Y9Ur=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/NgVAoIrcYHPcYnBkPOB4SNbM7kRnvVg20m22R-R-JvmEopkdD4nGqxuhtaREJE-X0II=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/k3DMoG4ZXVb_NG3RId4uEfyct5idT_32wb5BbmVTAYEVE7YOjbvmpmr6wOsCbC8LcA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/29BA-PR5vei_Efdsaoq3RbvizWplh5A9yyNK_Khvd1K2hJBitqeqiWy-IpcfzXuvgqU=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/4WHusuwZG2cGSzCvzDVW8tKL-o6PEY1W4dkR-aMOQu6dpxFhUFB2E3XrEFfNtnw8aDo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/2r8Gy2d-0wy8FFTpXwQ7nOfLCasHI7DPze_z1uWX2GxZc1LLOMTCvjH-S-ByYBv4Boc=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/R85x_ngX-8yVrwnVeqUBia5o9QnKKzExjik2QpNWJmgeU1tvPUOnbxooGYnzKdnZmsE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/7iD33pq13RyW8rSSJXOOcEpGZvcqlj3sfDAyw7oLA6MNGwKZcyC6Od95rPO3SK6x3Q=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/0uRxhOcWmiF39ilq5zyXUvq9kMQro7pqQhBy0xLBQNOYNqcN5wiLH4oWlPv92DQj7KJs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/I25jlidCAkCGLNcKvCjVhiomNi5gnFH1MXmYV6UUN4CSPUviOKiL4wGcOWpZI9RiYTQ=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/iw4-ci9hIwpdloWCo0Vza79G_6uYrOgEWomOazozeMkf6Mbihtx9fi4xOe3ilyOQ-T4=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/ZvcyRl9EVb_YcLGRnEp1IbSfynqfeb8Och3lSUrrH8gDudmpNUOBYm1BhnWDgyVxhg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/gqz0bElZo8iV3W0o19Yzj6-9wqxySbHC8O62d11rm-g8R_bWTjrZ4soLvDharlAo=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xo0m0VwIkqpvToYOPxLwAeqUrjnm8rEd5IyExuNBHgiI5rMO6WM8UXElnGe_lh84tSRm=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/eWWU0nUb_1SL9BPjOPWcIrMckCHjWDFrQERULhQ-f-IpVhf1q6BRNjabA1QAxaQgClQj=w720-h310-rw"
+    ],
+    "size": "57M",
+    "title": "Car Drivers Online: Fun City",
+    "updated": "July 28, 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.boombitgames.car.driving.career&hl=en&gl=us&q=car%250A&c=apps",
+    "video": "https://www.youtube.com/embed/ILxmuGE60lI"
+}

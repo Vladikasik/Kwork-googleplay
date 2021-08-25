@@ -1,0 +1,63 @@
+{
+    "app_id": "com.greatplanes.rfmobile",
+    "category": [
+        "GAME_SIMULATION"
+    ],
+    "content_rating": [
+        "Everyone"
+    ],
+    "current_version": "1.3",
+    "description": "Everyone has dreamed of flying R/C and with the RealFlight Mobile app, you can. Experience the fun of flight from the comfort of the ground. It\u2019s based on the award-winning and very popular desktop Real Flight RC Simulator and it is fun for any age and any skill level. Click the download button and fly today!\n\u2022 3D flying sites\n\u2022 Fully rendered 3D models\n\u2022 Customize physics and camera settings\nFling compatible. Learn more about Fling at http://tenonedesign.com/fling",
+    "description_html": "Everyone has dreamed of flying R/C and with the RealFlight Mobile app, you can. Experience the fun of flight from the comfort of the ground. It\u2019s based on the award-winning and very popular desktop Real Flight RC Simulator and it is fun for any age and any skill level. Click the download button and fly today!<br/><br/>\u2022 3D flying sites<br/>\u2022 Fully rendered 3D models<br/>\u2022 Customize physics and camera settings<br/><br/>Fling compatible. Learn more about Fling at http://tenonedesign.com/fling",
+    "developer": "Horizon Hobby, LLC",
+    "developer_address": "2904 Research Road\nChampaign, IL 61822",
+    "developer_email": "rfsupport@greatplanes.com",
+    "developer_id": "Horizon+Hobby,+LLC",
+    "developer_url": "http://www.realflight.com/mobile",
+    "editors_choice": false,
+    "free": true,
+    "histogram": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "iap": true,
+    "iap_range": [
+        "$1.99",
+        "$12.95"
+    ],
+    "icon": "https://play-lh.googleusercontent.com/5dWUcTn6uGV0LEWbrUK7ts4X4oeKxAJBNKoFLsPMg5mYH6-z8s1wez-MlRsctRiKXHU",
+    "installs": "100,000+",
+    "interactive_elements": [
+        "Digital Purchases"
+    ],
+    "price": "0",
+    "recent_changes": null,
+    "required_android_version": "4.0.3 and up",
+    "reviews": 984,
+    "score": "3.7",
+    "screenshots": [
+        "https://play-lh.googleusercontent.com/ZUUTWG6ai780q9SG6chk7U-yY_qnqdYvO6IUGzzayYT0H-Ob4Qlh1o7JNPkbXB9DXtw5=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/Im1CBy0rZJ2jQVjDK_zePcuvbu66Fup7uubD50MF32vWpTBI_e_jIVSo7hZxdZ3KIg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/1tns9Bw0YYvD6aBwFt0v-7Ic61WoRd3K4aQIytCmOK8Zor-9Xr333USdAIxDthX_0Jw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/rp5-tU4YEE1PFRT2QBH4PzKq3M78o7i0fhYkQnyLXLvTRefEC2fF1p5ns6ggpX__Vn26=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/oncuuNAVQdca-hgZkUKeRUxx4Xy4vWuFKUp2_RFZ1U3YMnCpss2oi3b3Bbs8BimxARM=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/xrbGOjDWPWcjpCNNNbbzGJFkS-9sE0ek7bpyxOsftO2We2-nXcQXENHyiB8ElKv_zGw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/LNQN7r1A_3K7aSShCsO7mCxq5gwLJy7wHN_-3_d3MJBmLlARVpEKgRPwojlVjUBDsYmp=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pFcsOyVFkUX1MonMN8guqq4oRRAW74mw2hVt-xWt7_JqnBeqooAQdrZ9I0941o1qPA=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/32NXPSdobSO3CGMyO45WpQZSe_Aew_AOOigrbZAuwtYf6mHy8tDqIrUC72EE5sFEHwk=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/nNwIdG2Aoskf-LU2OL9WNRotNwcWxTKxIWxcQSxCgdT5Z0SA80hZV58X7TPApSTMQlE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/SecWCtGIKXWEFVx_2bsk7ysEQP85WhE0kNE2h6WLvNvoJt1iPtj67myjVgh97Y-I3Xg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/r99rBDO-I_xfL3B5Ldwa2N8Y43qXIRu7de4uomDjnK1OkAbZlCu8tD49o-SyJsA1rNY=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/8BW6SLQf2Edzxx3yF8iCeJZ_OA63XPcDgQvYq0La53R5_5svntnBHpMJB5OQkBbaog=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IzVevQd7vyEcKbvYAgkZxYIIN3XKIOFoSm3RZLXYi67aCjnDmBbM5Kb-uJWMRirWjB8=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/V7y4NuXygsxOdp0RZ50GrASRUHff6unlOrJslHJ4SdvLBQfyUjW4BKstpyBd01ZjelDl=w720-h310-rw"
+    ],
+    "size": "11M",
+    "title": "RealFlight Mobile",
+    "updated": "July 21, 2016",
+    "url": "https://play.google.com/store/apps/details?id=com.greatplanes.rfmobile&hl=en&gl=us&q=flight%250A&c=apps",
+    "video": null
+}
